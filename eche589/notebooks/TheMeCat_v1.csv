@@ -1,0 +1,1125 @@
+﻿reference,doi_link,catalyst_name,catalyst_composition_available,starting_material_active_1,active_comp_1,active_1_percent,starting_material_2,active_comp_2,active_2_percent,support_comp_1,support_1_percent,support_comp_2,support_2_percent,catalyst_surface_area_m2_g,mean_pore_diameter_nm,temperature_k,pressure_bar,pH2_pCO2_ratio,GHSV_nlph_gcat,catalyst_load_g,CO2_conversion,selectivity_CH3OH,yield_CH3OH,STY_g_per_gcath
+Arena et al. (2007),https://doi.org/10.1016/j.jcat.2007.04.003,Cu(4)ZnO(4)/Al2O3(6) ,Yes,CuO,Cu,37.9,ZnO,ZnO,35.1,Al2O3,27,NA,NA,105,7.00,513,30,3,4.40,0.5,15.9,48.4,7.6956,0.1128
+Arena et al. (2007),https://doi.org/10.1016/j.jcat.2007.04.003,Cu(4)ZnO(4)/Al2O3(6) ,Yes,CuO,Cu,37.9,ZnO,ZnO,35.1,Al2O3,27,NA,NA,105,7.00,493,30,3,4.40,0.5,11.5,56,6.44,0.0944
+Arena et al. (2007),https://doi.org/10.1016/j.jcat.2007.04.003,Cu(4)ZnO(4)/Al2O3(6) ,Yes,CuO,Cu,37.9,ZnO,ZnO,35.1,Al2O3,27,NA,NA,105,7.00,473,30,3,4.40,0.5,6.4,72,4.61,0.0675
+Arena et al. (2007),https://doi.org/10.1016/j.jcat.2007.04.003,Cu(4)ZnO(4)/Al2O3(6) ,Yes,CuO,Cu,37.9,ZnO,ZnO,35.1,Al2O3,27,NA,NA,105,7.00,493,10,3,4.40,0.5,10.2,30.9,3.15,0.0462
+Arena et al. (2007),https://doi.org/10.1016/j.jcat.2007.04.003,Cu(4)ZnO(4)/Al2O3(6) ,Yes,CuO,Cu,37.9,ZnO,ZnO,35.1,Al2O3,27,NA,NA,105,7.00,473,10,3,4.40,0.5,5.5,53.8,2.96,0.0434
+Arena et al. (2007),https://doi.org/10.1016/j.jcat.2007.04.003,Cu(4)ZnO(4)/Al2O3(6) ,Yes,CuO,Cu,37.9,ZnO,ZnO,35.1,Al2O3,27,NA,NA,105,7.00,513,10,3,4.40,0.5,14.2,18.6,2.64,0.0387
+Arena et al. (2007),https://doi.org/10.1016/j.jcat.2007.04.003,Cu(3)ZnO(9)/ZrO2(6),Yes,CuO,Cu,18,ZnO,ZnO,48.8,ZrO2,33.2,NA,NA,147,7.30,513,30,3,4.40,0.5,17.5,48.4,8.47,0.1241
+Arena et al. (2007),https://doi.org/10.1016/j.jcat.2007.04.003,Cu(3)ZnO(9)/ZrO2(6),Yes,CuO,Cu,18,ZnO,ZnO,48.8,ZrO2,33.2,NA,NA,147,7.30,493,30,3,4.40,0.5,12.6,55.2,6.96,0.1020
+Arena et al. (2007),https://doi.org/10.1016/j.jcat.2007.04.003,Cu(3)ZnO(9)/ZrO2(6),Yes,CuO,Cu,18,ZnO,ZnO,48.8,ZrO2,33.2,NA,NA,147,7.30,473,30,3,4.40,0.5,6.5,70.9,4.61,0.0675
+Arena et al. (2007),https://doi.org/10.1016/j.jcat.2007.04.003,Cu(3)ZnO(9)/ZrO2(6),Yes,CuO,Cu,18,ZnO,ZnO,48.8,ZrO2,33.2,NA,NA,147,7.30,493,10,3,4.40,0.5,8.6,34.6,2.98,0.0437
+Arena et al. (2007),https://doi.org/10.1016/j.jcat.2007.04.003,Cu(3)ZnO(9)/ZrO2(6),Yes,CuO,Cu,18,ZnO,ZnO,48.8,ZrO2,33.2,NA,NA,147,7.30,473,10,3,4.40,0.5,4.1,59.5,2.44,0.0358
+Arena et al. (2007),https://doi.org/10.1016/j.jcat.2007.04.003,Cu(3)ZnO(9)/ZrO2(6),Yes,CuO,Cu,18,ZnO,ZnO,48.8,ZrO2,33.2,NA,NA,147,7.30,513,10,3,4.40,0.5,13.3,16.9,2.25,0.0330
+Arena et al. (2007),https://doi.org/10.1016/j.jcat.2007.04.003,Cu(12)/ZrO2(6),Yes,CuO,Cu,68.7,NA,NA,NA,ZrO2,31.3,NA,NA,118,7.40,513,30,3,4.40,0.5,17.6,48.8,8.59,0.1259
+Arena et al. (2007),https://doi.org/10.1016/j.jcat.2007.04.003,Cu(12)/ZrO2(6),Yes,CuO,Cu,68.7,NA,NA,NA,ZrO2,31.3,NA,NA,118,7.40,493,30,3,4.40,0.5,12.6,57.4,7.23,0.1059
+Arena et al. (2007),https://doi.org/10.1016/j.jcat.2007.04.003,Cu(12)/ZrO2(6),Yes,CuO,Cu,68.7,NA,NA,NA,ZrO2,31.3,NA,NA,118,7.40,473,30,3,4.40,0.5,7.2,70.2,5.05,0.0740
+Arena et al. (2007),https://doi.org/10.1016/j.jcat.2007.04.003,Cu(12)/ZrO2(6),Yes,CuO,Cu,68.7,NA,NA,NA,ZrO2,31.3,NA,NA,118,7.40,493,10,3,4.40,0.5,7.1,41.1,2.92,0.0428
+Arena et al. (2007),https://doi.org/10.1016/j.jcat.2007.04.003,Cu(12)/ZrO2(6),Yes,CuO,Cu,68.7,NA,NA,NA,ZrO2,31.3,NA,NA,118,7.40,513,10,3,4.40,0.5,11.4,25.2,2.87,0.0421
+Arena et al. (2007),https://doi.org/10.1016/j.jcat.2007.04.003,Cu(12)/ZrO2(6),Yes,CuO,Cu,68.7,NA,NA,NA,ZrO2,31.3,NA,NA,118,7.40,473,10,3,4.40,0.5,3.9,63,2.46,0.0360
+Arena et al. (2007),https://doi.org/10.1016/j.jcat.2007.04.003,Cu(10)ZnO(2)/ZrO2(6),Yes,CuO,Cu,53.3,ZnO,ZnO,13.7,ZrO2,33,NA,NA,163,11.80,513,30,3,4.40,0.5,16.5,45,7.43,0.1089
+Arena et al. (2007),https://doi.org/10.1016/j.jcat.2007.04.003,Cu(10)ZnO(2)/ZrO2(6),Yes,CuO,Cu,53.3,ZnO,ZnO,13.7,ZrO2,33,NA,NA,163,11.80,493,30,3,4.40,0.5,10.8,49.9,5.39,0.0790
+Arena et al. (2007),https://doi.org/10.1016/j.jcat.2007.04.003,Cu(10)ZnO(2)/ZrO2(6),Yes,CuO,Cu,53.3,ZnO,ZnO,13.7,ZrO2,33,NA,NA,163,11.80,473,30,3,4.40,0.5,6.2,66.9,4.15,0.0608
+Arena et al. (2007),https://doi.org/10.1016/j.jcat.2007.04.003,Cu(10)ZnO(2)/ZrO2(6),Yes,CuO,Cu,53.3,ZnO,ZnO,13.7,ZrO2,33,NA,NA,163,11.80,493,10,3,4.40,0.5,10,35.5,3.55,0.0520
+Arena et al. (2007),https://doi.org/10.1016/j.jcat.2007.04.003,Cu(10)ZnO(2)/ZrO2(6),Yes,CuO,Cu,53.3,ZnO,ZnO,13.7,ZrO2,33,NA,NA,163,11.80,473,10,3,4.40,0.5,5.8,55.2,3.2,0.0469
+Arena et al. (2007),https://doi.org/10.1016/j.jcat.2007.04.003,Cu(10)ZnO(2)/ZrO2(6),Yes,CuO,Cu,53.3,ZnO,ZnO,13.7,ZrO2,33,NA,NA,163,11.80,513,10,3,4.40,0.5,14.1,18,2.54,0.0372
+Arena et al. (2007),https://doi.org/10.1016/j.jcat.2007.04.003,Cu(10)ZnO(2)/ZrO2(6),Yes,CuO,Cu,53.3,ZnO,ZnO,13.7,ZrO2,33,NA,NA,163,11.80,433,30,3,8.80,0.5,2.3,99.8,2.2954,0.0673
+Arena et al. (2007),https://doi.org/10.1016/j.jcat.2007.04.003,Cu(10)ZnO(2)/ZrO2(6),Yes,CuO,Cu,53.3,ZnO,ZnO,13.7,ZrO2,33,NA,NA,163,11.80,453,30,3,8.80,0.5,4.3,89.7,3.8571,0.1130
+Arena et al. (2007),https://doi.org/10.1016/j.jcat.2007.04.003,Cu(10)ZnO(2)/ZrO2(6),Yes,CuO,Cu,53.3,ZnO,ZnO,13.7,ZrO2,33,NA,NA,163,11.80,473,30,3,8.80,0.5,7.2,75.4,5.4288,0.1591
+Arena et al. (2007),https://doi.org/10.1016/j.jcat.2007.04.003,Cu(10)ZnO(2)/ZrO2(6),Yes,CuO,Cu,53.3,ZnO,ZnO,13.7,ZrO2,33,NA,NA,163,11.80,433,10,3,8.80,0.5,0.72,99.8,0.71856,0.0211
+Arena et al. (2007),https://doi.org/10.1016/j.jcat.2007.04.003,Cu(10)ZnO(2)/ZrO2(6),Yes,CuO,Cu,53.3,ZnO,ZnO,13.7,ZrO2,33,NA,NA,163,11.80,453,10,3,8.80,0.5,1.7,82.4,1.4008,0.0410
+Arena et al. (2007),https://doi.org/10.1016/j.jcat.2007.04.003,Cu(10)ZnO(2)/ZrO2(6),Yes,CuO,Cu,53.3,ZnO,ZnO,13.7,ZrO2,33,NA,NA,163,11.80,473,10,3,8.80,0.5,3.5,64,2.24,0.0656
+Arena et al. (2007),https://doi.org/10.1016/j.jcat.2007.04.003,Cu(4)ZnO(4)/Al2O3(6) ,Yes,CuO,Cu,37.9,ZnO,ZnO,35.1,Al2O3,27,NA,NA,105,7.00,433,30,3,8.80,0.5,2.6,90.3,2.3478,0.0688
+Arena et al. (2007),https://doi.org/10.1016/j.jcat.2007.04.003,Cu(4)ZnO(4)/Al2O3(6) ,Yes,CuO,Cu,37.9,ZnO,ZnO,35.1,Al2O3,27,NA,NA,105,7.00,453,30,3,8.80,0.5,4,74.7,2.988,0.0876
+Arena et al. (2007),https://doi.org/10.1016/j.jcat.2007.04.003,Cu(4)ZnO(4)/Al2O3(6) ,Yes,CuO,Cu,37.9,ZnO,ZnO,35.1,Al2O3,27,NA,NA,105,7.00,473,30,3,8.80,0.5,7.3,49.6,3.6208,0.1061
+Arena et al. (2007),https://doi.org/10.1016/j.jcat.2007.04.003,Cu(4)ZnO(4)/Al2O3(6) ,Yes,CuO,Cu,37.9,ZnO,ZnO,35.1,Al2O3,27,NA,NA,105,7.00,433,10,3,8.80,0.5,0.63,99.7,0.62811,0.0184
+Arena et al. (2007),https://doi.org/10.1016/j.jcat.2007.04.003,Cu(4)ZnO(4)/Al2O3(6) ,Yes,CuO,Cu,37.9,ZnO,ZnO,35.1,Al2O3,27,NA,NA,105,7.00,453,10,3,8.80,0.5,1.2,84.5,1.014,0.0297
+Arena et al. (2007),https://doi.org/10.1016/j.jcat.2007.04.003,Cu(4)ZnO(4)/Al2O3(6) ,Yes,CuO,Cu,37.9,ZnO,ZnO,35.1,Al2O3,27,NA,NA,105,7.00,473,10,3,8.80,0.5,2.5,64,1.6,0.0469
+Bahruji et al. (2016),https://doi.org/10.1016/j.jcat.2016.03.017,5% Pd/ZnO IM,Yes,NA,Pd,3.9,NA,NA,NA,ZnO,96.1,NA,NA,NA,NA,523,20,3,36.20,0.5,9.5,0,0.00,0.0000
+Bahruji et al. (2016),https://doi.org/10.1016/j.jcat.2016.03.017,5% Pd/ZnO IM,Yes,NA,Pd,3.9,NA,NA,NA,ZnO,96.1,NA,NA,NA,NA,523,20,3,36.20,0.5,4.5,0,0,0.0000
+Bahruji et al. (2016),https://doi.org/10.1016/j.jcat.2016.03.017,5% Pd/ZnO IM,Yes,NA,Pd,3.9,NA,NA,NA,ZnO,96.1,NA,NA,NA,NA,523,20,3,36.20,0.5,0,0,0,0.0000
+Bahruji et al. (2016),https://doi.org/10.1016/j.jcat.2016.03.017,5% Pd/ZnO  IM,Yes,NA,Pd,3.9,NA,NA,NA,ZnO,96.1,NA,NA,NA,NA,523,20,3,36.20,0.5,8.5,1,0.09,0.0102
+Bahruji et al. (2016),https://doi.org/10.1016/j.jcat.2016.03.017,"5% Pd, IM",Yes,NA,Pd,3.9,NA,NA,NA,ZnO,96.1,NA,NA,NA,NA,523,20,3,36.20,0.5,8.7,1,0.09,0.0105
+Bahruji et al. (2016),https://doi.org/10.1016/j.jcat.2016.03.017,5% Pd/ZnO IM,Yes,NA,Pd,3.9,NA,NA,NA,ZnO,96.1,NA,NA,NA,NA,523,20,3,36.20,0.5,6.7,2,0.13,0.0162
+Bahruji et al. (2016),https://doi.org/10.1016/j.jcat.2016.03.017,5% Pd/ZnO IM,Yes,NA,Pd,3.9,NA,NA,NA,ZnO,96.1,NA,NA,NA,NA,523,20,3,36.20,0.5,0.7,26,0.18,0.0219
+Bahruji et al. (2016),https://doi.org/10.1016/j.jcat.2016.03.017,5% Pd/ZnO  IM,Yes,NA,Pd,3.9,NA,NA,NA,ZnO,96.1,NA,NA,NA,NA,523,20,3,36.20,0.5,8.7,2.17,0.19,0.0228
+Bahruji et al. (2016),https://doi.org/10.1016/j.jcat.2016.03.017,"1% Pd, IM",Yes,NA,Pd,0.8,NA,NA,NA,ZnO,99.2,NA,NA,NA,NA,523,20,3,36.20,0.5,3.2,22,0.70,0.0849
+Bahruji et al. (2016),https://doi.org/10.1016/j.jcat.2016.03.017,"1% Pd, SI",Yes,NA,Pd,0.8,NA,NA,NA,ZnO,99.2,NA,NA,NA,NA,523,20,3,36.20,0.5,1.7,76,1.29,0.1557
+Bahruji et al. (2016),https://doi.org/10.1016/j.jcat.2016.03.017,5% Pd/ZnO SI,Yes,NA,Pd,3.9,NA,NA,NA,ZnO,96.1,NA,NA,NA,NA,523,20,3,36.20,0.5,7.2,22,1.58,0.1909
+Bahruji et al. (2016),https://doi.org/10.1016/j.jcat.2016.03.017,5% Pd/ZnO SI,Yes,NA,Pd,3.9,NA,NA,NA,ZnO,96.1,NA,NA,NA,NA,523,20,3,36.20,0.5,5.6,72,4.03,0.4860
+Bahruji et al. (2016),https://doi.org/10.1016/j.jcat.2016.03.017,5% Pd/ZnO SI,Yes,NA,Pd,3.9,NA,NA,NA,ZnO,96.1,NA,NA,NA,NA,523,20,3,36.20,0.5,6.3,64,4.03,0.4860
+Bahruji et al. (2016),https://doi.org/10.1016/j.jcat.2016.03.017,5% Pd/ZnO SI,Yes,NA,Pd,3.9,NA,NA,NA,ZnO,96.1,NA,NA,NA,NA,523,20,3,36.20,0.5,8.7,48,4.18,0.5034
+Bahruji et al. (2016),https://doi.org/10.1016/j.jcat.2016.03.017,5% Pd/ZnO SI,Yes,NA,Pd,3.9,NA,NA,NA,ZnO,96.1,NA,NA,NA,NA,523,20,3,36.20,0.5,7.9,58,4.58,0.5523
+Bahruji et al. (2016),https://doi.org/10.1016/j.jcat.2016.03.017,5% Pd/ZnO SI,Yes,NA,Pd,3.9,NA,NA,NA,ZnO,96.1,NA,NA,NA,NA,523,20,3,36.20,0.5,10.3,54,5.56,0.6705
+Bahruji et al. (2016),https://doi.org/10.1016/j.jcat.2016.03.017,5% Pd/ZnO SI,Yes,NA,Pd,3.9,NA,NA,NA,ZnO,96.1,NA,NA,NA,NA,523,20,3,36.20,0.5,10.7,60,6.42,0.7739
+Bahruji et al. (2016),https://doi.org/10.1016/j.jcat.2016.03.017,5% Pd/ZnO SI,Yes,NA,Pd,3.9,NA,NA,NA,ZnO,96.1,NA,NA,NA,NA,523,20,3,36.20,0.5,10.8,60,6.48,0.7811
+Bahruji et al. (2016),https://doi.org/10.1016/j.jcat.2016.03.017,5% Pd/ZnO SI,Yes,NA,Pd,3.9,NA,NA,NA,ZnO,96.1,NA,NA,NA,NA,523,20,3,36.20,0.5,11.1,59,6.55,0.7895
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu/Al2O3,Yes,CuO,Cu,26,NA,NA,NA,Al2O3,74,NA,NA,184,NA,473,36,3.8,10.60,0.17,8.4,37.3,3.1,0.0912
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu/Al2O3,Yes,CuO,Cu,26,NA,NA,NA,Al2O3,74,NA,NA,184,NA,443,36,3.8,10.60,0.17,3.6,69.5,2.5,0.0735
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu/Al2O3,Yes,CuO,Cu,26,NA,NA,NA,Al2O3,74,NA,NA,184,NA,503,36,3.8,10.60,0.17,13.1,13.4,1.8,0.0529
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu/Al2O3,Yes,CuO,Cu,26,NA,NA,NA,Al2O3,74,NA,NA,184,NA,503,10,3.8,10.60,0.17,12.1,11.9,1.4,0.0412
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu/Al2O3,Yes,CuO,Cu,26,NA,NA,NA,Al2O3,74,NA,NA,184,NA,553,36,3.8,10.60,0.17,29.6,4.5,1.3,0.0382
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu/Al2O3,Yes,CuO,Cu,26,NA,NA,NA,Al2O3,74,NA,NA,184,NA,533,36,3.8,10.60,0.17,20.3,5.7,1.2,0.0353
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu/Al2O3,Yes,CuO,Cu,26,NA,NA,NA,Al2O3,74,NA,NA,184,NA,473,10,3.8,10.60,0.17,2.4,46.2,1.1,0.0324
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu/Al2O3,Yes,CuO,Cu,26,NA,NA,NA,Al2O3,74,NA,NA,184,NA,503,3,3.8,10.60,0.17,4,18.8,0.8,0.0235
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu/Al2O3,Yes,CuO,Cu,26,NA,NA,NA,Al2O3,74,NA,NA,184,NA,553,3,3.8,10.60,0.17,21.3,3.6,0.8,0.0235
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu/Al2O3,Yes,CuO,Cu,26,NA,NA,NA,Al2O3,74,NA,NA,184,NA,533,3,3.8,10.60,0.17,11.3,6,0.7,0.0206
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu/Al2O3,Yes,CuO,Cu,26,NA,NA,NA,Al2O3,74,NA,NA,184,NA,533,10,3.8,10.60,0.17,16.3,4.5,0.7,0.0206
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu/Al2O3,Yes,CuO,Cu,26,NA,NA,NA,Al2O3,74,NA,NA,184,NA,553,10,3.8,10.60,0.17,22.4,3,0.7,0.0206
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu/Al2O3,Yes,CuO,Cu,26,NA,NA,NA,Al2O3,74,NA,NA,184,NA,443,10,3.8,10.60,0.17,0.8,80,0.6,0.0176
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu/Al2O3,Yes,CuO,Cu,26,NA,NA,NA,Al2O3,74,NA,NA,184,NA,473,3,3.8,10.60,0.17,1.2,42.6,0.5,0.0147
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu/Al2O3,Yes,CuO,Cu,26,NA,NA,NA,Al2O3,74,NA,NA,184,NA,443,3,3.8,10.60,0.17,0.7,60.3,0.4,0.0118
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu/Al2O3,Yes,CuO,Cu,26,NA,NA,NA,Al2O3,74,NA,NA,184,NA,553,0.4,3.8,10.60,0.17,7.6,3.9,0.3,0.0088
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu/Al2O3,Yes,CuO,Cu,26,NA,NA,NA,Al2O3,74,NA,NA,184,NA,503,0.4,3.8,10.60,0.17,2.2,10.5,0.2,0.0059
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu/Al2O3,Yes,CuO,Cu,26,NA,NA,NA,Al2O3,74,NA,NA,184,NA,533,0.4,3.8,10.60,0.17,4,6,0.2,0.0059
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu/Al2O3,Yes,CuO,Cu,26,NA,NA,NA,Al2O3,74,NA,NA,184,NA,473,0.4,3.8,10.60,0.17,0.7,14.8,0.1,0.0029
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu/Al2O3,Yes,CuO,Cu,26,NA,NA,NA,Al2O3,74,NA,NA,184,NA,443,0.4,3.8,10.60,0.17,0.5,11.2,0.1,0.0029
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-K/Al2O3,Yes,CuO,Cu,23.2,K2CO3,K2CO3,11,Al2O3,65.8,NA,NA,181,NA,553,36,3.8,10.60,0.17,28.6,2.1,0.6,0.0176
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-K/Al2O3,Yes,CuO,Cu,23.2,K2CO3,K2CO3,11,Al2O3,65.8,NA,NA,181,NA,473,36,3.8,10.60,0.17,8.9,4.1,0.4,0.0118
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-K/Al2O3,Yes,CuO,Cu,23.2,K2CO3,K2CO3,11,Al2O3,65.8,NA,NA,181,NA,533,36,3.8,10.60,0.17,22.8,1.5,0.3,0.0088
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-K/Al2O3,Yes,CuO,Cu,23.2,K2CO3,K2CO3,11,Al2O3,65.8,NA,NA,181,NA,443,3,3.8,10.60,0.17,0.9,24.8,0.2,0.0059
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-K/Al2O3,Yes,CuO,Cu,23.2,K2CO3,K2CO3,11,Al2O3,65.8,NA,NA,181,NA,473,0.4,3.8,10.60,0.17,1.4,15.3,0.2,0.0059
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-K/Al2O3,Yes,CuO,Cu,23.2,K2CO3,K2CO3,11,Al2O3,65.8,NA,NA,181,NA,473,3,3.8,10.60,0.17,2.2,10.8,0.2,0.0059
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-K/Al2O3,Yes,CuO,Cu,23.2,K2CO3,K2CO3,11,Al2O3,65.8,NA,NA,181,NA,443,36,3.8,10.60,0.17,2.2,8.3,0.2,0.0059
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-K/Al2O3,Yes,CuO,Cu,23.2,K2CO3,K2CO3,11,Al2O3,65.8,NA,NA,181,NA,473,10,3.8,10.60,0.17,3.6,4.2,0.2,0.0059
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-K/Al2O3,Yes,CuO,Cu,23.2,K2CO3,K2CO3,11,Al2O3,65.8,NA,NA,181,NA,503,10,3.8,10.60,0.17,7.4,2.8,0.2,0.0059
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-K/Al2O3,Yes,CuO,Cu,23.2,K2CO3,K2CO3,11,Al2O3,65.8,NA,NA,181,NA,533,3,3.8,10.60,0.17,10.3,1.9,0.2,0.0059
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-K/Al2O3,Yes,CuO,Cu,23.2,K2CO3,K2CO3,11,Al2O3,65.8,NA,NA,181,NA,503,36,3.8,10.60,0.17,14.9,1.5,0.2,0.0059
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-K/Al2O3,Yes,CuO,Cu,23.2,K2CO3,K2CO3,11,Al2O3,65.8,NA,NA,181,NA,553,10,3.8,10.60,0.17,20.7,0.9,0.2,0.0059
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-K/Al2O3,Yes,CuO,Cu,23.2,K2CO3,K2CO3,11,Al2O3,65.8,NA,NA,181,NA,443,0.4,3.8,10.60,0.17,0.4,29.8,0.1,0.0029
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-K/Al2O3,Yes,CuO,Cu,23.2,K2CO3,K2CO3,11,Al2O3,65.8,NA,NA,181,NA,443,10,3.8,10.60,0.17,1.7,5.2,0.1,0.0029
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-K/Al2O3,Yes,CuO,Cu,23.2,K2CO3,K2CO3,11,Al2O3,65.8,NA,NA,181,NA,503,0.4,3.8,10.60,0.17,2.6,4.7,0.1,0.0029
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-K/Al2O3,Yes,CuO,Cu,23.2,K2CO3,K2CO3,11,Al2O3,65.8,NA,NA,181,NA,503,3,3.8,10.60,0.17,4.2,2.6,0.1,0.0029
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-K/Al2O3,Yes,CuO,Cu,23.2,K2CO3,K2CO3,11,Al2O3,65.8,NA,NA,181,NA,533,0.4,3.8,10.60,0.17,5,1.2,0.1,0.0029
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-K/Al2O3,Yes,CuO,Cu,23.2,K2CO3,K2CO3,11,Al2O3,65.8,NA,NA,181,NA,533,10,3.8,10.60,0.17,14.1,1,0.1,0.0029
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-K/Al2O3,Yes,CuO,Cu,23.2,K2CO3,K2CO3,11,Al2O3,65.8,NA,NA,181,NA,553,3,3.8,10.60,0.17,13.7,1,0.1,0.0029
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-K/Al2O3,Yes,CuO,Cu,23.2,K2CO3,K2CO3,11,Al2O3,65.8,NA,NA,181,NA,553,0.4,3.8,10.60,0.17,10.7,1,0.1,0.0029
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-Ba/Al2O3,Yes,CuO,Cu,25.2,BaCO3,BaCO3,3.4,Al2O3,71.4,NA,NA,166,NA,553,36,3.8,10.60,0.17,33.7,4.1,13.8,0.4059
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-Ba/Al2O3,Yes,CuO,Cu,25.2,BaCO3,BaCO3,3.4,Al2O3,71.4,NA,NA,166,NA,553,3,3.8,10.60,0.17,18.2,6.4,11.6,0.3412
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-Ba/Al2O3,Yes,CuO,Cu,25.2,BaCO3,BaCO3,3.4,Al2O3,71.4,NA,NA,166,NA,473,36,3.8,10.60,0.17,4.3,57.2,2.5,0.0735
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-Ba/Al2O3,Yes,CuO,Cu,25.2,BaCO3,BaCO3,3.4,Al2O3,71.4,NA,NA,166,NA,553,10,3.8,10.60,0.17,25.2,9.3,2.3,0.0677
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-Ba/Al2O3,Yes,CuO,Cu,25.2,BaCO3,BaCO3,3.4,Al2O3,71.4,NA,NA,166,NA,503,36,3.8,10.60,0.17,12.4,15.1,1.9,0.0559
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-Ba/Al2O3,Yes,CuO,Cu,25.2,BaCO3,BaCO3,3.4,Al2O3,71.4,NA,NA,166,NA,473,10,3.8,10.60,0.17,2.8,62.2,1.7,0.0500
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-Ba/Al2O3,Yes,CuO,Cu,25.2,BaCO3,BaCO3,3.4,Al2O3,71.4,NA,NA,166,NA,503,3,3.8,10.60,0.17,4.7,29.7,1.4,0.0412
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-Ba/Al2O3,Yes,CuO,Cu,25.2,BaCO3,BaCO3,3.4,Al2O3,71.4,NA,NA,166,NA,503,10,3.8,10.60,0.17,7.4,19,1.4,0.0412
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-Ba/Al2O3,Yes,CuO,Cu,25.2,BaCO3,BaCO3,3.4,Al2O3,71.4,NA,NA,166,NA,533,36,3.8,10.60,0.17,22.9,5.8,1.3,0.0382
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-Ba/Al2O3,Yes,CuO,Cu,25.2,BaCO3,BaCO3,3.4,Al2O3,71.4,NA,NA,166,NA,443,36,3.8,10.60,0.17,1.7,72.3,1.2,0.0353
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-Ba/Al2O3,Yes,CuO,Cu,25.2,BaCO3,BaCO3,3.4,Al2O3,71.4,NA,NA,166,NA,533,3,3.8,10.60,0.17,11.8,10,1.2,0.0353
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-Ba/Al2O3,Yes,CuO,Cu,25.2,BaCO3,BaCO3,3.4,Al2O3,71.4,NA,NA,166,NA,533,10,3.8,10.60,0.17,17.1,6.5,1.1,0.0324
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-Ba/Al2O3,Yes,CuO,Cu,25.2,BaCO3,BaCO3,3.4,Al2O3,71.4,NA,NA,166,NA,473,3,3.8,10.60,0.17,1.6,62.8,1,0.0294
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-Ba/Al2O3,Yes,CuO,Cu,25.2,BaCO3,BaCO3,3.4,Al2O3,71.4,NA,NA,166,NA,443,10,3.8,10.60,0.17,0.6,71.9,0.4,0.0118
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-Ba/Al2O3,Yes,CuO,Cu,25.2,BaCO3,BaCO3,3.4,Al2O3,71.4,NA,NA,166,NA,473,0.4,3.8,10.60,0.17,1.3,29.3,0.4,0.0118
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-Ba/Al2O3,Yes,CuO,Cu,25.2,BaCO3,BaCO3,3.4,Al2O3,71.4,NA,NA,166,NA,533,0.4,3.8,10.60,0.17,9.3,4.4,0.4,0.0118
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-Ba/Al2O3,Yes,CuO,Cu,25.2,BaCO3,BaCO3,3.4,Al2O3,71.4,NA,NA,166,NA,443,3,3.8,10.60,0.17,0.4,77.1,0.3,0.0088
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-Ba/Al2O3,Yes,CuO,Cu,25.2,BaCO3,BaCO3,3.4,Al2O3,71.4,NA,NA,166,NA,503,0.4,3.8,10.60,0.17,2.7,11.2,0.3,0.0088
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-Ba/Al2O3,Yes,CuO,Cu,25.2,BaCO3,BaCO3,3.4,Al2O3,71.4,NA,NA,166,NA,553,0.4,3.8,10.60,0.17,16.2,1.9,0.3,0.0088
+Bansode et al. (2013),https://doi.org/10.1039/C2CY20604H,Cu-Ba/Al2O3,Yes,CuO,Cu,25.2,BaCO3,BaCO3,3.4,Al2O3,71.4,NA,NA,166,NA,443,0.4,3.8,10.60,0.17,0.1,27.8,0.0278,0.0008
+C. Ding et al 2023,https://doi.org/10.1016/j.jes.2023.01.018,Ir0.32-In2O3,Yes,Ir,Ir,0.4616,NA,NA,NA,In2O3,99.5384,NA,NA,NA,NA,573,40,3,12.00,0.3,7.8,54,4.21,0.1683
+C. Ding et al 2023,https://doi.org/10.1016/j.jes.2023.01.018,Ir0.08-In2O3,Yes,Ir,Ir,0.1155,NA,NA,NA,In2O3,99.8845,NA,NA,NA,NA,573,40,3,12.00,0.3,6.6,58,3.83,0.1530
+C. Ding et al 2023,https://doi.org/10.1016/j.jes.2023.01.018,Ir0.16-In2O3,Yes,Ir,Ir,0.2309,NA,NA,NA,In2O3,99.7691,NA,NA,NA,NA,573,40,3,12.00,0.3,7.4,44,3.26,0.1301
+C. Ding et al 2023,https://doi.org/10.1016/j.jes.2023.01.018,Ir0.32-In2O3,Yes,Ir,Ir,0.4616,NA,NA,NA,In2O3,99.5384,NA,NA,NA,NA,553,40,3,12.00,0.3,4.4,67,2.95,0.1178
+C. Ding et al 2023,https://doi.org/10.1016/j.jes.2023.01.018,Ir0.16-In2O3,Yes,Ir,Ir,0.2309,NA,NA,NA,In2O3,99.7691,NA,NA,NA,NA,553,40,3,12.00,0.3,4.2,60,2.52,0.1007
+C. Ding et al 2023,https://doi.org/10.1016/j.jes.2023.01.018,Ir0.08-In2O3,Yes,Ir,Ir,0.1155,NA,NA,NA,In2O3,99.8845,NA,NA,NA,NA,553,40,3,12.00,0.3,3.8,66,2.51,0.1002
+C. Ding et al 2023,https://doi.org/10.1016/j.jes.2023.01.018,Ir0.16-In2O3,Yes,Ir,Ir,0.2309,NA,NA,NA,In2O3,99.7691,NA,NA,NA,NA,533,40,3,12.00,0.3,2.4,68,1.63,0.0652
+C. Ding et al 2023,https://doi.org/10.1016/j.jes.2023.01.018,Ir0.32-In2O3,Yes,Ir,Ir,0.4616,NA,NA,NA,In2O3,99.5384,NA,NA,NA,NA,533,40,3,12.00,0.3,2.2,72,1.58,0.0633
+C. Ding et al 2023,https://doi.org/10.1016/j.jes.2023.01.018,Ir0.08-In2O3,Yes,Ir,Ir,0.1155,NA,NA,NA,In2O3,99.8845,NA,NA,NA,NA,533,40,3,12.00,0.3,2,72,1.44,0.0575
+C. Ding et al 2023,https://doi.org/10.1016/j.jes.2023.01.018,Ir0.08-In2O3,Yes,Ir,Ir,0.1155,NA,NA,NA,In2O3,99.8845,NA,NA,NA,NA,513,40,3,12.00,0.3,1.2,82,0.98,0.0393
+C. Ding et al 2023,https://doi.org/10.1016/j.jes.2023.01.018,Ir0.32-In2O3,Yes,Ir,Ir,0.4616,NA,NA,NA,In2O3,99.5384,NA,NA,NA,NA,513,40,3,12.00,0.3,1.2,80,0.96,0.0384
+C. Ding et al 2023,https://doi.org/10.1016/j.jes.2023.01.018,Ir0.16-In2O3,Yes,Ir,Ir,0.2309,NA,NA,NA,In2O3,99.7691,NA,NA,NA,NA,513,40,3,12.00,0.3,0.8,66,0.53,0.0211
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,1InNi3C0.5/ Fe3O4-400/425,Yes,InNi3O0.5,InNi3O0.5,2,NA,NA,NA,Fe3O4,98,NA,NA,NA,NA,523,40,5,12.00,0.5,4.3,92,3.96,0.1054
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,3InNi3C0.5/ Fe3O4-400/425,Yes,InNi3O0.5,InNi3O0.5,6.2,NA,NA,NA,Fe3O4,93.8,NA,NA,NA,NA,523,40,5,12.00,0.5,11.8,94,11.09,0.2955
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,7InNi3C0.5/ Fe3O4-400/425,Yes,InNi3O0.5,InNi3O0.5,14.7,NA,NA,NA,Fe3O4,85.3,NA,NA,NA,NA,523,40,5,12.00,0.5,12.7,95,12.07,0.3214
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,1InNi3C0.5/ Fe3O4-400/425,Yes,InNi3O0.5,InNi3O0.5,2,NA,NA,NA,Fe3O4,98,NA,NA,NA,NA,523,40,5,180.00,0.5,2,90,1.80,0.7193
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,3InNi3C0.5/ Fe3O4-400/425,Yes,InNi3O0.5,InNi3O0.5,6.2,NA,NA,NA,Fe3O4,93.8,NA,NA,NA,NA,523,40,5,180.00,0.5,2,99.1,1.98,0.7920
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,5InNi3C0.5/ Fe3O4-400/425,Yes,InNi3O0.5,InNi3O0.5,10.4,NA,NA,NA,Fe3O4,89.6,NA,NA,9.6,60.00,523,40,5,240.00,0.5,2.1,99,2.08,1.1077
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111, Fe3O4-400/425,Yes,NA,NA,NA,NA,NA,NA,Fe3O4,100,NA,NA,NA,NA,523,40,5,12.00,0.5,1,62,0.62,0.0165
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,5InNi3C0.5/ SiO2-400/425,Yes,InNi3O0.5,InNi3O0.5,2.9,NA,NA,NA,SiO2,97.1,NA,NA,NA,NA,523,40,5,12.00,0.5,1.5,96,1.44,0.0384
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,5InNi3C0.5/ Fe3O4-300/425,Yes,InNi3O0.5,InNi3O0.5,10.4,NA,NA,NA,Fe3O4,89.6,NA,NA,9.2,56.00,523,40,5,12.00,0.5,5.5,97.2,5.35,0.1424
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,5InNi3C0.5/ Fe3O4-350/425,Yes,InNi3O0.5,InNi3O0.5,10.4,NA,NA,NA,Fe3O4,89.6,NA,NA,10.3,59.00,523,40,5,12.00,0.5,7.8,97.2,7.58,0.2020
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,5InNi3C0.5/ Fe3O4-400/425,Yes,InNi3O0.5,InNi3O0.5,10.4,NA,NA,NA,Fe3O4,89.6,NA,NA,9.6,60.00,523,40,5,12.00,0.5,12.3,95.6,11.76,0.3133
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,5InNi3C0.5/ Fe3O4-450/425,Yes,InNi3O0.5,InNi3O0.5,10.4,NA,NA,NA,Fe3O4,89.6,NA,NA,10.7,37.00,523,40,5,12.00,0.5,9.7,93.7,9.09,0.2421
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,5InNi3C0.5/ Fe3O4-500/425,Yes,InNi3O0.5,InNi3O0.5,10.4,NA,NA,NA,Fe3O4,89.6,NA,NA,10,40.00,523,40,5,12.00,0.5,4.9,98.2,4.81,0.1282
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,5InNi3C0.5/ Fe3O4-400/375,Yes,InNi3O0.5,InNi3O0.5,10.4,NA,NA,NA,Fe3O4,89.6,NA,NA,18.6,37.00,523,40,5,12.00,0.5,8,94,7.52,0.2003
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,5InNi3C0.5/ Fe3O4-400/400,Yes,InNi3O0.5,InNi3O0.5,10.4,NA,NA,NA,Fe3O4,89.6,NA,NA,15.4,42.00,523,40,5,12.00,0.5,8.9,94,8.37,0.2229
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,5InNi3C0.5/ Fe3O4-400/425,Yes,InNi3O0.5,InNi3O0.5,10.4,NA,NA,NA,Fe3O4,89.6,NA,NA,9.6,60.00,523,40,5,12.00,0.5,12.3,95.6,11.76,0.3133
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,5InNi3C0.5/ Fe3O4-400/450,Yes,InNi3O0.5,InNi3O0.5,10.4,NA,NA,NA,Fe3O4,89.6,NA,NA,8.8,67.00,523,40,5,12.00,0.5,9.2,92.6,8.52,0.2270
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,5InNi3C0.5/ Fe3O4-400/475,Yes,InNi3O0.5,InNi3O0.5,10.4,NA,NA,NA,Fe3O4,89.6,NA,NA,6.7,75.00,523,40,5,12.00,0.5,7.9,96,7.58,0.2020
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,5InNi3C0.5/ Fe3O4-400/425,Yes,InNi3O0.5,InNi3O0.5,10.4,NA,NA,NA,Fe3O4,89.6,NA,NA,9.6,60.00,523,40,5,12.00,0.5,12.4,93,11.53,0.3072
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,5InNi3C0.5/ Fe3O4-400/425,Yes,InNi3O0.5,InNi3O0.5,10.4,NA,NA,NA,Fe3O4,89.6,NA,NA,9.6,60.00,523,40,5,18.00,0.5,11.1,95,10.55,0.4214
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,5InNi3C0.5/ Fe3O4-400/425,Yes,InNi3O0.5,InNi3O0.5,10.4,NA,NA,NA,Fe3O4,89.6,NA,NA,9.6,60.00,523,40,5,24.00,0.5,9.6,95,9.12,0.4859
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,5InNi3C0.5/ Fe3O4-400/425,Yes,InNi3O0.5,InNi3O0.5,10.4,NA,NA,NA,Fe3O4,89.6,NA,NA,9.6,60.00,523,40,5,30.00,0.5,8.6,95,8.17,0.5441
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,5InNi3C0.5/ Fe3O4-400/425,Yes,InNi3O0.5,InNi3O0.5,10.4,NA,NA,NA,Fe3O4,89.6,NA,NA,9.6,60.00,523,40,5,36.00,0.5,7.8,95,7.41,0.5922
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,5InNi3C0.5/ Fe3O4-400/425,Yes,InNi3O0.5,InNi3O0.5,10.4,NA,NA,NA,Fe3O4,89.6,NA,NA,9.6,60.00,523,40,5,42.00,0.5,7.3,95,6.94,0.6466
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,5InNi3C0.5/ Fe3O4-400/425,Yes,InNi3O0.5,InNi3O0.5,10.4,NA,NA,NA,Fe3O4,89.6,NA,NA,9.6,60.00,523,40,5,48.00,0.5,7,95,6.65,0.7086
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,5InNi3C0.5/ Fe3O4-400/425,Yes,InNi3O0.5,InNi3O0.5,10.4,NA,NA,NA,Fe3O4,89.6,NA,NA,9.6,60.00,523,10,5,12.00,0.5,6.1,94,5.73,0.1528
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,5InNi3C0.5/ Fe3O4-400/425,Yes,InNi3O0.5,InNi3O0.5,10.4,NA,NA,NA,Fe3O4,89.6,NA,NA,9.6,60.00,523,20,5,12.00,0.5,7.2,93,6.70,0.1784
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,5InNi3C0.5/ Fe3O4-400/425,Yes,InNi3O0.5,InNi3O0.5,10.4,NA,NA,NA,Fe3O4,89.6,NA,NA,9.6,60.00,523,30,5,12.00,0.5,9.7,95,9.22,0.2455
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,5InNi3C0.5/ Fe3O4-400/425,Yes,InNi3O0.5,InNi3O0.5,10.4,NA,NA,NA,Fe3O4,89.6,NA,NA,9.6,60.00,523,40,5,12.00,0.5,12.4,95,11.78,0.3138
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,5InNi3C0.5/ Fe3O4-400/425,Yes,InNi3O0.5,InNi3O0.5,10.4,NA,NA,NA,Fe3O4,89.6,NA,NA,9.6,60.00,523,50,5,12.00,0.5,12.8,95,12.16,0.3239
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,5InNi3C0.5/ Fe3O4-400/425,Yes,InNi3O0.5,InNi3O0.5,10.4,NA,NA,NA,Fe3O4,89.6,NA,NA,9.6,60.00,523,60,5,12.00,0.5,13.3,95,12.64,0.3366
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,5InNi3C0.5/ Fe3O4-400/425,Yes,InNi3O0.5,InNi3O0.5,10.4,NA,NA,NA,Fe3O4,89.6,NA,NA,9.6,60.00,523,40,3,12.00,0.5,9.5,92,8.74,0.3493
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,5InNi3C0.5/ Fe3O4-400/425,Yes,InNi3O0.5,InNi3O0.5,10.4,NA,NA,NA,Fe3O4,89.6,NA,NA,9.6,60.00,523,40,4,15.00,0.5,10.5,93,9.77,0.3902
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,5InNi3C0.5/ Fe3O4-400/425,Yes,InNi3O0.5,InNi3O0.5,10.4,NA,NA,NA,Fe3O4,89.6,NA,NA,9.6,60.00,523,40,5,18.00,0.5,12.4,94,11.66,0.4658
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,5InNi3C0.5/ Fe3O4-400/425,Yes,InNi3O0.5,InNi3O0.5,10.4,NA,NA,NA,Fe3O4,89.6,NA,NA,9.6,60.00,523,40,8,27.00,0.5,15.1,95,14.35,0.5732
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,5InNi3C0.5/ Fe3O4-400/425,Yes,InNi3O0.5,InNi3O0.5,10.4,NA,NA,NA,Fe3O4,89.6,NA,NA,9.6,60.00,523,40,10,33.00,0.5,17.8,96,17.09,0.6828
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,5InNi3C0.5/ Fe3O4-400/425,Yes,InNi3O0.5,InNi3O0.5,10.4,NA,NA,NA,Fe3O4,89.6,NA,NA,9.6,60.00,533,40,5,12.00,0.5,13.3,90,11.97,0.3189
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,5InNi3C0.5/ Fe3O4-400/425,Yes,InNi3O0.5,InNi3O0.5,10.4,NA,NA,NA,Fe3O4,89.6,NA,NA,9.6,60.00,523,40,5,12.00,0.5,12.4,94,11.656,0.3105
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,5InNi3C0.5/ Fe3O4-400/425,Yes,InNi3O0.5,InNi3O0.5,10.4,NA,NA,NA,Fe3O4,89.6,NA,NA,9.6,60.00,513,40,5,12.00,0.5,10,94,9.4,0.2504
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,5InNi3C0.5/ Fe3O4-400/425,Yes,InNi3O0.5,InNi3O0.5,10.4,NA,NA,NA,Fe3O4,89.6,NA,NA,9.6,60.00,493,40,5,12.00,0.5,8.4,96,8.064,0.2148
+C. Meng et al. 2023,https://doi.org/10.1016/j.fuel.2024.131111,5InNi3C0.5/ Fe3O4-400/425,Yes,InNi3O0.5,InNi3O0.5,10.4,NA,NA,NA,Fe3O4,89.6,NA,NA,9.6,60.00,473,40,5,12.00,0.5,7.2,98,7.056,0.1880
+Chen et al. (2019b),https://doi.org/10.1002/ente.201800747,Cat-4.5 H-In2O3/Al2O3/Al-fiber,No,In2O3,In2O3,6.7,NA,NA,NA,Al2O3,93.3,Al,NA,36.8,7.10,598,40,3,21.60,0.5,4.4,67.6,2.97,0.2139
+Chen et al. (2019b),https://doi.org/10.1002/ente.201800747,Cat-4.5 H-In2O3/Al2O3/Al-fiber,No,In2O3,In2O3,6.7,NA,NA,NA,Al2O3,93.3,Al,NA,36.8,7.10,623,40,3,21.60,0.5,4.9,58.9,2.89,0.2076
+Chen et al. (2019b),https://doi.org/10.1002/ente.201800747,Cat-3.0 H-In2O3/Al2O3/Al-fiber,No,In2O3,In2O3,4.9,NA,NA,NA,Al2O3,95.1,Al,NA,30.4,5.80,623,40,3,21.60,0.5,4.4,62.1,2.73,0.1965
+Chen et al. (2019b),https://doi.org/10.1002/ente.201800747,Cat-3.0 H-In2O3/Al2O3/Al-fiber,No,In2O3,In2O3,4.9,NA,NA,NA,Al2O3,95.1,Al,NA,30.4,5.80,598,40,3,21.60,0.5,3.4,69.8,2.37,0.1707
+Chen et al. (2019b),https://doi.org/10.1002/ente.201800747,Cat-4.5 H-In2O3/Al2O3/Al-fiber,No,In2O3,In2O3,6.7,NA,NA,NA,Al2O3,93.3,Al,NA,36.8,7.10,573,40,3,21.60,0.5,2.7,83.3,2.25,0.1618
+Chen et al. (2019b),https://doi.org/10.1002/ente.201800747,H-In2O3/Al2O3 ,No,In2O3,In2O3,NA,NA,NA,NA,Al2O3,NA,NA,NA,NA,NA,623,40,3,21.60,0.5,4.3,50.9,2.19,0.1574
+Chen et al. (2019b),https://doi.org/10.1002/ente.201800747,Cat-1.5 H-In2O3/Al2O3/Al-fiber,No,In2O3,In2O3,3.80,NA,NA,NA,Al2O3,96.2,Al,NA,27.2,6.80,598,40,3,21.60,0.5,3,68.2,2.05,0.1472
+Chen et al. (2019b),https://doi.org/10.1002/ente.201800747,Cat-1.5 H-In2O3/Al2O3/Al-fiber,No,In2O3,In2O3,3.80,NA,NA,NA,Al2O3,96.2,Al,NA,27.2,6.80,623,40,3,21.60,0.5,3.3,61.2,2.02,0.1453
+Chen et al. (2019b),https://doi.org/10.1002/ente.201800747,Cat-6.0 H-In2O3/Al2O3/Al-fiber,No,In2O3,In2O3,2.4,NA,NA,NA,Al2O3,97.6,Al,NA,19.4,7.20,623,40,3,21.60,0.5,3.3,53.6,1.77,0.1272
+Chen et al. (2019b),https://doi.org/10.1002/ente.201800747,H-In2O3/Al2O3,No,In2O3,In2O3,NA,NA,NA,NA,Al2O3,NA,NA,NA,NA,NA,598,40,3,21.60,0.5,2.7,59.8,1.61,0.1161
+Chen et al. (2019b),https://doi.org/10.1002/ente.201800747,In2O3-IWI/Al2O3/Al-fiber,No,In2O3,In2O3,NA,NA,NA,NA,Al2O3,NA,Al,NA,NA,NA,573,40,3,21.60,0.5,2.4,66.8,1.60,0.1153
+Chen et al. (2019b),https://doi.org/10.1002/ente.201800747,In2O3-IWI/Al2O3/Al-fiber ,No,In2O3,In2O3,NA,NA,NA,NA,Al2O3,NA,Al,NA,NA,NA,598,40,3,21.60,0.5,4.3,36.8,1.58,0.1138
+Chen et al. (2019b),https://doi.org/10.1002/ente.201800747,Cat-6.0 H-In2O3/Al2O3/Al-fiber,No,In2O3,In2O3,2.4,NA,NA,NA,Al2O3,97.6,Al,NA,19.4,7.20,598,40,3,21.60,0.5,2.6,60.1,1.56,0.1124
+Chen et al. (2019b),https://doi.org/10.1002/ente.201800747,Cat-3.0 H-In2O3/Al2O3/Al-fiber,No,In2O3,In2O3,4.9,NA,NA,NA,Al2O3,95.1,Al,NA,30.4,5.80,573,40,3,21.60,0.5,1.7,87.3,1.48,0.1067
+Chen et al. (2019b),https://doi.org/10.1002/ente.201800747,Cat-4.5 H-In2O3/Al2O3/Al-fiber,No,In2O3,In2O3,6.7,NA,NA,NA,Al2O3,93.3,Al,NA,36.8,7.10,548,40,3,21.60,0.5,1.5,91.6,1.37,0.0988
+Chen et al. (2019b),https://doi.org/10.1002/ente.201800747,In2O3-IWI/Al2O3/Al-fiber ,No,In2O3,In2O3,NA,NA,NA,NA,Al2O3,NA,Al,NA,NA,NA,623,40,3,21.60,0.5,5,25.4,1.27,0.0913
+Chen et al. (2019b),https://doi.org/10.1002/ente.201800747,H-In2O3/Al2O3,No,In2O3,In2O3,NA,NA,NA,NA,Al2O3,NA,NA,NA,NA,NA,573,40,3,21.60,0.5,1.5,76.8,1.15,0.0829
+Chen et al. (2019b),https://doi.org/10.1002/ente.201800747,Cat-1.5 H-In2O3/Al2O3/Al-fiber,No,In2O3,In2O3,3.80,NA,NA,NA,Al2O3,96.2,Al,NA,27.2,6.80,573,40,3,21.60,0.5,1.3,83.4,1.08,0.0780
+Chen et al. (2019b),https://doi.org/10.1002/ente.201800747,Cat-4.5 H-In2O3/Al2O3/Al-fiber,No,In2O3,In2O3,6.7,NA,NA,NA,Al2O3,93.3,Al,NA,36.8,7.10,523,40,3,21.60,0.5,1.1,94.8,1.04,0.0750
+Chen et al. (2019b),https://doi.org/10.1002/ente.201800747,In2O3-IWI/Al2O3/Al-fiber,No,In2O3,In2O3,NA,NA,NA,NA,Al2O3,NA,Al,NA,NA,NA,548,40,3,21.60,0.5,1.3,78.6,1.02,0.0735
+Chen et al. (2019b),https://doi.org/10.1002/ente.201800747,Cat-3.0 H-In2O3/Al2O3/Al-fiber,No,In2O3,In2O3,4.9,NA,NA,NA,Al2O3,95.1,Al,NA,30.4,5.80,548,40,3,21.60,0.5,1,92,0.92,0.0662
+Chen et al. (2019b),https://doi.org/10.1002/ente.201800747,H-In2O3/Al2O3,No,In2O3,In2O3,NA,NA,NA,NA,Al2O3,NA,NA,NA,NA,NA,548,40,3,21.60,0.5,1,88.9,0.89,0.0639
+Chen et al. (2019b),https://doi.org/10.1002/ente.201800747,H-In2O3/Al2O3,No,In2O3,In2O3,NA,NA,NA,NA,Al2O3,NA,NA,NA,NA,NA,523,40,3,21.60,0.5,0.8,93.2,0.75,0.0536
+Chen et al. (2019b),https://doi.org/10.1002/ente.201800747,Cat-1.5 H-In2O3/Al2O3/Al-fiber),No,In2O3,In2O3,3.80,NA,NA,NA,Al2O3,96.2,NA,NA,27.2,6.80,548,40,3,21.60,0.5,0.82,90.3,0.74,0.0533
+Chen et al. (2019b),https://doi.org/10.1002/ente.201800747,In2O3-IWI/Al2O3/Al-fiber,No,In2O3,In2O3,NA,NA,NA,NA,Al2O3,NA,Al,NA,NA,NA,523,40,3,21.60,0.5,0.7,84,0.59,0.0423
+Chen et al. (2019b),https://doi.org/10.1002/ente.201800747,Cat-3.0 H-In2O3/Al2O3/Al-fiber,No,In2O3,In2O3,4.9,NA,NA,NA,Al2O3,95.1,Al,NA,30.4,5.80,523,40,3,21.60,0.5,0.6,95.3,0.57,0.0411
+Chen et al. (2019b),https://doi.org/10.1002/ente.201800747,Cat-6.0 H-In2O3/Al2O3/Al-fiber ,No,In2O3,In2O3,2.4,NA,NA,NA,Al2O3,97.6,Al,NA,19.4,7.20,573,40,3,21.60,0.5,0.8,65,0.52,0.0374
+Chen et al. (2019b),https://doi.org/10.1002/ente.201800747,Cat-1.5 H-In2O3/Al2O3/Al-fiber,No,In2O3,In2O3,3.80,NA,NA,NA,Al2O3,96.2,Al,NA,27.2,6.80,523,40,3,21.60,0.5,0.49,92.5,0.45,0.0326
+Chen et al. (2019b),https://doi.org/10.1002/ente.201800747,Cat-6.0 H-In2O3/Al2O3/Al-fiber ,No,In2O3,In2O3,2.4,NA,NA,NA,Al2O3,97.6,Al,NA,19.4,7.20,548,40,3,21.60,0.5,0.5,81.2,0.41,0.0292
+Chen et al. (2019b),https://doi.org/10.1002/ente.201800747,Cat-6.0 H-In2O3/Al2O3/Al-fiber ,No,In2O3,In2O3,2.4,NA,NA,NA,Al2O3,97.6,Al,NA,19.4,7.20,523,40,3,21.60,0.5,0.3,86.6,0.26,0.0187
+Chen et al. (2019c),https://doi.org/10.1021/acscatal.9b01869,In0.25/ZrO2,Yes,In2O3,In2O3,0.22,NA,NA,NA,ZrO2,99.78,NA,NA,NA,NA,523,50,4,18.00,0.15,0.3,46.8,0.14,0.0067
+Chen et al. (2019c),https://doi.org/10.1021/acscatal.9b01869,In0.5/ZrO2,Yes,In2O3,In2O3,0.38,NA,NA,NA,ZrO2,99.62,NA,NA,NA,NA,523,50,4,18.00,0.15,0.5,50.3,0.25,0.0121
+Chen et al. (2019c),https://doi.org/10.1021/acscatal.9b01869,In1/ZrO2,Yes,In2O3,In2O3,0.65,NA,NA,NA,ZrO2,99.35,NA,NA,NA,NA,523,50,4,18.00,0.15,0.5,63.8,0.32,0.0153
+Chen et al. (2019c),https://doi.org/10.1021/acscatal.9b01869,In0.25/ZrO2,Yes,In2O3,In2O3,0.22,NA,NA,NA,ZrO2,99.78,NA,NA,NA,NA,553,50,4,18.00,0.15,1.2,27,0.32,0.0155
+Chen et al. (2019c),https://doi.org/10.1021/acscatal.9b01869,In0.5/ZrO2,Yes,In2O3,In2O3,0.38,NA,NA,NA,ZrO2,99.62,NA,NA,NA,NA,553,50,4,18.00,0.15,1.9,38.7,0.74,0.0353
+Chen et al. (2019c),https://doi.org/10.1021/acscatal.9b01869,In1/ZrO2,Yes,In2O3,In2O3,0.65,NA,NA,NA,ZrO2,99.35,NA,NA,NA,NA,553,50,4,18.00,0.15,2,49.3,0.99,0.0473
+Chen et al. (2019c),https://doi.org/10.1021/acscatal.9b01869,In0.1/ZrO2,No,In2O3,In2O3,0.1,NA,NA,NA,ZrO2,99.9,NA,NA,27.4,32.00,523,50,4,18.00,0.15,0.4,23.1,0.09,0.0044
+Chen et al. (2019c),https://doi.org/10.1021/acscatal.9b01869,In0.1/ZrO2,No,In2O3,In2O3,0.1,NA,NA,NA,ZrO2,99.9,NA,NA,27.4,32.00,553,50,4,18.00,0.15,1.1,21.3,0.23,0.0112
+Chen et al. (2019c),https://doi.org/10.1021/acscatal.9b01869,In2.5/ZrO2,Yes,In2O3,In2O3,1.26,NA,NA,NA,ZrO2,98.74,NA,NA,26.4,27.60,523,50,4,18.00,0.15,0.9,73.8,0.66,0.0319
+Chen et al. (2019c),https://doi.org/10.1021/acscatal.9b01869,In2.5/ZrO2,Yes,In2O3,In2O3,1.26,NA,NA,NA,ZrO2,98.74,NA,NA,26.4,27.60,553,50,4,18.00,0.15,2.5,60,1.50,0.0719
+Chen et al. (2019c),https://doi.org/10.1021/acscatal.9b01869,In5/ZrO2,Yes,In2O3,In2O3,3.2,NA,NA,NA,ZrO2,96.8,NA,NA,25.4,31.30,523,50,4,18.00,0.15,0.6,77.9,0.47,0.0224
+Chen et al. (2019c),https://doi.org/10.1021/acscatal.9b01869,In5/ZrO2,Yes,In2O3,In2O3,3.2,NA,NA,NA,ZrO2,96.8,NA,NA,25.4,31.30,553,50,4,18.00,0.15,1.8,68.2,1.23,0.0589
+Chen et al. (2019c),https://doi.org/10.1021/acscatal.9b01869,In10/ZrO2,No,In2O3,In2O3,10.7,NA,NA,NA,ZrO2,89.3,NA,NA,25.2,26.70,523,50,4,18.00,0.15,0.5,75.9,0.38,0.0182
+Chen et al. (2019c),https://doi.org/10.1021/acscatal.9b01869,In10/ZrO2,No,In2O3,In2O3,10.7,NA,NA,NA,ZrO2,89.3,NA,NA,25.2,26.70,553,50,4,18.00,0.15,1.4,66,0.92,0.0443
+Chen et al. (2019c),https://doi.org/10.1021/acscatal.9b01869,Bulk In2O3,Yes,In2O3,In2O3,100,NA,NA,NA,NA,NA,NA,NA,23.7,24.00,523,50,4,18.00,0.15,0.7,69.3,0.49,0.0233
+Chen et al. (2019c),https://doi.org/10.1021/acscatal.9b01869,Bulk ZrO2,Yes,NA,NA,NA,NA,NA,NA,ZrO2,100,NA,NA,37.3,22.00,523,50,4,18.00,0.15,0,0,0.00,0.0000
+Chen et al. (2019c),https://doi.org/10.1021/acscatal.9b01869,In0.1/ZrO2,No,In2O3,In2O3,0.1,NA,NA,NA,ZrO2,99.9,NA,NA,27.4,32.00,553,50,4,18.00,0.15,2.2,60.7,1.34,0.0640
+Chou and Lobo (2019),https://doi.org/10.1016/j.apcata.2019.117144,In2O3/ZrO2 ,Yes,In2O3,In2O3,5.8,NA,NA,NA,ZrO2,94.2,NA,NA,87,10.10,573,40,4,40.00,0.15,10.5,53,5.57,0.5930
+Chou and Lobo (2019),https://doi.org/10.1016/j.apcata.2019.117144,In2O3/ZrO2 ,Yes,In2O3,In2O3,5.8,NA,NA,NA,ZrO2,94.2,NA,NA,87,10.10,558,40,4,40.00,0.15,6.1,65,3.97,0.4225
+Chou and Lobo (2019),https://doi.org/10.1016/j.apcata.2019.117144,In2O3/ZrO2 ,Yes,In2O3,In2O3,5.8,NA,NA,NA,ZrO2,94.2,NA,NA,87,10.10,543,40,4,40.00,0.15,3.2,76,2.43,0.2592
+Chou and Lobo (2019),https://doi.org/10.1016/j.apcata.2019.117144,In2O3/ZrO2 ,Yes,In2O3,In2O3,5.8,NA,NA,NA,ZrO2,94.2,NA,NA,87,10.10,528,40,4,40.00,0.15,1.25,81,1.01,0.1079
+Chou and Lobo (2019),https://doi.org/10.1016/j.apcata.2019.117144,1.5YIn2O3/ZrO2 ,Yes,In2O3,In2O3,5.3,Y2O3,Y2O3,1.1,ZrO2,93.6,NA,NA,84,11.00,528,40,4,40.00,0.15,1.2,100,1.20,0.1279
+Chou and Lobo (2019),https://doi.org/10.1016/j.apcata.2019.117144,1.5YIn2O3/ZrO2 ,Yes,In2O3,In2O3,5.3,Y2O3,Y2O3,1.1,ZrO2,93.6,NA,NA,84,11.00,543,40,4,40.00,0.15,2.7,84,2.27,0.2417
+Chou and Lobo (2019),https://doi.org/10.1016/j.apcata.2019.117144,1.5YIn2O3/ZrO2 ,Yes,In2O3,In2O3,5.3,Y2O3,Y2O3,1.1,ZrO2,93.6,NA,NA,84,11.00,558,40,4,40.00,0.15,5.1,77,3.93,0.4185
+Chou and Lobo (2019),https://doi.org/10.1016/j.apcata.2019.117144,1.5YIn2O3/ZrO2 ,Yes,In2O3,In2O3,5.3,Y2O3,Y2O3,1.1,ZrO2,93.6,NA,NA,84,11.00,573,40,4,40.00,0.15,7.6,69,5.24,0.5588
+Chou and Lobo (2019),https://doi.org/10.1016/j.apcata.2019.117144,3La10In/ZrO2 ,Yes,In2O3,In2O3,5.9,La2O3,La2O3,1.7,ZrO2,92.4,NA,NA,84,10.00,543,40,4,40.00,0.15,2.9,91,2.64,0.2812
+Chou and Lobo (2019),https://doi.org/10.1016/j.apcata.2019.117144,3La10In/ZrO2 ,Yes,In2O3,In2O3,5.9,La2O3,La2O3,1.7,ZrO2,92.4,NA,NA,84,10.00,528,40,4,40.00,0.15,1.1,100,1.10,0.1172
+Chou and Lobo (2019),https://doi.org/10.1016/j.apcata.2019.117144,3La10In/ZrO2 ,Yes,In2O3,In2O3,5.9,La2O3,La2O3,1.7,ZrO2,92.4,NA,NA,84,10.00,558,40,4,40.00,0.15,5.7,80,4.56,0.4859
+Chou and Lobo (2019),https://doi.org/10.1016/j.apcata.2019.117144,3La10In/ZrO2 ,Yes,In2O3,In2O3,5.9,La2O3,La2O3,1.7,ZrO2,92.4,NA,NA,84,10.00,573,40,4,40.00,0.15,7.7,66,5.08,0.5415
+Chou and Lobo (2019),https://doi.org/10.1016/j.apcata.2019.117144,2Y8In/ZrO2,Yes,In2O3,In2O3,4.8,Y2O3,Y2O3,1.7,ZrO2,93.5,NA,NA,84,10.50,528,40,4,40.00,0.15,1.3,100,1.30,0.1385
+Chou and Lobo (2019),https://doi.org/10.1016/j.apcata.2019.117144,2Y8In/ZrO2,Yes,In2O3,In2O3,4.8,Y2O3,Y2O3,1.7,ZrO2,93.5,NA,NA,84,10.50,558,40,4,40.00,0.15,3.4,80,2.72,0.2898
+Chou and Lobo (2019),https://doi.org/10.1016/j.apcata.2019.117144,2Y8In/ZrO2,Yes,In2O3,In2O3,4.8,Y2O3,Y2O3,1.7,ZrO2,93.5,NA,NA,84,10.50,573,40,4,40.00,0.15,6.1,72,4.39,0.4680
+Chou and Lobo (2019),https://doi.org/10.1016/j.apcata.2019.117144,2Y8In/ZrO2,Yes,In2O3,In2O3,4.8,Y2O3,Y2O3,1.7,ZrO2,93.5,NA,NA,84,10.50,543,40,4,40.00,0.15,1.9,97,1.84,0.1964
+Chou and Lobo (2019),https://doi.org/10.1016/j.apcata.2019.117144,3Y8In/ZrO2,Yes,In2O3,In2O3,4.9,Y2O3,Y2O3,2.2,ZrO2,92.9,NA,NA,88,10.50,528,40,4,40.00,0.15,1,100,1.00,0.1066
+Chou and Lobo (2019),https://doi.org/10.1016/j.apcata.2019.117144,3Y8In/ZrO2,Yes,In2O3,In2O3,4.9,Y2O3,Y2O3,2.2,ZrO2,92.9,NA,NA,88,10.50,543,40,4,40.00,0.15,1.7,96,1.63,0.1739
+Chou and Lobo (2019),https://doi.org/10.1016/j.apcata.2019.117144,3Y8In/ZrO2,Yes,In2O3,In2O3,4.9,Y2O3,Y2O3,2.2,ZrO2,92.9,NA,NA,88,10.50,558,40,4,40.00,0.15,2.8,81,2.27,0.2417
+Chou and Lobo (2019),https://doi.org/10.1016/j.apcata.2019.117144,3Y8In/ZrO2,Yes,In2O3,In2O3,4.9,Y2O3,Y2O3,2.2,ZrO2,92.9,NA,NA,88,10.50,573,40,4,40.00,0.15,4.5,74,3.33,0.3548
+Dasireddy et al. (2018),https://doi.org/10.1016/j.jcou.2018.09.002,"Cu/Mg/Al, preparation pH = 3",Yes,CuO,Cu,56,NA,NA,NA,MgO,33,Al2O3,11,98,13.00,473,20,2.8,NA,NA,3,30,0.90,NA
+Dasireddy et al. (2018),https://doi.org/10.1016/j.jcou.2018.09.002,"Cu/Mg/Al, preparation pH = 3",Yes,CuO,Cu,56,NA,NA,NA,MgO,33,Al2O3,11,98,13.00,523,20,2.8,NA,NA,9.6,12.4,1.19,NA
+Dasireddy et al. (2018),https://doi.org/10.1016/j.jcou.2018.09.002,"Cu/Mg/Al, preparation pH = 3",Yes,CuO,Cu,56,NA,NA,NA,MgO,33,Al2O3,11,98,13.00,573,20,2.8,NA,NA,14.6,3.2,0.47,NA
+Dasireddy et al. (2018),https://doi.org/10.1016/j.jcou.2018.09.002,"Cu/Mg/Al, preparation pH = 3",Yes,CuO,Cu,56,NA,NA,NA,MgO,33,Al2O3,11,98,13.00,623,20,2.8,NA,NA,19.6,1.6,0.31,NA
+Dasireddy et al. (2018),https://doi.org/10.1016/j.jcou.2018.09.002,"Cu/Mg/Al, preparation pH = 3",Yes,CuO,Cu,56,NA,NA,NA,MgO,33,Al2O3,11,98,13.00,673,20,2.8,NA,NA,24.5,0.6,0.15,NA
+Dasireddy et al. (2018),https://doi.org/10.1016/j.jcou.2018.09.002,"Cu/Mg/Al, preparation pH = 5",Yes,CuO,Cu,56,NA,NA,NA,MgO,33,Al2O3,11,65,12.90,473,20,2.8,NA,NA,1.5,33,0.50,NA
+Dasireddy et al. (2018),https://doi.org/10.1016/j.jcou.2018.09.002,"Cu/Mg/Al, preparation pH = 5",Yes,CuO,Cu,56,NA,NA,NA,MgO,33,Al2O3,11,65,12.90,523,20,2.8,NA,NA,11.5,10,1.15,NA
+Dasireddy et al. (2018),https://doi.org/10.1016/j.jcou.2018.09.002,"Cu/Mg/Al, preparation pH = 5",Yes,CuO,Cu,56,NA,NA,NA,MgO,33,Al2O3,11,65,12.90,573,20,2.8,NA,NA,20,2.9,0.58,NA
+Dasireddy et al. (2018),https://doi.org/10.1016/j.jcou.2018.09.002,"Cu/Mg/Al, preparation pH = 5",Yes,CuO,Cu,56,NA,NA,NA,MgO,33,Al2O3,11,65,12.90,623,20,2.8,NA,NA,26.9,1.3,0.35,NA
+Dasireddy et al. (2018),https://doi.org/10.1016/j.jcou.2018.09.002,"Cu/Mg/Al, preparation pH = 5",Yes,CuO,Cu,56,NA,NA,NA,MgO,33,Al2O3,11,65,12.90,673,20,2.8,NA,NA,33,0.5,0.17,NA
+Dasireddy et al. (2018),https://doi.org/10.1016/j.jcou.2018.09.002,"Cu/Mg/Al, preparation pH = 9",Yes,CuO,Cu,56,NA,NA,NA,MgO,33,Al2O3,11,61,13.10,473,20,2.8,NA,NA,4.8,3.5,0.17,NA
+Dasireddy et al. (2018),https://doi.org/10.1016/j.jcou.2018.09.002,"Cu/Mg/Al, preparation pH = 9",Yes,CuO,Cu,56,NA,NA,NA,MgO,33,Al2O3,11,61,13.10,523,20,2.8,NA,NA,12,1.5,0.18,NA
+Dasireddy et al. (2018),https://doi.org/10.1016/j.jcou.2018.09.002,"Cu/Mg/Al, preparation pH = 9",Yes,CuO,Cu,56,NA,NA,NA,MgO,33,Al2O3,11,61,13.10,573,20,2.8,NA,NA,19.8,1.8,0.36,NA
+Dasireddy et al. (2018),https://doi.org/10.1016/j.jcou.2018.09.002,"Cu/Mg/Al, preparation pH = 9",Yes,CuO,Cu,56,NA,NA,NA,MgO,33,Al2O3,11,61,13.10,623,20,2.8,NA,NA,26.9,1.3,0.35,NA
+Dasireddy et al. (2018),https://doi.org/10.1016/j.jcou.2018.09.002,"Cu/Mg/Al, preparation pH = 9",Yes,CuO,Cu,56,NA,NA,NA,MgO,33,Al2O3,11,61,13.10,673,20,2.8,NA,NA,33.5,0.7,0.23,NA
+Dasireddy et al. (2018),https://doi.org/10.1016/j.jcou.2018.09.002,"Cu/Mg/Al, preparation pH = 7",Yes,CuO,Cu,56,NA,NA,NA,MgO,33,Al2O3,11,59,12.90,473,20,2.8,NA,NA,2.9,32,0.93,NA
+Dasireddy et al. (2018),https://doi.org/10.1016/j.jcou.2018.09.002,"Cu/Mg/Al, preparation pH = 7",Yes,CuO,Cu,56,NA,NA,NA,MgO,33,Al2O3,11,59,12.90,523,20,2.8,NA,NA,12.7,7,0.89,NA
+Dasireddy et al. (2018),https://doi.org/10.1016/j.jcou.2018.09.002,"Cu/Mg/Al, preparation pH = 7",Yes,CuO,Cu,56,NA,NA,NA,MgO,33,Al2O3,11,59,12.90,573,20,2.8,NA,NA,20,3,0.60,NA
+Dasireddy et al. (2018),https://doi.org/10.1016/j.jcou.2018.09.002,"Cu/Mg/Al, preparation pH = 7",Yes,CuO,Cu,56,NA,NA,NA,MgO,33,Al2O3,11,59,12.90,623,20,2.8,NA,NA,26.8,1.3,0.35,NA
+Dasireddy et al. (2018),https://doi.org/10.1016/j.jcou.2018.09.002,"Cu/Mg/Al, preparation pH = 7",Yes,CuO,Cu,56,NA,NA,NA,MgO,33,Al2O3,11,59,12.90,673,20,2.8,NA,NA,33.2,0.6,0.20,NA
+Dasireddy et al. (2018),https://doi.org/10.1016/j.jcou.2018.09.002,"Cu/Mg/Al, preparation pH=8",Yes,CuO,Cu,56,NA,NA,NA,MgO,33,Al2O3,11,55,13.10,473,20,2.8,NA,NA,3.6,31,1.12,NA
+Dasireddy et al. (2018),https://doi.org/10.1016/j.jcou.2018.09.002,"Cu/Mg/Al, preparation pH=8",Yes,CuO,Cu,56,NA,NA,NA,MgO,33,Al2O3,11,55,13.10,523,20,2.8,NA,NA,12.5,5.7,0.71,NA
+Dasireddy et al. (2018),https://doi.org/10.1016/j.jcou.2018.09.002,"Cu/Mg/Al, preparation pH=8",Yes,CuO,Cu,56,NA,NA,NA,MgO,33,Al2O3,11,55,13.10,573,20,2.8,NA,NA,19.5,2.2,0.43,NA
+Dasireddy et al. (2018),https://doi.org/10.1016/j.jcou.2018.09.002,"Cu/Mg/Al, preparation pH=8",Yes,CuO,Cu,56,NA,NA,NA,MgO,33,Al2O3,11,55,13.10,623,20,2.8,NA,NA,26.4,1.2,0.32,NA
+Dasireddy et al. (2018),https://doi.org/10.1016/j.jcou.2018.09.002,"Cu/Mg/Al, preparation pH=8",Yes,CuO,Cu,56,NA,NA,NA,MgO,33,Al2O3,11,55,13.10,673,20,2.8,NA,NA,32.6,0.5,0.16,NA
+Dasireddy et al. (2018),https://doi.org/10.1016/j.jcou.2018.09.002,"Cu/Mg/Al, preparation pH=11",Yes,CuO,Cu,56,NA,NA,NA,MgO,33,Al2O3,11,64,13.10,473,20,2.8,NA,NA,0.3,0,0.00,NA
+Dasireddy et al. (2018),https://doi.org/10.1016/j.jcou.2018.09.002,"Cu/Mg/Al, preparation pH=11",Yes,CuO,Cu,56,NA,NA,NA,MgO,33,Al2O3,11,64,13.10,523,20,2.8,NA,NA,4,0,0.00,NA
+Dasireddy et al. (2018),https://doi.org/10.1016/j.jcou.2018.09.002,"Cu/Mg/Al, preparation pH=11",Yes,CuO,Cu,56,NA,NA,NA,MgO,33,Al2O3,11,64,13.10,573,20,2.8,NA,NA,17.7,3.6,0.64,NA
+Dasireddy et al. (2018),https://doi.org/10.1016/j.jcou.2018.09.002,"Cu/Mg/Al, preparation pH=11",Yes,CuO,Cu,56,NA,NA,NA,MgO,33,Al2O3,11,64,13.10,623,20,2.8,NA,NA,27.4,1.2,0.33,NA
+Dasireddy et al. (2018),https://doi.org/10.1016/j.jcou.2018.09.002,"Cu/Mg/Al, preparation pH=11",Yes,CuO,Cu,56,NA,NA,NA,MgO,33,Al2O3,11,64,13.10,673,20,2.8,NA,NA,33.7,0.5,0.17,NA
+Fujitani et al. (1995),https://doi.org/10.1016/0926-860X(95)00049-6,Pd/ZrO2,Yes,NA,Pd,11.4,NA,NA,NA,ZrO2,88.6,NA,NA,NA,NA,523,50,3,18.00,1,0.4,4.3,0.02,0.0010
+Fujitani et al. (1995),https://doi.org/10.1016/0926-860X(95)00049-6,Pd/SiO2,Yes,NA,Pd,5.9,NA,NA,NA,SiO2,94.1,NA,NA,NA,NA,523,50,3,18.00,1,0.05,100,0.05,0.0030
+Fujitani et al. (1995),https://doi.org/10.1016/0926-860X(95)00049-6,Pd/Cr2O3,Yes,NA,Pd,13.7,NA,NA,NA,Cr2O3,86.3,NA,NA,NA,NA,523,50,3,18.00,1,2.1,22.4,0.5,0.0282
+Fujitani et al. (1995),https://doi.org/10.1016/0926-860X(95)00049-6,Pd/TiO2,Yes,NA,Pd,7.7,NA,NA,NA,TiO2,92.3,NA,NA,NA,NA,523,50,3,18.00,1,15.5,3.9,0.6,0.0362
+Fujitani et al. (1995),https://doi.org/10.1016/0926-860X(95)00049-6,Pd/Al2O3,Yes,NA,Pd,9.6,NA,NA,NA,Al2O3,90.4,NA,NA,NA,NA,523,50,3,18.00,1,3.4,29.9,1.0,0.0609
+Fujitani et al. (1995),https://doi.org/10.1016/0926-860X(95)00049-6,Cu/ZnO,Yes,CuO,Cu,12.5,NA,NA,NA,ZnO,87.5,NA,NA,NA,NA,523,50,3,18.00,1,11.7,36.1,4.2,0.2532
+Fujitani et al. (1995),https://doi.org/10.1016/0926-860X(95)00049-6,Pd/ZnO,Yes,NA,Pd,7.8,NA,NA,NA,ZnO,92.2,NA,NA,NA,NA,523,50,3,18.00,1,13.8,37.5,5.2,0.3102
+Fujitani et al. (1995),https://doi.org/10.1016/0926-860X(95)00049-6,Pd/Ga2O3,Yes,NA,Pd,16.4,NA,NA,NA,Ga2O3,83.6,NA,NA,NA,NA,523,50,3,18.00,1,19.6,51.5,10.1,0.6050
+Gao et al. (2013c),https://doi.org/10.1016/j.apcata.2013.09.026,CHT-AY,Yes,CuO,Cu,59,ZnO,ZnO,27,Al2O3,13,Y2O3,1,107,24.80,523,50,3,12.00,0.5,26.9,47.1,12.67,0.5063
+Gao et al. (2013c),https://doi.org/10.1016/j.apcata.2013.09.026,CHT-AZr,Yes,CuO,Cu,57,ZnO,ZnO,28,Al2O3,12,ZrO2,3,71,23.70,523,50,3,12.00,0.5,24.7,48,11.86,0.4738
+Gao et al. (2013c),https://doi.org/10.1016/j.apcata.2013.09.026,CHT-ACe,Yes,CuO,Cu,58,ZnO,ZnO,27,Al2O3,13,CeO2,3,59,28.50,523,50,3,12.00,0.5,23.6,45.9,10.83,0.4329
+Gao et al. (2013c),https://doi.org/10.1016/j.apcata.2013.09.026,CHT-ALa,Yes,CuO,Cu,58,ZnO,ZnO,28,Al2O3,13,La2O3,1,57,21.10,523,50,3,12.00,0.5,23.3,43.8,10.21,0.4078
+Gao et al. (2013c),https://doi.org/10.1016/j.apcata.2013.09.026,CHT-AMn,Yes,CuO,Cu,58,ZnO,ZnO,27,Al2O3,13,MnO,3,48,24.20,523,50,3,12.00,0.5,22.3,43,9.59,0.3832
+Gao et al. (2013c),https://doi.org/10.1016/j.apcata.2013.09.026,CHT-A,Yes,CuO,Cu,58,ZnO,ZnO,28,Al2O3,14,NA,NA,46,26.10,523,50,3,12.00,0.5,19.7,39.7,7.82,0.3125
+Guo et al. (2011),https://doi.org/10.1016/j.molcata.2011.05.019,CZ,Yes,CuO,Cu,50,NA,NA,NA,ZrO2,50,NA,NA,36,NA,493,30,3,3.17,0.5,5.3,58,3.1,0.0324
+Guo et al. (2011),https://doi.org/10.1016/j.molcata.2011.05.019,CZ,Yes,CuO,Cu,50,NA,NA,NA,ZrO2,50,NA,NA,36,NA,473,30,3,3.17,0.5,NA,NA,2.0,0.0211
+Guo et al. (2011),https://doi.org/10.1016/j.molcata.2011.05.019,CZ,Yes,CuO,Cu,50,NA,NA,NA,ZrO2,50,NA,NA,36,NA,513,30,3,3.17,0.5,NA,NA,4.4,0.0464
+Guo et al. (2011),https://doi.org/10.1016/j.molcata.2011.05.019,CZ,Yes,CuO,Cu,50,NA,NA,NA,ZrO2,50,NA,NA,36,NA,533,30,3,3.17,0.5,NA,NA,4.9,0.0517
+Guo et al. (2011),https://doi.org/10.1016/j.molcata.2011.05.019,CZ,Yes,CuO,Cu,50,NA,NA,NA,ZrO2,50,NA,NA,36,NA,553,30,3,3.17,0.5,NA,NA,4.6,0.0486
+Guo et al. (2011),https://doi.org/10.1016/j.molcata.2011.05.019,1%LCZ,Yes,CuO,Cu,49.75,NA,NA,NA,ZrO2,49.75,La2O3,0.5,40,NA,493,30,3,3.17,0.5,5.5,60,3.3,0.0348
+Guo et al. (2011),https://doi.org/10.1016/j.molcata.2011.05.019,1%LCZ,Yes,CuO,Cu,49.75,NA,NA,NA,ZrO2,49.75,La2O3,0.5,40,NA,473,30,3,3.17,0.5,NA,NA,2.1,0.0222
+Guo et al. (2011),https://doi.org/10.1016/j.molcata.2011.05.019,1%LCZ,Yes,CuO,Cu,49.75,NA,NA,NA,ZrO2,49.75,La2O3,0.5,40,NA,513,30,3,3.17,0.5,NA,NA,4.7,0.0496
+Guo et al. (2011),https://doi.org/10.1016/j.molcata.2011.05.019,1%LCZ,Yes,CuO,Cu,49.75,NA,NA,NA,ZrO2,49.75,La2O3,0.5,40,NA,533,30,3,3.17,0.5,NA,NA,5.1,0.0538
+Guo et al. (2011),https://doi.org/10.1016/j.molcata.2011.05.019,1%LCZ,Yes,CuO,Cu,49.75,NA,NA,NA,ZrO2,49.75,La2O3,0.5,40,NA,553,30,3,3.17,0.5,NA,NA,4.7,0.0496
+Guo et al. (2011),https://doi.org/10.1016/j.molcata.2011.05.019,3%LCZ,Yes,CuO,Cu,49.25,NA,NA,NA,ZrO2,49.25,La2O3,1.5,52,NA,493,30,3,3.17,0.5,5.7,65,3.7,0.0391
+Guo et al. (2011),https://doi.org/10.1016/j.molcata.2011.05.019,7% LCZ,Yes,CuO,Cu,48.25,NA,NA,NA,ZrO2,48.25,La2O3,3.5,59,NA,493,30,3,3.17,0.5,5.8,72,4.1,0.0433
+Guo et al. (2011),https://doi.org/10.1016/j.molcata.2011.05.019,10%LCZ,Yes,CuO,Cu,47.5,NA,NA,NA,ZrO2,47.5,La2O3,5,58,NA,493,30,3,3.17,0.5,5.8,72,4.2,0.0441
+Guo et al. (2011),https://doi.org/10.1016/j.molcata.2011.05.019,10%LCZ,Yes,CuO,Cu,47.5,NA,NA,NA,ZrO2,47.5,La2O3,5,58,NA,473,30,3,3.17,0.5,NA,NA,2.7,0.0285
+Guo et al. (2011),https://doi.org/10.1016/j.molcata.2011.05.019,10%LCZ,Yes,CuO,Cu,47.5,NA,NA,NA,ZrO2,47.5,La2O3,5,58,NA,513,30,3,3.17,0.5,NA,NA,5.7,0.0602
+Guo et al. (2011),https://doi.org/10.1016/j.molcata.2011.05.019,10%LCZ,Yes,CuO,Cu,47.5,NA,NA,NA,ZrO2,47.5,La2O3,5,58,NA,533,30,3,3.17,0.5,NA,NA,5.9,0.0623
+Guo et al. (2011),https://doi.org/10.1016/j.molcata.2011.05.019,10%LCZ,Yes,CuO,Cu,47.5,NA,NA,NA,ZrO2,47.5,La2O3,5,58,NA,553,30,3,3.17,0.5,NA,NA,5.1,0.0538
+Guo et al. (2011),https://doi.org/10.1016/j.molcata.2011.05.019,5%LCZ,Yes,CuO,Cu,48.5,NA,NA,NA,ZrO2,48.75,La2O3,2.5,54,NA,493,30,3,3.17,0.5,6.2,66,4.3,0.0454
+Guo et al. (2011),https://doi.org/10.1016/j.molcata.2011.05.019,5%LCZ,Yes,CuO,Cu,48.5,NA,NA,NA,ZrO2,48.75,La2O3,2.5,54,NA,473,30,3,3.17,0.5,NA,NA,2.8,0.0296
+Guo et al. (2011),https://doi.org/10.1016/j.molcata.2011.05.019,5%LCZ,Yes,CuO,Cu,48.5,NA,NA,NA,ZrO2,48.75,La2O3,2.5,54,NA,513,30,3,3.17,0.5,NA,NA,5.9,0.0623
+Guo et al. (2011),https://doi.org/10.1016/j.molcata.2011.05.019,5%LCZ,Yes,CuO,Cu,48.5,NA,NA,NA,ZrO2,48.75,La2O3,2.5,54,NA,533,30,3,3.17,0.5,NA,NA,6.3,0.0665
+Guo et al. (2011),https://doi.org/10.1016/j.molcata.2011.05.019,5%LCZ,Yes,CuO,Cu,48.5,NA,NA,NA,ZrO2,48.75,La2O3,2.5,54,NA,553,30,3,3.17,0.5,NA,NA,4.9,0.0517
+J. Chen 2024,https://doi.org/10.1002/anie.202401168,In2O3,Yes,NA,NA,NA,NA,NA,NA,In2O3,100,NA,NA,119.6,12.40,523,30,3,8.64,0.2,3.3,62.4,2.1,0.0592
+J. Chen 2024,https://doi.org/10.1002/anie.202401168,Ir1In2O3 CP,Yes,Ir,Ir,1.3,NA,NA,NA,In2O3,98.7,NA,NA,122.9,9.60,523,30,3,8.64,0.2,5.9,80.5,4.7,0.1367
+J. Chen 2024,https://doi.org/10.1002/anie.202401168,Ir1In2O3 PD,Yes,Ir,Ir,1.3,NA,NA,NA,In2O3,98.7,NA,NA,115.4,12.40,523,30,3,8.64,0.2,6.4,78.4,5.0,0.1444
+J. Chen 2024,https://doi.org/10.1002/anie.202401168,Pd1In2O3 CP,Yes,Pd,Pd,1.3,NA,NA,NA,In2O3,98.7,NA,NA,127.7,12.00,523,30,3,8.64,0.2,6.7,76.3,5.1,0.1471
+J. Chen 2024,https://doi.org/10.1002/anie.202401168,Pd1In2O3 PD,Yes,Pd,Pd,1.3,NA,NA,NA,In2O3,98.7,NA,NA,115.3,12.40,523,30,3,8.64,0.2,7.8,67.2,5.2,0.1508
+J. Chen 2024,https://doi.org/10.1002/anie.202401168,Ir1Pd1-In2O3(CP-CP),Yes,Ir,Ir,0.65,Pd,Pd,0.65,In2O3,98.7,NA,NA,NA,NA,523,30,3,8.64,0.2,6.5,72.3,4.7,0.1352
+J. Chen 2024,https://doi.org/10.1002/anie.202401168,Ir1Pd1-In2O3(CP-PD),Yes,Ir,Ir,0.65,Pd,Pd,0.65,In2O3,98.7,NA,NA,118.6,9.60,523,30,3,8.64,0.2,10.6,97,10.3,0.2958
+J. Chen 2024,https://doi.org/10.1002/anie.202401168,Ir1Pd1-In2O3(CP-AP),Yes,Ir,Ir,0.65,Pd,Pd,0.65,In2O3,98.7,NA,NA,NA,NA,523,30,3,8.64,0.2,7.9,79.8,6.3,0.1814
+J. Chen 2024,https://doi.org/10.1002/anie.202401168,Ir1Pd1-In2O3(AP-AP),Yes,Ir,Ir,0.65,Pd,Pd,0.65,In2O3,98.7,NA,NA,119.8,12.40,523,30,3,8.64,0.2,7.6,75.9,5.8,0.1660
+J. Chen 2024,https://doi.org/10.1002/anie.202401168,Ir1Pd1-In2O3(PD-PD),Yes,Ir,Ir,0.65,Pd,Pd,0.65,In2O3,98.7,NA,NA,NA,NA,523,30,3,8.64,0.2,8.5,88.1,7.5,0.2155
+J. Chen 2024,https://doi.org/10.1002/anie.202401168,Ir1Pd1-In2O3(GM),Yes,Ir,Ir,0.65,Pd,Pd,0.65,In2O3,98.7,NA,NA,117.4,10.60,523,30,3,8.64,0.2,5.8,68.6,4.0,0.1145
+J. Chen 2024,https://doi.org/10.1002/anie.202401168,Ir1Pd1-In2O3(PM),Yes,Ir,Ir,0.65,Pd,Pd,0.65,In2O3,98.7,NA,NA,116.4,10.20,523,30,3,8.64,0.2,6.5,73.4,4.8,0.1373
+J. Chen 2024,https://doi.org/10.1002/anie.202401168,Pd1Ir1-In2O3(CP-PD),Yes,Ir,Ir,0.65,Pd,Pd,0.65,In2O3,98.7,NA,NA,NA,NA,523,30,3,8.64,0.2,6.3,78.3,4.9,0.1419
+J. Chen 2024,https://doi.org/10.1002/anie.202401168,Pd1Pd1-In2O3(CP-PD),Yes,Pd,Pd,1.3,NA,NA,NA,In2O3,98.7,NA,NA,NA,NA,523,30,3,8.64,0.2,11,83.2,9.2,0.2633
+J. Chen 2024,https://doi.org/10.1002/anie.202401168,Ir1Ir1-In2O3(CP-PD),Yes,Ir,Ir,1.3,NA,NA,NA,In2O3,98.7,NA,NA,NA,NA,523,30,3,8.64,0.2,5.4,95.7,5.2,0.1487
+J. Chen 2024,https://doi.org/10.1002/anie.202401168,0.5Ir1Pd1-In2O3(CP-PD) ,Yes,Ir,Ir,0.35,Pd,Pd,0.35,In2O3,99.7,NA,NA,114.9,12.30,523,30,3,8.64,0.2,5,85.3,4.3,0.1227
+J. Chen 2024,https://doi.org/10.1002/anie.202401168,2Ir1Pd1-In2O3(CP-PD),Yes,Ir,Ir,1.3,Pd,Pd,1.5,In2O3,97.2,NA,NA,118.8,9.60,523,30,3,8.64,0.2,9.8,92.1,9.0,0.2597
+J. Chen 2024,https://doi.org/10.1002/anie.202401168,4Ir1Pd1-In2O3(CP-PD),Yes,Ir,Ir,2.3,Pd,Pd,3.1,In2O3,94.6,NA,NA,118.6,9.60,523,30,3,8.64,0.2,7.9,91.5,7.2,0.2080
+J. Chen 2024,https://doi.org/10.1002/anie.202401168,10Ir1Pd1-In2O3(CP-PD),Yes,Ir,Ir,5.2,Pd,Pd,7.3,In2O3,87.5,NA,NA,123.5,9.50,523,30,3,8.64,0.2,6.5,81.5,5.3,0.1524
+J. Chen 2024,https://doi.org/10.1002/anie.202401168,Ir1Pd1-In2O3(CP-PD) ,Yes,Ir,Ir,0.65,Pd,Pd,0.65,In2O3,98.7,NA,NA,118.6,9.60,523,30,3,17.28,0.2,10.2,94.7,9.7,0.5558
+J. Chen 2024,https://doi.org/10.1002/anie.202401168,Ir1Pd1-In2O3(CP-PD) ,Yes,Ir,Ir,0.65,Pd,Pd,0.65,In2O3,98.7,NA,NA,118.6,9.60,523,30,3,34.56,0.2,9.5,90,8.6,0.9840
+J. Chen 2024,https://doi.org/10.1002/anie.202401168,Ir1Pd1-In2O3(CP-PD) ,Yes,Ir,Ir,0.65,Pd,Pd,0.65,In2O3,98.7,NA,NA,118.6,9.60,523,30,3,51.84,0.2,8.6,84.4,7.3,1.2530
+J. Chen 2024,https://doi.org/10.1002/anie.202401168,Ir1Pd1-In2O3(CP-PD) ,Yes,Ir,Ir,0.65,Pd,Pd,0.65,In2O3,98.7,NA,NA,118.6,9.60,473,30,3,8.64,0.2,5.6,99.7,5.6,0.1606
+J. Chen 2024,https://doi.org/10.1002/anie.202401168,Ir1Pd1-In2O3(CP-PD) ,Yes,Ir,Ir,0.65,Pd,Pd,0.65,In2O3,98.7,NA,NA,118.6,9.60,498,30,3,8.64,0.2,7.7,99.1,7.6,0.2195
+J. Chen 2024,https://doi.org/10.1002/anie.202401168,Ir1Pd1-In2O3(CP-PD) ,Yes,Ir,Ir,0.65,Pd,Pd,0.65,In2O3,98.7,NA,NA,118.6,9.60,548,30,3,8.64,0.2,12.8,82.4,10.5,0.3035
+J. Chen 2024,https://doi.org/10.1002/anie.202401168,Ir1Pd1-In2O3(CP-PD) ,Yes,Ir,Ir,0.65,Pd,Pd,0.65,In2O3,98.7,NA,NA,118.6,9.60,573,30,3,8.64,0.2,14.4,71.2,10.3,0.2950
+J. Guo et al 2024,https://doi.org/10.1016/j.cej.2024.149370,Pd-Pt/In2O3,Yes,Pd,Pd,1.2,Pt,Pt,0.7,In2O3,98.1,NA,NA,65.4,NA,573,50,4,21.00,0.2,16.5,66,10.89,0.6092
+J. Guo et al 2024,https://doi.org/10.1016/j.cej.2024.149370,Pd-Pt/In2O3-n(1:3),Yes,Pd,Pd,0.65,Pt,Pt,1.15,In2O3,98.2,NA,NA,NA,NA,573,50,4,21.00,0.2,16,62,9.92,0.5550
+J. Guo et al 2024,https://doi.org/10.1016/j.cej.2024.149370,Pd/In2O3,Yes,Pd,Pd,2.6,NA,NA,NA,In2O3,97.4,NA,NA,61.9,NA,573,50,4,21.00,0.2,15,66,9.9,0.5539
+J. Guo et al 2024,https://doi.org/10.1016/j.cej.2024.149370,Pd-Pt/In2O3-n(3:1),Yes,Pd,Pd,2,Pt,Pt,0.4,In2O3,97.6,NA,NA,NA,NA,573,50,4,21.00,0.2,14.5,66,9.57,0.5354
+J. Guo et al 2024,https://doi.org/10.1016/j.cej.2024.149370,Pd-Pt/In2O3,Yes,Pd,Pd,1.2,Pt,Pt,0.7,In2O3,98.1,NA,NA,65.4,NA,553,50,4,21.00,0.2,12.5,75,9.375,0.5245
+J. Guo et al 2024,https://doi.org/10.1016/j.cej.2024.149370,Pt/In2O3,Yes,Pt,Pt,1.4,NA,NA,NA,In2O3,98.6,NA,NA,64.4,NA,573,50,4,21.00,0.2,16,57,9.12,0.5102
+J. Guo et al 2024,https://doi.org/10.1016/j.cej.2024.149370,Pd-Pt/In2O3-n(1:3),Yes,Pd,Pd,0.65,Pt,Pt,1.15,In2O3,98.2,NA,NA,NA,NA,553,50,4,21.00,0.2,12.5,68,8.5,0.4755
+J. Guo et al 2024,https://doi.org/10.1016/j.cej.2024.149370,Pd-Pt/In2O3,Yes,Pd,Pd,1.2,Pt,Pt,0.7,In2O3,98.1,NA,NA,65.4,NA,533,50,4,21.00,0.2,9.5,85,8.075,0.4518
+J. Guo et al 2024,https://doi.org/10.1016/j.cej.2024.149370,Pd-Pt/In2O3-n(3:1),Yes,Pd,Pd,2,Pt,Pt,0.4,In2O3,97.6,NA,NA,NA,NA,553,50,4,21.00,0.2,10.5,75,7.875,0.4406
+J. Guo et al 2024,https://doi.org/10.1016/j.cej.2024.149370,Pd/In2O3,Yes,Pd,Pd,2.6,NA,NA,NA,In2O3,97.4,NA,NA,61.9,NA,553,50,4,21.00,0.2,10.1,75,7.575,0.4238
+J. Guo et al 2024,https://doi.org/10.1016/j.cej.2024.149370,Pt/In2O3,Yes,Pt,Pt,1.4,NA,NA,NA,In2O3,98.6,NA,NA,64.4,NA,553,50,4,21.00,0.2,10.5,71,7.455,0.4171
+J. Guo et al 2024,https://doi.org/10.1016/j.cej.2024.149370,Pd-Pt/In2O3-n(3:1),Yes,Pd,Pd,2,Pt,Pt,0.4,In2O3,97.6,NA,NA,NA,NA,533,50,4,21.00,0.2,8,86,6.88,0.3849
+J. Guo et al 2024,https://doi.org/10.1016/j.cej.2024.149370,Pd-Pt/In2O3-n(1:3),Yes,Pd,Pd,0.65,Pt,Pt,1.15,In2O3,98.2,NA,NA,NA,NA,533,50,4,21.00,0.2,8,84,6.72,0.3759
+J. Guo et al 2024,https://doi.org/10.1016/j.cej.2024.149370,Pt/In2O3,Yes,Pt,Pt,1.4,NA,NA,NA,In2O3,98.6,NA,NA,64.4,NA,533,50,4,21.00,0.2,7.5,84,6.3,0.3525
+J. Guo et al 2024,https://doi.org/10.1016/j.cej.2024.149370,Pd-Pt/In2O3,Yes,Pd,Pd,1.2,Pt,Pt,0.7,In2O3,98.1,NA,NA,65.4,NA,513,50,4,21.00,0.2,6.5,96,6.24,0.3491
+J. Guo et al 2024,https://doi.org/10.1016/j.cej.2024.149370,Pd/In2O3,Yes,Pd,Pd,2.6,NA,NA,NA,In2O3,97.4,NA,NA,61.9,NA,533,50,4,21.00,0.2,7,86,6.02,0.3368
+J. Guo et al 2024,https://doi.org/10.1016/j.cej.2024.149370,Pd-Pt/In2O3-n(1:3),Yes,Pd,Pd,0.65,Pt,Pt,1.15,In2O3,98.2,NA,NA,NA,NA,513,50,4,21.00,0.2,6,88,5.28,0.2954
+J. Guo et al 2024,https://doi.org/10.1016/j.cej.2024.149370,Pd-Pt/In2O3-n(3:1),Yes,Pd,Pd,2,Pt,Pt,0.4,In2O3,97.6,NA,NA,NA,NA,513,50,4,21.00,0.2,5.5,95,5.225,0.2923
+J. Guo et al 2024,https://doi.org/10.1016/j.cej.2024.149370,Pt/In2O3,Yes,Pt,Pt,1.4,NA,NA,NA,In2O3,98.6,NA,NA,64.4,NA,513,50,4,21.00,0.2,4.95,96,4.752,0.2658
+J. Guo et al 2024,https://doi.org/10.1016/j.cej.2024.149370,Pd/In2O3,Yes,Pd,Pd,2.6,NA,NA,NA,In2O3,97.4,NA,NA,61.9,NA,513,50,4,21.00,0.2,4.9,95,4.655,0.2604
+J. Guo et al 2024,https://doi.org/10.1016/j.cej.2024.149370,Pd-Pt/In2O3,Yes,Pd,Pd,1.2,Pt,Pt,0.7,In2O3,98.1,NA,NA,65.4,NA,493,50,4,21.00,0.2,4,99,3.96,0.2215
+J. Guo et al 2024,https://doi.org/10.1016/j.cej.2024.149370,Pd-Pt/In2O3-n(3:1),Yes,Pd,Pd,2,Pt,Pt,0.4,In2O3,97.6,NA,NA,NA,NA,493,50,4,21.00,0.2,3.5,99,3.465,0.1938
+J. Guo et al 2024,https://doi.org/10.1016/j.cej.2024.149370,Pt/In2O3,Yes,Pt,Pt,1.4,NA,NA,NA,In2O3,98.6,NA,NA,64.4,NA,493,50,4,21.00,0.2,3,99,2.97,0.1662
+J. Guo et al 2024,https://doi.org/10.1016/j.cej.2024.149370,Pd-Pt/In2O3-n(1:3),Yes,Pd,Pd,0.65,Pt,Pt,1.15,In2O3,98.2,NA,NA,NA,NA,493,50,4,21.00,0.2,3,99,2.97,0.1662
+J. Guo et al 2024,https://doi.org/10.1016/j.cej.2024.149370,Pd/In2O3,Yes,Pd,Pd,2.6,NA,NA,NA,In2O3,97.4,NA,NA,61.9,NA,493,50,4,21.00,0.2,2.5,99,2.475,0.1385
+Jia et al. (2010),https://doi.org/10.1016/S1002-0721(09)60193-9,LaMn0.5Cu0.5O3,Yes,LaMn0.5Cu0.5O3,LaMn0.5Cu0.5O3,100,NA,NA,NA,NA,NA,NA,NA,NA,NA,523,20,3,2.40,0.5,11.33,82.14,9.31,0.0744
+Jia et al. (2010),https://doi.org/10.1016/S1002-0721(09)60193-9,LaMn0.7Cu0.3O3,Yes,LaMn0.7Cu0.3O3,LaMn0.7Cu0.3O3,100,NA,NA,NA,NA,NA,NA,NA,NA,NA,523,20,3,2.40,0.5,3.94,68.1,2.68,0.0214
+Jia et al. (2010),https://doi.org/10.1016/S1002-0721(09)60193-9,LaMn0.3Cu0.7O3,Yes,LaMn0.3Cu0.7O3,LaMn0.3Cu0.7O3,100,NA,NA,NA,NA,NA,NA,NA,NA,NA,523,20,3,2.40,0.5,3.79,36.17,1.37,0.0110
+Jia et al. (2010),https://doi.org/10.1016/S1002-0721(09)60193-9,LaMn0.1Cu0.9O3,Yes,LaMn0.1Cu0.9O3,LaMn0.1Cu0.9O3,100,NA,NA,NA,NA,NA,NA,NA,NA,NA,523,20,3,2.40,0.5,1.28,9.32,0.12,0.0010
+Jia et al. (2010),https://doi.org/10.1016/S1002-0721(09)60193-9,LaMnO3,Yes,LaMnO3,LaMnO3,100,NA,NA,NA,NA,NA,NA,NA,NA,NA,523,20,3,2.40,0.5,0.83,0,0,0.0000
+Jiang et al. (2020b),https://doi.org/10.1016/j.jcat.2020.01.014,Cat-A(In2O3/ZrO2),Yes,In2O3,In2O3,5.1,NA,NA,NA,ZrO2,94.9,NA,NA,70.3,6.50,523,50,4,20.00,0.3,2.3,66.5,1.5295,0.0815
+Jiang et al. (2020b),https://doi.org/10.1016/j.jcat.2020.01.014,In2O3,Yes,In2O3,In2O3,100,NA,NA,NA,NA,NA,NA,NA,69.4,12.30,523,30,4,20.00,0.2,1.2,78.6,0.9432,0.0503
+Lin et al. (2022),https://doi.org/10.1016/j.jcou.2022.102209,CoIn-N,Yes,In2O3,In2O3,39,Co3O4,Co3O4,61,NA,NA,NA,NA,NA,NA,513,40,3,23.04,0.1,3,87.7,2.631,0.2019
+Lin et al. (2022),https://doi.org/10.1016/j.jcou.2022.102209,CoIn-N,Yes,In2O3,In2O3,39,Co3O4,Co3O4,61,NA,NA,NA,NA,NA,NA,528,40,3,23.04,0.1,3.6,80.1,2.8836,0.2212
+Lin et al. (2022),https://doi.org/10.1016/j.jcou.2022.102209,CoIn-N,Yes,In2O3,In2O3,39,Co3O4,Co3O4,61,NA,NA,NA,NA,NA,NA,543,40,3,23.04,0.1,4.4,70.2,3.0888,0.2370
+Lin et al. (2022),https://doi.org/10.1016/j.jcou.2022.102209,CoIn-N,Yes,In2O3,In2O3,39,Co3O4,Co3O4,61,NA,NA,NA,NA,NA,NA,558,40,3,23.04,0.1,5.1,59.3,3.0243,0.2320
+Lin et al. (2022),https://doi.org/10.1016/j.jcou.2022.102209,CoIn-N,Yes,In2O3,In2O3,39,Co3O4,Co3O4,61,NA,NA,NA,NA,NA,NA,573,40,3,23.04,0.1,6.6,46.7,3.0822,0.2365
+Lin et al. (2022),https://doi.org/10.1016/j.jcou.2022.102209,"CoIn-N, 1.04 wt% K",Yes,In2O3,In2O3,36.6,Co3O4,Co3O4,56.9,K,6.5,NA,NA,NA,NA,513,40,3,23.04,0.1,1.6,52.1,0.8336,0.0640
+Lin et al. (2022),https://doi.org/10.1016/j.jcou.2022.102209,"CoIn-N, 1.04 wt% K",Yes,In2O3,In2O3,37.6,Co3O4,Co3O4,57.9,K,7.5,NA,NA,NA,NA,528,40,3,23.04,0.1,2.4,43.1,1.0344,0.0794
+Lin et al. (2022),https://doi.org/10.1016/j.jcou.2022.102209,"CoIn-N, 1.04 wt% K",Yes,In2O3,In2O3,38.6,Co3O4,Co3O4,58.9,K,8.5,NA,NA,NA,NA,543,40,3,23.04,0.1,3.3,32.5,1.0725,0.0823
+Lin et al. (2022),https://doi.org/10.1016/j.jcou.2022.102209,"CoIn-N, 1.04 wt% K",Yes,In2O3,In2O3,39.6,Co3O4,Co3O4,59.9,K,9.5,NA,NA,NA,NA,558,40,3,23.04,0.1,4.9,25.3,1.2397,0.0951
+Lin et al. (2022),https://doi.org/10.1016/j.jcou.2022.102209,"CoIn-N, 1.04 wt% K",Yes,In2O3,In2O3,40.6,Co3O4,Co3O4,60.9,K,10.5,NA,NA,NA,NA,573,40,3,23.04,0.1,6.9,18.7,1.2903,0.0990
+Lei et al. (2016),https://doi.org/10.1016/j.fuel.2015.09.082,CZA-C-1.25,Yes,CuO,Cu,65,ZnO,ZnO,27.5,Al2O3,7.5,NA,NA,77.6,NA,513,30,3,3.60,2,16.2,63.8,10.34,0.1239
+Lei et al. (2016),https://doi.org/10.1016/j.fuel.2015.09.082,CZA-C-0.50,Yes,CuO,Cu,65,ZnO,ZnO,27.5,Al2O3,7.5,NA,NA,26.7,NA,513,30,3,3.60,2,5.6,62.3,3.49,0.0418
+Lei et al. (2016),https://doi.org/10.1016/j.fuel.2015.09.082,CZA-C-0.75,Yes,CuO,Cu,65,ZnO,ZnO,27.5,Al2O3,7.5,NA,NA,48.9,NA,513,30,3,3.60,2,8.9,62.9,5.60,0.0671
+Lei et al. (2016),https://doi.org/10.1016/j.fuel.2015.09.082,CZA-C-1.00,Yes,CuO,Cu,65,ZnO,ZnO,27.5,Al2O3,7.5,NA,NA,64.8,NA,513,30,3,3.60,2,14.6,63.6,9.29,0.1113
+Lei et al. (2016),https://doi.org/10.1016/j.fuel.2015.09.082,CZA-O-1.00,Yes,CuO,Cu,65,ZnO,ZnO,27.5,Al2O3,7.5,NA,NA,54.3,NA,513,30,3,3.60,2,12.1,62.6,7.57,0.0908
+Lei et al. (2016),https://doi.org/10.1016/j.fuel.2015.09.082,CZA-U-1.00,Yes,CuO,Cu,65,ZnO,ZnO,27.5,Al2O3,7.5,NA,NA,17.3,NA,513,30,3,3.60,2,3.2,53.9,1.72,0.0207
+Lei et al. (2016),https://doi.org/10.1016/j.fuel.2015.09.082,CZA-CC,Yes,CuO,Cu,65,ZnO,ZnO,27.5,Al2O3,7.5,NA,NA,43.2,NA,513,30,3,3.60,2,8.1,63.3,5.13,0.0615
+Lin et al. (2021),https://doi.org/10.1016/j.cattod.2020.05.049,Pd-Cu/Ti0.5Zr0.5O2,No,CuO,Cu,NA,Pd,Pd,NA,TiO2,NA,ZrO2,NA,158,2.30,523,41,3,3.66,0.2,10.5,38,4.0,0.0486
+Lin et al. (2021),https://doi.org/10.1016/j.cattod.2020.05.049,Pd-Cu/Ti0.2Zr0.8O2 ,No,CuO,Cu,NA,Pd,Pd,NA,TiO2,NA,ZrO2,NA,130,2.60,523,41,3,3.66,0.2,9.3,43.9,4.1,0.0498
+Lin et al. (2021),https://doi.org/10.1016/j.cattod.2020.05.049,Pd-Cu/Ti0.8Zr0.2O2,No,CuO,Cu,NA,Pd,Pd,NA,TiO2,NA,ZrO2,NA,200,2.80,523,41,3,3.66,0.2,13.4,30.5,4.1,0.0498
+Lin et al. (2021),https://doi.org/10.1016/j.cattod.2020.05.049,Pd-Cu/Ti0.1Zr0.9O2 ,No,CuO,Cu,NA,Pd,Pd,NA,TiO2,NA,ZrO2,NA,121,3.10,523,41,3,3.66,0.2,10.1,44.6,4.5,0.0549
+Lin et al. (2021),https://doi.org/10.1016/j.cattod.2020.05.049,Pd-Cu/ZrO2-C ,No,CuO,Cu,NA,Pd,Pd,NA,ZrO2,NA,NA,NA,50,3.40,523,41,3,3.66,0.2,7.2,40.2,2.9,0.0353
+Lin et al. (2021),https://doi.org/10.1016/j.cattod.2020.05.049,Pd-Cu/Ti0.8Ce0.2O2 ,No,CuO,Cu,NA,Pd,Pd,NA,TiO2,NA,CeO2,NA,192,3.90,523,41,3,3.66,0.2,12.4,27.1,3.4,0.0410
+Lin et al. (2021),https://doi.org/10.1016/j.cattod.2020.05.049,Pd-Cu/Ti0.3Zr0.7O2,No,CuO,Cu,NA,Pd,Pd,NA,TiO2,NA,ZrO2,NA,131,4.10,523,41,3,3.66,0.2,11.7,34.1,4.0,0.0486
+Lin et al. (2021),https://doi.org/10.1016/j.cattod.2020.05.049,Pd-Cu/CeO2-C,No,CuO,Cu,NA,Pd,Pd,NA,CeO2,NA,NA,NA,90,4.30,523,41,3,3.66,0.2,6.7,29.4,2.0,0.0240
+Lin et al. (2021),https://doi.org/10.1016/j.cattod.2020.05.049,Pd-Cu/TiO2-C ,No,CuO,Cu,NA,Pd,Pd,NA,TiO2,NA,NA,NA,60,4.30,523,41,3,3.66,0.2,11.9,18.9,2.2,0.0274
+Lin et al. (2021),https://doi.org/10.1016/j.cattod.2020.05.049,Pd-Cu/Ti0.2Ce0.8O2,No,CuO,Cu,NA,Pd,Pd,NA,TiO2,NA,CeO2,NA,104,5.80,523,41,3,3.66,0.2,8.5,31.4,2.7,0.0325
+Liu et al. (2016),https://doi.org/10.1016/j.molcata.2016.09.032,C/1%MT,Yes,CuO,Cu,9,NA,NA,NA,MgO,2,TiO2,89,97,NA,493,30,3,4.27,0.5,5.2,37.9,1.97,0.0280
+Liu et al. (2016),https://doi.org/10.1016/j.molcata.2016.09.032,C/1%MT,Yes,CuO,Cu,9,NA,NA,NA,MgO,2,TiO2,89,97,NA,453,30,3,4.27,0.5,3.5,52.6,1.84,0.0262
+Liu et al. (2016),https://doi.org/10.1016/j.molcata.2016.09.032,C/1%MT,Yes,CuO,Cu,9,NA,NA,NA,MgO,2,TiO2,89,97,NA,473,30,3,4.27,0.5,4.5,43.1,1.94,0.0276
+Liu et al. (2016),https://doi.org/10.1016/j.molcata.2016.09.032,C/1%MT,Yes,CuO,Cu,9,NA,NA,NA,MgO,2,TiO2,89,97,NA,513,30,3,4.27,0.5,7.1,31.6,2.24,0.0319
+Liu et al. (2016),https://doi.org/10.1016/j.molcata.2016.09.032,C/1%MT,Yes,CuO,Cu,9,NA,NA,NA,MgO,2,TiO2,89,97,NA,533,30,3,4.27,0.5,10.3,23.9,2.46,0.0350
+Liu et al. (2016),https://doi.org/10.1016/j.molcata.2016.09.032,C/3%MT,Yes,CuO,Cu,9,NA,NA,NA,MgO,5,TiO2,86,93,NA,493,30,3,4.27,0.5,3.6,48.2,1.74,0.0247
+Liu et al. (2016),https://doi.org/10.1016/j.molcata.2016.09.032,C/0.5%MT,Yes,CuO,Cu,9,NA,NA,NA,MgO,1,TiO2,90,87,NA,493,30,3,4.27,0.5,5,33.9,1.70,0.0241
+Liu et al. (2016),https://doi.org/10.1016/j.molcata.2016.09.032,C/7%MT,Yes,CuO,Cu,8.5,NA,NA,NA,MgO,11.8,TiO2,79.7,83,NA,493,30,3,4.27,0.5,2.4,46,1.10,0.0157
+Liu et al. (2016),https://doi.org/10.1016/j.molcata.2016.09.032,C/5%MT,Yes,CuO,Cu,8.7,NA,NA,NA,MgO,8.6,TiO2,82.7,82,NA,493,30,3,4.27,0.5,2.6,55.5,1.44,0.0205
+Liu et al. (2016),https://doi.org/10.1016/j.molcata.2016.09.032,C/T,Yes,CuO,Cu,11.2,NA,NA,NA,MgO,NA,TiO2,88.8,75,NA,493,30,3,4.27,0.5,4.3,29.8,1.28,0.0182
+Liu et al. (2016),https://doi.org/10.1016/j.molcata.2016.09.032,C/T,Yes,CuO,Cu,11.2,NA,NA,NA,MgO,NA,TiO2,88.8,75,NA,453,30,3,4.27,0.5,2,45.8,0.92,0.0130
+Liu et al. (2016),https://doi.org/10.1016/j.molcata.2016.09.032,C/T,Yes,CuO,Cu,11.2,NA,NA,NA,MgO,NA,TiO2,88.8,75,NA,473,30,3,4.27,0.5,3.4,37.2,1.26,0.0180
+Liu et al. (2016),https://doi.org/10.1016/j.molcata.2016.09.032,C/T,Yes,CuO,Cu,11.2,NA,NA,NA,MgO,NA,TiO2,88.8,75,NA,513,30,3,4.27,0.5,6.4,24.2,1.55,0.0220
+Liu et al. (2016),https://doi.org/10.1016/j.molcata.2016.09.032,C/T,Yes,CuO,Cu,11.2,NA,NA,NA,MgO,NA,TiO2,88.8,75,NA,533,30,3,4.27,0.5,9.7,21.1,2.05,0.0291
+Ma et al. (1998),https://doi.org/10.1016/S0926-860X(98)00079-9,Cat01,Yes,CuO,Cu,45,ZnO,ZnO,45,ZrO2,10,NA,NA,38.87,15.40,513,20,3,5.20,NA,12.3,40.5,5,0.0866
+Ma et al. (1998),https://doi.org/10.1016/S0926-860X(98)00079-9,Cat01,Yes,CuO,Cu,45,ZnO,ZnO,45,ZrO2,10,NA,NA,38.87,15.40,513,20,3,2.40,NA,18.5,36.3,6.7,0.0535
+Ma et al. (1998),https://doi.org/10.1016/S0926-860X(98)00079-9,Cat03,Yes,CuO,Cu,45,ZnO,ZnO,45,ZrO2,10,NA,NA,69.74,21.20,513,20,3,5.20,NA,14,41.5,5.8,0.1004
+Ma et al. (1998),https://doi.org/10.1016/S0926-860X(98)00079-9,Cat03,Yes,CuO,Cu,45,ZnO,ZnO,45,ZrO2,10,NA,NA,69.74,21.20,513,20,3,2.40,NA,18.5,38.4,7.1,0.0567
+Ma et al. (1998),https://doi.org/10.1016/S0926-860X(98)00079-9,Cat02,Yes,CuO,Cu,45,ZnO,ZnO,45,ZrO2,10,NA,NA,36.11,21.00,513,20,3,5.20,NA,9.5,45.5,4.3,0.0745
+Ma et al. (1998),https://doi.org/10.1016/S0926-860X(98)00079-9,Cat02,Yes,CuO,Cu,45,ZnO,ZnO,45,ZrO2,10,NA,NA,36.11,21.00,513,20,3,2.40,NA,17.1,36.6,6.3,0.0504
+Ma et al. (1998),https://doi.org/10.1016/S0926-860X(98)00079-9,Cat04,Yes,CuO,Cu,45,ZnO,ZnO,45,ZrO2,10,NA,NA,45.27,23.00,513,20,3,5.20,NA,13.1,43,5.6,0.0970
+Ma et al. (1998),https://doi.org/10.1016/S0926-860X(98)00079-9,Cat04,Yes,CuO,Cu,45,ZnO,ZnO,45,ZrO2,10,NA,NA,45.27,23.00,513,20,3,2.40,NA,18.7,36.7,6.9,0.0551
+Ma et al. (1998),https://doi.org/10.1016/S0926-860X(98)00079-9,Cat05,Yes,CuO,Cu,45,ZnO,ZnO,45,ZrO2,10,NA,NA,NA,NA,513,20,3,2.40,NA,17.53,33.08,5.798924,0.0463
+Ma et al. (1998),https://doi.org/10.1016/S0926-860X(98)00079-9,Cat05,Yes,CuO,Cu,45,ZnO,ZnO,45,ZrO2,10,NA,NA,NA,NA,513,20,3,5.20,NA,9.62,37.56,3.613272,0.0626
+Malik et al. (2018),https://doi.org/10.1016/j.apcata.2018.04.036,0.5Ca5P5ZC,Yes,Pd,Pd,7.2,ZnO,Zn,11.7,CeO2,79.3,Ca,1.8,67.39,3.63,493,30,3,2.40,0.5,7.7,100,7.7,0.0615
+Malik et al. (2018),https://doi.org/10.1016/j.apcata.2018.04.036,0.5Ca5P5ZC,Yes,Pd,Pd,7.2,ZnO,Zn,11.7,CeO2,79.3,Ca,1.8,67.39,3.63,503,30,3,2.40,0.5,9.57,98.25,9.402525,0.0751
+Malik et al. (2018),https://doi.org/10.1016/j.apcata.2018.04.036,0.5Ca5P5ZC,Yes,Pd,Pd,7.2,ZnO,Zn,11.7,CeO2,79.3,Ca,1.8,67.39,3.63,503,50,3,2.40,0.5,5.53,94.41,5.220873,0.0417
+Malik et al. (2018),https://doi.org/10.1016/j.apcata.2018.04.036,0.5Ca5P5ZC,Yes,Pd,Pd,7.2,ZnO,Zn,11.7,CeO2,79.3,Ca,1.8,67.39,3.63,503,30,3,2.40,0.5,9.63,97.8,9.41814,0.0753
+Malik et al. (2018),https://doi.org/10.1016/j.apcata.2018.04.036,5P5ZC,Yes,Pd,Pd,7.3,ZnO,Zn,11.8,CeO2,80.9,NA,NA,80.67,3.63,493,30,3,2.40,0.5,6.3,100,6.3,0.0504
+Malik et al. (2018),https://doi.org/10.1016/j.apcata.2018.04.036,5PC,Yes,Pd,Pd,7.8,NA,NA,NA,CeO2,92.2,NA,NA,69.17,1.41,493,30,3,2.40,0.5,1.7,70.1,1.1917,0.0095
+Malik et al. (2020),https://doi.org/10.1016/j.cattod.2019.05.040,5P5ZZr-IMP,Yes,Pd,Pd,5.5,ZnO,Zn,9,ZrO2,85.5,NA,NA,6.13,3.17,503,30,3,2.40,0.5,5.7,100,5.7,0.0456
+Malik et al. (2020),https://doi.org/10.1016/j.cattod.2019.05.040,5P5ZZr-IMP,Yes,Pd,Pd,5.5,ZnO,Zn,9,ZrO2,85.5,NA,NA,6.13,3.17,493,30,3,2.40,0.5,1.9,100,1.9,0.0152
+Malik et al. (2020),https://doi.org/10.1016/j.cattod.2019.05.040,5P5ZZr-IMP,Yes,Pd,Pd,5.5,ZnO,Zn,9,ZrO2,85.5,NA,NA,6.13,3.17,523,30,3,2.40,0.5,7.1,98,6.958,0.0556
+Malik et al. (2020),https://doi.org/10.1016/j.cattod.2019.05.040,5P5ZZr-IMP,Yes,Pd,Pd,5.5,ZnO,Zn,9,ZrO2,85.5,NA,NA,6.13,3.17,543,30,3,2.40,0.5,9.6,89,8.544,0.0683
+Malik et al. (2020),https://doi.org/10.1016/j.cattod.2019.05.040,5P5ZZr-IMP,Yes,Pd,Pd,5.5,ZnO,Zn,9,ZrO2,85.5,NA,NA,6.13,3.17,523,10,3,2.40,0.5,5.5,93.5,5.1425,0.0411
+Malik et al. (2020),https://doi.org/10.1016/j.cattod.2019.05.040,5P5ZZr-IMP,Yes,Pd,Pd,5.5,ZnO,Zn,9,ZrO2,85.5,NA,NA,6.13,3.17,523,20,3,2.40,0.5,8.2,95.4,7.8228,0.0625
+Malik et al. (2020),https://doi.org/10.1016/j.cattod.2019.05.040,5P5ZZr-IMP,Yes,Pd,Pd,5.5,ZnO,Zn,9,ZrO2,85.5,NA,NA,6.13,3.17,523,30,3,2.40,0.5,7.1,98.1,6.9651,0.0557
+Malik et al. (2020),https://doi.org/10.1016/j.cattod.2019.05.040,0.5Ca5P5ZZr-IMP,Yes,Pd,Pd,5.4,ZnO,Zn,8.9,ZrO2,84.2,Ca,1.5,6.12,3.32,503,30,3,2.40,0.5,7.2,100,7.2,0.0575
+Malik et al. (2020),https://doi.org/10.1016/j.cattod.2019.05.040,0.5Ca5P5ZZr-IMP,Yes,Pd,Pd,5.4,ZnO,Zn,8.9,ZrO2,84.2,Ca,1.5,6.12,3.32,493,30,3,2.40,0.5,3.8,100,3.8,0.0304
+Malik et al. (2020),https://doi.org/10.1016/j.cattod.2019.05.040,0.5Ca5P5ZZr-IMP,Yes,Pd,Pd,5.4,ZnO,Zn,8.9,ZrO2,84.2,Ca,1.5,6.12,3.32,523,30,3,2.40,0.5,9.5,99.2,9.424,0.0753
+Malik et al. (2020),https://doi.org/10.1016/j.cattod.2019.05.040,0.5Ca5P5ZZr-IMP,Yes,Pd,Pd,5.4,ZnO,Zn,8.9,ZrO2,84.2,Ca,1.5,6.12,3.32,543,30,3,2.40,0.5,10.9,91.3,9.9517,0.0795
+Malik et al. (2020),https://doi.org/10.1016/j.cattod.2019.05.040,0.5Ca5P5ZZr-IMP,Yes,Pd,Pd,5.4,ZnO,Zn,8.9,ZrO2,84.2,Ca,1.5,6.12,3.32,523,10,3,2.40,0.5,7.4,95.3,7.0522,0.0564
+Malik et al. (2020),https://doi.org/10.1016/j.cattod.2019.05.040,0.5Ca5P5ZZr-IMP,Yes,Pd,Pd,5.4,ZnO,Zn,8.9,ZrO2,84.2,Ca,1.5,6.12,3.32,523,20,3,2.40,0.5,10.4,98.1,10.2024,0.0815
+Malik et al. (2020),https://doi.org/10.1016/j.cattod.2019.05.040,0.5Ca5P5ZZr-IMP,Yes,Pd,Pd,5.4,ZnO,Zn,8.9,ZrO2,84.2,Ca,1.5,6.12,3.32,523,30,3,2.40,0.5,9.4,99.1,9.3154,0.0744
+Ota et al. (2012),https://doi.org/10.1016/j.jcat.2012.05.020,PdMgAl,Yes,Pd,Pd,1.2,NA,NA,NA,MgO,83.8,Al2O3,15,127,NA,523,30,3,14.60,0.4,0.3,4,0.012,0.0006
+Ota et al. (2012),https://doi.org/10.1016/j.jcat.2012.05.020,PdZnAl,Yes,Pd,Pd,1.2,NA,NA,NA,ZnO,83.8,Al2O3,15,86,NA,523,30,3,14.60,0.4,0.6,60,0.36,0.0175
+Ota et al. (2012),https://doi.org/10.1016/j.jcat.2012.05.020,PdMgGa,Yes,Pd,Pd,1.2,NA,NA,NA,MgO,83.8,Ga2O3,15,111,NA,523,30,3,14.60,0.4,1,47,0.47,0.0229
+R. Hou 2023,https://doi.org/10.1016/j.jes.2023.05.010,Au/In2O3-HM,Yes,Au,Au,1.4,NA,NA,NA,In2O3,98.6,NA,NA,32.6,30.80,573,30,4,15.00,0.2,6.34,57.29,3.632186,0.1451
+R. Hou 2023,https://doi.org/10.1016/j.jes.2023.05.010,Au/In2O3-HM,Yes,Au,Au,1.4,NA,NA,NA,In2O3,98.6,NA,NA,32.6,30.80,548,30,4,15.00,0.2,2.5,64,1.6,0.0639
+R. Hou 2023,https://doi.org/10.1016/j.jes.2023.05.010,Au/In2O3-HM,Yes,Au,Au,1.4,NA,NA,NA,In2O3,98.6,NA,NA,32.6,30.80,523,30,4,15.00,0.2,1,68,0.68,0.0272
+R. Hou 2023,https://doi.org/10.1016/j.jes.2023.05.010,Au/In2O3-HM,Yes,Au,Au,1.4,NA,NA,NA,In2O3,98.6,NA,NA,32.6,30.80,498,30,4,15.00,0.2,0.2,92,0.184,0.0074
+R. Hou 2023,https://doi.org/10.1016/j.jes.2023.05.010,Au/In2O3-HM,Yes,Au,Au,1.4,NA,NA,NA,In2O3,98.6,NA,NA,32.6,30.80,473,30,4,15.00,0.2,0.1,70,0.07,0.0028
+R. Hou 2023,https://doi.org/10.1016/j.jes.2023.05.010,Au/In2O3-NS,Yes,Au,Au,1.4,NA,NA,NA,In2O3,98.6,NA,NA,94.9,17.10,573,30,4,15.00,0.2,12.68,59.76,7.577568,0.3028
+R. Hou 2023,https://doi.org/10.1016/j.jes.2023.05.010,Au/In2O3-NS,Yes,Au,Au,1.4,NA,NA,NA,In2O3,98.6,NA,NA,94.9,17.10,548,30,4,15.00,0.2,5.6,63,3.528,0.1410
+R. Hou 2023,https://doi.org/10.1016/j.jes.2023.05.010,Au/In2O3-NP,Yes,Au,Au,1.4,NA,NA,NA,In2O3,98.6,NA,NA,53.7,8.30,573,30,4,15.00,0.2,8.03,54.83,4.402849,0.1759
+R. Hou 2023,https://doi.org/10.1016/j.jes.2023.05.010,Au/In2O3-NP,Yes,Au,Au,1.4,NA,NA,NA,In2O3,98.6,NA,NA,53.7,8.30,548,30,4,15.00,0.2,2.6,64,1.664,0.0665
+R. Hou 2023,https://doi.org/10.1016/j.jes.2023.05.010,Au/In2O3-NS,Yes,Au,Au,1.4,NA,NA,NA,In2O3,98.6,NA,NA,94.9,17.10,523,30,4,15.00,0.2,2.4,67,1.608,0.0643
+R. Hou 2023,https://doi.org/10.1016/j.jes.2023.05.010,Au/In2O3-NP,Yes,Au,Au,1.4,NA,NA,NA,In2O3,98.6,NA,NA,53.7,8.30,523,30,4,15.00,0.2,1.8,73,1.314,0.0525
+R. Hou 2023,https://doi.org/10.1016/j.jes.2023.05.010,Au/In2O3-NS,Yes,Au,Au,1.4,NA,NA,NA,In2O3,98.6,NA,NA,94.9,17.10,498,30,4,15.00,0.2,0.4,50,0.2,0.0080
+R. Hou 2023,https://doi.org/10.1016/j.jes.2023.05.010,Au/In2O3-NP,Yes,Au,Au,1.4,NA,NA,NA,In2O3,98.6,NA,NA,53.7,8.30,498,30,4,15.00,0.2,0.2,94,0.188,0.0075
+R. Hou 2023,https://doi.org/10.1016/j.jes.2023.05.010,Au/In2O3-NS,Yes,Au,Au,1.4,NA,NA,NA,In2O3,98.6,NA,NA,94.9,17.10,473,30,4,15.00,0.2,0.1,44,0.044,0.0018
+R. Hou 2023,https://doi.org/10.1016/j.jes.2023.05.010,Au/In2O3-HM,Yes,Au,Au,1.4,NA,NA,NA,In2O3,98.6,NA,NA,32.6,30.80,473,30,4,15.00,0.2,0.1,52,0.052,0.0021
+R. Hou 2023,https://doi.org/10.1016/j.jes.2023.05.010,In2O3-HM,Yes,NA,NA,NA,NA,NA,NA,In2O3,100,NA,NA,42.3,52.10,573,30,4,15.00,0.2,5.43,53.23,2.890389,0.1155
+R. Hou 2023,https://doi.org/10.1016/j.jes.2023.05.010,In2O3-HM,Yes,NA,NA,NA,NA,NA,NA,In2O3,100,NA,NA,42.3,52.10,473,30,4,15.00,0.2,0.1,83.8,0.0838,0.0033
+R. Hou 2023,https://doi.org/10.1016/j.jes.2023.05.010,In2O3-HM,Yes,NA,NA,NA,NA,NA,NA,In2O3,100,NA,NA,42.3,52.10,498,30,4,15.00,0.2,0.4,90.6,0.3624,0.0145
+R. Hou 2023,https://doi.org/10.1016/j.jes.2023.05.010,In2O3-HM,Yes,NA,NA,NA,NA,NA,NA,In2O3,100,NA,NA,42.3,52.10,523,30,4,15.00,0.2,1.1,64.8,0.7128,0.0285
+R. Hou 2023,https://doi.org/10.1016/j.jes.2023.05.010,In2O3-HM,Yes,NA,NA,NA,NA,NA,NA,In2O3,100,NA,NA,42.3,52.10,548,30,4,15.00,0.2,2.7,57.4,1.5498,0.0619
+R. Hou 2023,https://doi.org/10.1016/j.jes.2023.05.010,In2O3-NP,Yes,NA,NA,NA,NA,NA,NA,In2O3,100,NA,NA,69.2,10.00,573,30,4,15.00,0.2,7.46,47.61,3.551706,0.1419
+R. Hou 2023,https://doi.org/10.1016/j.jes.2023.05.010,In2O3-NP,Yes,NA,NA,NA,NA,NA,NA,In2O3,100,NA,NA,69.2,10.00,473,30,4,15.00,0.2,0.2,57.1,0.1142,0.0046
+R. Hou 2023,https://doi.org/10.1016/j.jes.2023.05.010,In2O3-NP,Yes,NA,NA,NA,NA,NA,NA,In2O3,100,NA,NA,69.2,10.00,498,30,4,15.00,0.2,0.4,86.1,0.3444,0.0138
+R. Hou 2023,https://doi.org/10.1016/j.jes.2023.05.010,In2O3-NP,Yes,NA,NA,NA,NA,NA,NA,In2O3,100,NA,NA,69.2,10.00,523,30,4,15.00,0.2,1.5,61.1,0.9165,0.0366
+R. Hou 2023,https://doi.org/10.1016/j.jes.2023.05.010,In2O3-NP,Yes,NA,NA,NA,NA,NA,NA,In2O3,100,NA,NA,69.2,10.00,548,30,4,15.00,0.2,3.3,56,1.848,0.0738
+R. Hou 2023,https://doi.org/10.1016/j.jes.2023.05.010,In2O3-NS,Yes,NA,NA,NA,NA,NA,NA,In2O3,100,NA,NA,123.5,22.40,573,30,4,15.00,0.2,9.15,44.08,4.03332,0.1612
+R. Hou 2023,https://doi.org/10.1016/j.jes.2023.05.010,In2O3-NS,Yes,NA,NA,NA,NA,NA,NA,In2O3,100,NA,NA,123.5,22.40,473,30,4,15.00,0.2,0.2,65.3,0.1306,0.0052
+R. Hou 2023,https://doi.org/10.1016/j.jes.2023.05.010,In2O3-NS,Yes,NA,NA,NA,NA,NA,NA,In2O3,100,NA,NA,123.5,22.40,498,30,4,15.00,0.2,0.5,91.1,0.4555,0.0182
+R. Hou 2023,https://doi.org/10.1016/j.jes.2023.05.010,In2O3-NS,Yes,NA,NA,NA,NA,NA,NA,In2O3,100,NA,NA,123.5,22.40,523,30,4,15.00,0.2,1.9,62.2,1.1818,0.0472
+R. Hou 2023,https://doi.org/10.1016/j.jes.2023.05.010,In2O3-NS,Yes,NA,NA,NA,NA,NA,NA,In2O3,100,NA,NA,123.5,22.40,548,30,4,15.00,0.2,4.2,56.5,2.373,0.0948
+Rui et al. (2017),https://doi.org/10.1016/j.apcatb.2017.06.069,Pd-P/In2O3,Yes,Pd,Pd,2.3,NA,NA,NA,In2O3,97.7,NA,NA,NA,NA,573,50,4,21.00,0.1,20.5,72.1,14.78,0.8269
+Rui et al. (2017),https://doi.org/10.1016/j.apcatb.2017.06.069,Pd-P/In2O3,Yes,Pd,Pd,2.3,NA,NA,NA,In2O3,97.7,NA,NA,NA,NA,473,50,4,21.00,0.1,0.8,100,0.80,0.0448
+Rui et al. (2017),https://doi.org/10.1016/j.apcatb.2017.06.069,Pd-P/In2O3,Yes,Pd,Pd,2.3,NA,NA,NA,In2O3,97.7,NA,NA,NA,NA,498,50,4,21.00,0.1,3.1,95.6,2.96,0.1658
+Rui et al. (2017),https://doi.org/10.1016/j.apcatb.2017.06.069,Pd-P/In2O3,Yes,Pd,Pd,2.3,NA,NA,NA,In2O3,97.7,NA,NA,NA,NA,523,50,4,21.00,0.1,8.4,91.5,7.69,0.4300
+Rui et al. (2017),https://doi.org/10.1016/j.apcatb.2017.06.069,Pd-P/In2O3,Yes,Pd,Pd,2.3,NA,NA,NA,In2O3,97.7,NA,NA,NA,NA,548,50,4,21.00,0.1,15.5,84.5,13.10,0.7327
+Rui et al. (2017),https://doi.org/10.1016/j.apcatb.2017.06.069,Pd-I/In2O3,Yes,Pd,Pd,2.5,NA,NA,NA,In2O3,97.5,NA,NA,NA,NA,573,50,4,21.00,0.1,18.4,72.7,13.38,0.7484
+Rui et al. (2017),https://doi.org/10.1016/j.apcatb.2017.06.069,Pd-I/In2O3,Yes,Pd,Pd,2.5,NA,NA,NA,In2O3,97.5,NA,NA,NA,NA,473,50,4,21.00,0.1,0.2,100,0.20,0.0112
+Rui et al. (2017),https://doi.org/10.1016/j.apcatb.2017.06.069,Pd-I/In2O3,Yes,Pd,Pd,2.5,NA,NA,NA,In2O3,97.5,NA,NA,NA,NA,498,50,4,21.00,0.1,1.6,93.3,1.49,0.0835
+Rui et al. (2017),https://doi.org/10.1016/j.apcatb.2017.06.069,Pd-I/In2O3,Yes,Pd,Pd,2.5,NA,NA,NA,In2O3,97.5,NA,NA,NA,NA,523,50,4,21.00,0.1,4.7,88.9,4.18,0.2338
+Rui et al. (2017),https://doi.org/10.1016/j.apcatb.2017.06.069,Pd-I/In2O3,Yes,Pd,Pd,2.5,NA,NA,NA,In2O3,97.5,NA,NA,NA,NA,548,50,4,21.00,0.1,11.2,82.1,9.20,0.5144
+Rui et al. (2017),https://doi.org/10.1016/j.apcatb.2017.06.069,In2O3,Yes,NA,NA,NA,NA,NA,NA,In2O3,100,NA,NA,NA,NA,573,50,4,21.00,0.1,8.2,71.2,5.84,0.3266
+Rui et al. (2017),https://doi.org/10.1016/j.apcatb.2017.06.069,In2O3,Yes,NA,NA,NA,NA,NA,NA,In2O3,100,NA,NA,NA,NA,473,50,4,21.00,0.1,0,0,0.00,0.0000
+Rui et al. (2017),https://doi.org/10.1016/j.apcatb.2017.06.069,In2O3,Yes,NA,NA,NA,NA,NA,NA,In2O3,100,NA,NA,NA,NA,498,50,4,21.00,0.1,0.2,99.7,0.1994,0.0112
+Rui et al. (2017),https://doi.org/10.1016/j.apcatb.2017.06.069,In2O3,Yes,NA,NA,NA,NA,NA,NA,In2O3,100,NA,NA,NA,NA,523,50,4,21.00,0.1,1.2,81.5,0.978,0.0547
+Rui et al. (2017),https://doi.org/10.1016/j.apcatb.2017.06.069,In2O3,Yes,NA,NA,NA,NA,NA,NA,In2O3,100,NA,NA,NA,NA,548,50,4,21.00,0.1,3.5,75.3,2.6355,0.1474
+S. Ghosh 2022,https://doi.org/10.1016/j.cej.2022.135090,In2O3,Yes,In2O3,In2O3,100,NA,NA,NA,NA,NA,NA,NA,NA,NA,573,40,3,6.00,0.67,7,65,4.55,0.0909
+S. Ghosh 2022,https://doi.org/10.1016/j.cej.2022.135090,In2O3,Yes,In2O3,In2O3,100,NA,NA,NA,NA,NA,NA,NA,NA,NA,593,40,3,6.00,0.67,8,50,4,0.0799
+S. Ghosh 2022,https://doi.org/10.1016/j.cej.2022.135090,In2O3,Yes,In2O3,In2O3,100,NA,NA,NA,NA,NA,NA,NA,NA,NA,613,40,3,6.00,0.67,11,36,3.96,0.0791
+S. Ghosh 2022,https://doi.org/10.1016/j.cej.2022.135090,In2O3,Yes,In2O3,In2O3,100,NA,NA,NA,NA,NA,NA,NA,NA,NA,553,40,3,6.00,0.67,5,71,3.55,0.0709
+S. Ghosh 2022,https://doi.org/10.1016/j.cej.2022.135090,In2O3,Yes,In2O3,In2O3,100,NA,NA,NA,NA,NA,NA,NA,NA,NA,643,40,3,6.00,0.67,16,18,2.88,0.0575
+S. Ghosh 2022,https://doi.org/10.1016/j.cej.2022.135090,In2O3,Yes,In2O3,In2O3,100,NA,NA,NA,NA,NA,NA,NA,NA,NA,523,40,3,6.00,0.67,2,80,1.6,0.0320
+S. Ghosh 2022,https://doi.org/10.1016/j.cej.2022.135090,In2O3,Yes,In2O3,In2O3,100,NA,NA,NA,NA,NA,NA,NA,NA,NA,673,40,3,6.00,0.67,22.5,1,0.225,0.0045
+S. Ghosh 2022,https://doi.org/10.1016/j.cej.2022.135090,In2O3/HZSM(Zeolite),Yes,In2O3,In2O3,42.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,673,40,3,6.00,1,26,38,9.88,0.1974
+S. Ghosh 2022,https://doi.org/10.1016/j.cej.2022.135090,In2O3/HZSM(Zeolite),Yes,In2O3,In2O3,42.3,NA,NA,NA,SiO2,2.4,Al2O3,55.3,NA,NA,593,40,3,6.00,1,9,80,7.2,0.1439
+S. Ghosh 2022,https://doi.org/10.1016/j.cej.2022.135090,In2O3/HZSM(Zeolite),Yes,In2O3,In2O3,42.3,NA,NA,NA,SiO2,2.4,Al2O3,55.3,NA,NA,643,40,3,6.00,1,17.5,40,7,0.1399
+S. Ghosh 2022,https://doi.org/10.1016/j.cej.2022.135090,In2O3/HZSM(Zeolite),Yes,In2O3,In2O3,42.3,NA,NA,NA,SiO2,2.4,Al2O3,55.3,NA,NA,613,40,3,6.00,1,13.5,50,6.75,0.1349
+S. Ghosh 2022,https://doi.org/10.1016/j.cej.2022.135090,In2O3/HZSM(Zeolite),Yes,In2O3,In2O3,42.3,NA,NA,NA,SiO2,2.4,Al2O3,55.3,NA,NA,573,40,3,6.00,1,7,60,4.2,0.0839
+S. Ghosh 2022,https://doi.org/10.1016/j.cej.2022.135090,In2O3/HZSM(Zeolite),Yes,In2O3,In2O3,42.3,NA,NA,NA,SiO2,2.4,Al2O3,55.3,NA,NA,553,40,3,6.00,1,4,90,3.6,0.0719
+S. Ghosh 2022,https://doi.org/10.1016/j.cej.2022.135090,In2O3/HZSM(Zeolite),Yes,In2O3,In2O3,42.3,NA,NA,NA,SiO2,2.4,Al2O3,55.3,NA,NA,523,40,3,6.00,1,1,0,0,0.0000
+S. Zhang et al.  2023,https://doi.org/10.1016/j.cej.2024.150334,CoGa1.0Al1.0O4/SiO2,Yes,CoGaAlO4,CoGaAlO4,10.5,NA,NA,NA,SiO2,89.5,NA,NA,NA,NA,543,30,4,3.00,NA,4.2,33,1.386,0.0111
+S. Zhang et al.  2023,https://doi.org/10.1016/j.cej.2024.150334,500-CDM,No,CoGaAlO4,CoGaAlO4,10.5,C,C,NA,SiO2,89.5,NA,NA,NA,NA,543,30,4,3.00,NA,4.2,20.5,0.861,0.0069
+S. Zhang et al.  2023,https://doi.org/10.1016/j.cej.2024.150334,550-CDM,No,CoGaAlO4,CoGaAlO4,10.5,C,C,NA,SiO2,89.5,NA,NA,NA,NA,543,30,4,3.00,NA,4.1,20.5,0.8405,0.0067
+S. Zhang et al.  2023,https://doi.org/10.1016/j.cej.2024.150334,600-CDM,No,CoGaAlO4,CoGaAlO4,10.5,C,C,NA,SiO2,89.5,NA,NA,NA,NA,543,30,4,3.00,NA,3.5,45,1.575,0.0126
+S. Zhang et al.  2023,https://doi.org/10.1016/j.cej.2024.150334,650-CDM,No,CoGaAlO4,CoGaAlO4,10.5,C,C,NA,SiO2,89.5,NA,NA,NA,NA,543,30,4,3.00,NA,2,42,0.84,0.0067
+S.F. Zaman et al 2023,https://doi.org/10.1016/j.fuel.2023.127927,PZC(PdZn/CeO2),Yes,PdZn,Pd,11.6,ZnO,Zn,11.6,CeO2,76.8,NA,NA,38,5.20,503,20,3,2.40,0.5,14,91.5,12.81,0.1024
+S.F. Zaman et al 2023,https://doi.org/10.1016/j.fuel.2023.127927,PZC(PdZn/CeO2),Yes,PdZn,Pd,11.6,ZnO,Zn,11.6,CeO2,76.8,NA,NA,38,5.20,493,20,3,2.40,0.5,14,95,13.30,0.1063
+S.F. Zaman et al 2023,https://doi.org/10.1016/j.fuel.2023.127927,PZC(PdZn/CeO2),Yes,PdZn,Pd,11.6,ZnO,Zn,11.6,CeO2,76.8,NA,NA,38,5.20,523,20,3,2.40,0.5,16.2,78.4,12.70,0.1015
+S.F. Zaman et al 2023,https://doi.org/10.1016/j.fuel.2023.127927,PZC(PdZn/CeO2),Yes,PdZn,Pd,11.6,ZnO,Zn,11.6,CeO2,76.8,NA,NA,38,5.20,543,20,3,2.40,0.5,17.1,58,9.92,0.0793
+S.F. Zaman et al 2023,https://doi.org/10.1016/j.fuel.2023.127927,0.5Ca-PZC,Yes,PdZn,Pd,11.4,ZnO,Zn,11.4,CeO2,75.3,Ca,1.9,34.3,11.30,503,20,3,2.40,0.5,15.9,94.7,15.06,0.1203
+S.F. Zaman et al 2023,https://doi.org/10.1016/j.fuel.2023.127927,0.5Ca-PZC,Yes,PdZn,Pd,11.4,ZnO,Zn,11.4,CeO2,75.3,Ca,1.9,34.3,11.30,493,20,3,2.40,0.5,14.2,96.3,13.67,0.1093
+S.F. Zaman et al 2023,https://doi.org/10.1016/j.fuel.2023.127927,0.5Ca-PZC,Yes,PdZn,Pd,11.4,ZnO,Zn,11.4,CeO2,75.3,Ca,1.9,34.3,11.30,523,20,3,2.40,0.5,16.9,85.7,14.48,0.1158
+S.F. Zaman et al 2023,https://doi.org/10.1016/j.fuel.2023.127927,0.5Ca-PZC,Yes,PdZn,Pd,11.4,ZnO,Zn,11.4,CeO2,75.3,Ca,1.9,34.3,11.30,543,20,3,2.40,0.5,17.8,74.1,13.19,0.1054
+S.F. Zaman et al 2023,https://doi.org/10.1016/j.fuel.2023.127927,0.5Ca-PZC,Yes,PdZn,Pd,11.4,ZnO,Zn,11.4,CeO2,75.3,Ca,1.9,34.3,11.30,503,20,3,3.60,0.5,14.2,97,13.77,0.1651
+S.F. Zaman et al 2023,https://doi.org/10.1016/j.fuel.2023.127927,0.5Ca-PZC,Yes,PdZn,Pd,11.4,ZnO,Zn,11.4,CeO2,75.3,Ca,1.9,34.3,11.30,503,20,3,6.00,0.5,10.4,98.1,10.20,0.2038
+S.F. Zaman et al 2023,https://doi.org/10.1016/j.fuel.2023.127927,0.5Ca-PZC,Yes,PdZn,Pd,11.4,ZnO,Zn,11.4,CeO2,75.3,Ca,1.9,34.3,11.30,503,20,3,12.00,0.5,7.9,100,7.90,0.3157
+S.F. Zaman et al 2023,https://doi.org/10.1016/j.fuel.2023.127927,0.5Ca-PZC,Yes,PdZn,Pd,11.4,ZnO,Zn,11.4,CeO2,75.3,Ca,1.9,34.3,11.30,503,5,3,2.40,0.5,2.5,94.2,2.36,0.0188
+S.F. Zaman et al 2023,https://doi.org/10.1016/j.fuel.2023.127927,0.5Ca-PZC,Yes,PdZn,Pd,11.4,ZnO,Zn,11.4,CeO2,75.3,Ca,1.9,34.3,11.30,503,10,3,2.40,0.5,8.6,94.8,8.15,0.0652
+S.F. Zaman et al 2023,https://doi.org/10.1016/j.fuel.2023.127927,0.5Ca-PZC,Yes,PdZn,Pd,11.4,ZnO,Zn,11.4,CeO2,75.3,Ca,1.9,34.3,11.30,503,30,3,2.40,0.5,14.4,93,13.39,0.1070
+S.F. Zaman et al 2023,https://doi.org/10.1016/j.fuel.2023.127927,0.5Ca-PZC,Yes,PdZn,Pd,11.4,ZnO,Zn,11.4,CeO2,75.3,Ca,1.9,34.3,11.30,503,40,3,2.40,0.5,11.8,91.7,10.82,0.0865
+S.F. Zaman et al 2023,https://doi.org/10.1016/j.fuel.2023.127927,0.5Ca-PZC,Yes,PdZn,Pd,11.4,ZnO,Zn,11.4,CeO2,75.3,Ca,1.9,34.3,11.30,503,50,3,2.40,0.5,5.4,87.7,4.74,0.0378
+S.F. Zaman et al 2023,https://doi.org/10.1016/j.fuel.2023.127927,1.0Ca-PZC,Yes,PdZn,Pd,11.2,ZnO,Zn,11.3,CeO2,73.8,Ca,3.7,33.2,10.20,503,20,3,2.40,0.5,13.3,88.1,11.72,0.0936
+S.F. Zaman et al 2023,https://doi.org/10.1016/j.fuel.2023.127927,1.0Ca-PZC,Yes,PdZn,Pd,11.2,ZnO,Zn,11.3,CeO2,73.8,Ca,3.7,33.2,10.20,493,20,3,2.40,0.5,12.2,90.6,11.05,0.0883
+S.F. Zaman et al 2023,https://doi.org/10.1016/j.fuel.2023.127927,1.0Ca-PZC,Yes,PdZn,Pd,11.2,ZnO,Zn,11.3,CeO2,73.8,Ca,3.7,33.2,10.20,523,20,3,2.40,0.5,15.7,73.9,11.60,0.0927
+S.F. Zaman et al 2023,https://doi.org/10.1016/j.fuel.2023.127927,1.0Ca-PZC,Yes,PdZn,Pd,11.2,ZnO,Zn,11.3,CeO2,73.8,Ca,3.7,33.2,10.20,543,20,3,2.40,0.5,17.3,65.2,11.28,0.0901
+S.F. Zaman et al 2023,https://doi.org/10.1016/j.fuel.2023.127927,0.3Ca-PZC,Yes,PdZn,Pd,11.5,ZnO,Zn,11.5,CeO2,75.9,Ca,1.1,33.1,9.40,503,20,3,2.40,0.5,11.9,95.5,11.36,0.0908
+S.F. Zaman et al 2023,https://doi.org/10.1016/j.fuel.2023.127927,0.3Ca-PZC,Yes,PdZn,Pd,11.5,ZnO,Zn,11.5,CeO2,75.9,Ca,1.1,33.1,9.40,493,20,3,2.40,0.5,11.1,98.4,10.92,0.0873
+S.F. Zaman et al 2023,https://doi.org/10.1016/j.fuel.2023.127927,0.3Ca-PZC,Yes,PdZn,Pd,11.5,ZnO,Zn,11.5,CeO2,75.9,Ca,1.1,33.1,9.40,523,20,3,2.40,0.5,14.1,87.7,12.37,0.0988
+S.F. Zaman et al 2023,https://doi.org/10.1016/j.fuel.2023.127927,0.3Ca-PZC,Yes,PdZn,Pd,11.5,ZnO,Zn,11.5,CeO2,75.9,Ca,1.1,33.1,9.40,543,20,3,2.40,0.5,15,79.1,11.87,0.0948
+S.F. Zaman et al 2023,https://doi.org/10.1016/j.fuel.2023.127927,0.7Ca-PZC,Yes,PdZn,Pd,11.3,ZnO,Zn,11.4,CeO2,74.7,Ca,2.6,32.1,10.40,503,20,3,2.40,0.5,15.7,94,14.76,0.1179
+S.F. Zaman et al 2023,https://doi.org/10.1016/j.fuel.2023.127927,0.7Ca-PZC,Yes,PdZn,Pd,11.3,ZnO,Zn,11.4,CeO2,74.7,Ca,2.6,32.1,10.40,493,20,3,2.40,0.5,14.4,96,13.82,0.1105
+S.F. Zaman et al 2023,https://doi.org/10.1016/j.fuel.2023.127927,0.7Ca-PZC,Yes,PdZn,Pd,11.3,ZnO,Zn,11.4,CeO2,74.7,Ca,2.6,32.1,10.40,523,20,3,2.40,0.5,17.1,84,14.36,0.1148
+S.F. Zaman et al 2023,https://doi.org/10.1016/j.fuel.2023.127927,0.7Ca-PZC,Yes,PdZn,Pd,11.3,ZnO,Zn,11.4,CeO2,74.7,Ca,2.6,32.1,10.40,543,20,3,2.40,0.5,17.7,72.5,12.83,0.1026
+Samson et al. (2014),https://doi.org/10.1021/cs500979c,Cu/ZrO2 (IV) 10,Yes,CuO,Cu,10,NA,NA,NA,ZrO2,90,NA,NA,85.5,4.00,473,80,3,NA,NA,2.4,100,2.4,NA
+Samson et al. (2014),https://doi.org/10.1021/cs500979c,Cu/ZrO2 (IV) 10,Yes,CuO,Cu,10,NA,NA,NA,ZrO2,90,NA,NA,85.5,4.00,493,80,3,NA,NA,3.6,100,3.6,NA
+Samson et al. (2014),https://doi.org/10.1021/cs500979c,Cu/ZrO2 (IV) 10,Yes,CuO,Cu,10,NA,NA,NA,ZrO2,90,NA,NA,85.5,4.00,513,80,3,NA,NA,5.8,100,5.8,NA
+Samson et al. (2014),https://doi.org/10.1021/cs500979c,Cu/ZrO2 (IV) 10,Yes,CuO,Cu,10,NA,NA,NA,ZrO2,90,NA,NA,85.5,4.00,533,80,3,NA,NA,8.6,92,7.9,NA
+Samson et al. (2014),https://doi.org/10.1021/cs500979c,Cu/ZrO2 (I) 15,Yes,CuO,Cu,15,NA,NA,NA,ZrO2,85,NA,NA,50.4,7.00,493,80,3,NA,NA,0,NA,NA,NA
+Samson et al. (2014),https://doi.org/10.1021/cs500979c,Cu/ZrO2 (I) 15,Yes,CuO,Cu,15,NA,NA,NA,ZrO2,85,NA,NA,50.4,7.00,473,80,3,NA,NA,0,NA,NA,NA
+Samson et al. (2014),https://doi.org/10.1021/cs500979c,Cu/ZrO2 (I) 15,Yes,CuO,Cu,15,NA,NA,NA,ZrO2,85,NA,NA,50.4,7.00,513,80,3,NA,NA,2.2,100,2.2,NA
+Samson et al. (2014),https://doi.org/10.1021/cs500979c,Cu/ZrO2 (I) 15,Yes,CuO,Cu,15,NA,NA,NA,ZrO2,85,NA,NA,50.4,7.00,533,80,3,NA,NA,3.3,100,3.3,NA
+Samson et al. (2014),https://doi.org/10.1021/cs500979c,Cu/ZrO2 (II) 10,Yes,CuO,Cu,10,NA,NA,NA,ZrO2,90,NA,NA,45,21.00,473,80,3,NA,NA,1.5,100,1.5,NA
+Samson et al. (2014),https://doi.org/10.1021/cs500979c,Cu/ZrO2 (II) 10,Yes,CuO,Cu,10,NA,NA,NA,ZrO2,90,NA,NA,45,21.00,493,80,3,NA,NA,2.4,100,2.4,NA
+Samson et al. (2014),https://doi.org/10.1021/cs500979c,Cu/ZrO2 (II) 10,Yes,CuO,Cu,10,NA,NA,NA,ZrO2,90,NA,NA,45,21.00,513,80,3,NA,NA,3.5,100,3.5,NA
+Samson et al. (2014),https://doi.org/10.1021/cs500979c,Cu/ZrO2 (II) 10,Yes,CuO,Cu,10,NA,NA,NA,ZrO2,90,NA,NA,45,21.00,533,80,3,NA,NA,5.5,100,5.5,NA
+Samson et al. (2014),https://doi.org/10.1021/cs500979c,Cu/ZrO2 (V) 10,Yes,CuO,Cu,10,NA,NA,NA,ZrO2,90,NA,NA,182,NA,473,80,3,NA,NA,2.4,100,2.4,NA
+Samson et al. (2014),https://doi.org/10.1021/cs500979c,Cu/ZrO2 (V) 10,Yes,CuO,Cu,10,NA,NA,NA,ZrO2,90,NA,NA,182,NA,493,80,3,NA,NA,6.4,95,6.1,NA
+Samson et al. (2014),https://doi.org/10.1021/cs500979c,Cu/ZrO2 (V) 10,Yes,CuO,Cu,10,NA,NA,NA,ZrO2,90,NA,NA,182,NA,513,80,3,NA,NA,10.5,69,7.2,NA
+Samson et al. (2014),https://doi.org/10.1021/cs500979c,Cu/ZrO2 (V) 10,Yes,CuO,Cu,10,NA,NA,NA,ZrO2,90,NA,NA,182,NA,533,80,3,NA,NA,14,62,8.7,NA
+Samson et al. (2014),https://doi.org/10.1021/cs500979c,Cu/ZrO2 (III) 10,Yes,CuO,Cu,10,NA,NA,NA,ZrO2,90,NA,NA,101,NA,473,80,3,NA,NA,5.3,100,5.3,NA
+Samson et al. (2014),https://doi.org/10.1021/cs500979c,Cu/ZrO2 (III) 10,Yes,CuO,Cu,10,NA,NA,NA,ZrO2,90,NA,NA,101,NA,493,80,3,NA,NA,7.8,100,7.8,NA
+Samson et al. (2014),https://doi.org/10.1021/cs500979c,Cu/ZrO2 (III) 10,Yes,CuO,Cu,10,NA,NA,NA,ZrO2,90,NA,NA,101,NA,513,80,3,NA,NA,10.7,97,10.4,NA
+Samson et al. (2014),https://doi.org/10.1021/cs500979c,Cu/ZrO2 (III) 10,Yes,CuO,Cu,10,NA,NA,NA,ZrO2,90,NA,NA,101,NA,533,80,3,NA,NA,15,86,12.9,NA
+Sharma et al 2023,https://doi.org/10.1016/j.fuel.2022.125878,In13CeO2,Yes,In2O3,In2O3,8.8,NA,NA,NA,CeO2,91.2,NA,NA,66.6,7.81,573,30,3,7.82,0.5,0.22,78.3,0.17,0.0045
+Sharma et al 2023,https://doi.org/10.1016/j.fuel.2022.125878,In13CeO2,Yes,In2O3,In2O3,8.8,NA,NA,NA,CeO2,91.2,NA,NA,66.6,7.81,553,30,3,7.55,0.5,0.2,79.3,0.16,0.0040
+Sharma et al 2023,https://doi.org/10.1016/j.fuel.2022.125878,In13CeO2,Yes,In2O3,In2O3,8.8,NA,NA,NA,CeO2,91.2,NA,NA,66.6,7.81,493,30,3,6.73,0.5,0.01,85.1,0.01,0.0002
+Sharma et al 2023,https://doi.org/10.1016/j.fuel.2022.125878,In1CeO2,Yes,In2O3,In2O3,0.5,NA,NA,NA,CeO2,99.5,NA,NA,80.8,7.92,573,30,3,7.82,0.5,0.01,40,0.00,0.0001
+Sharma et al 2023,https://doi.org/10.1016/j.fuel.2022.125878,In1CeO2,Yes,In2O3,In2O3,0.5,NA,NA,NA,CeO2,99.5,NA,NA,80.8,7.92,553,30,3,7.55,0.5,0.01,62.4,0.01,0.0002
+Sharma et al 2023,https://doi.org/10.1016/j.fuel.2022.125878,In1CeO2,Yes,In2O3,In2O3,0.5,NA,NA,NA,CeO2,99.5,NA,NA,80.8,7.92,493,30,3,6.73,0.5,0.01,68.8,0.01,0.0002
+Sharma et al 2023,https://doi.org/10.1016/j.fuel.2022.125878,In13/ZrO2,Yes,In2O3,In2O3,5.7,NA,NA,NA,ZrO2,94.3,NA,NA,60,14.00,573,30,3,7.82,0.5,12.8,57.3,7.33,0.1910
+Sharma et al 2023,https://doi.org/10.1016/j.fuel.2022.125878,In13/ZrO2,Yes,In2O3,In2O3,5.7,NA,NA,NA,ZrO2,94.3,NA,NA,60,14.00,553,30,3,7.55,0.5,8.1,73.6,5.96,0.1498
+Sharma et al 2023,https://doi.org/10.1016/j.fuel.2022.125878,In13/ZrO2,Yes,In2O3,In2O3,5.7,NA,NA,NA,ZrO2,94.3,NA,NA,60,14.00,533,30,3,7.27,0.5,4.65,68,3.16,0.0766
+Sharma et al 2023,https://doi.org/10.1016/j.fuel.2022.125878,In13/ZrO2,Yes,In2O3,In2O3,5.7,NA,NA,NA,ZrO2,94.3,NA,NA,60,14.00,513,30,3,7.00,0.5,1.84,91.2,1.68,0.0391
+Sharma et al 2023,https://doi.org/10.1016/j.fuel.2022.125878,In13/ZrO2,Yes,In2O3,In2O3,5.7,NA,NA,NA,ZrO2,94.3,NA,NA,60,14.00,493,30,3,6.73,0.5,0.68,100,0.68,0.0152
+Sharma et al 2023,https://doi.org/10.1016/j.fuel.2022.125878,In1ZrO2,Yes,In2O3,In2O3,0.3,NA,NA,NA,ZrO2,99.7,NA,NA,69.9,15.45,553,30,3,7.55,0.5,2.8,26.8,0.75,0.0189
+Sharma et al 2023,https://doi.org/10.1016/j.fuel.2022.125878,In1ZrO2,Yes,In2O3,In2O3,0.3,NA,NA,NA,ZrO2,99.7,NA,NA,69.9,15.45,493,30,3,6.73,0.5,0.42,66.1,0.28,0.0062
+Sharma et al 2023,https://doi.org/10.1016/j.fuel.2022.125878,In2O3,Yes,In2O3,In2O3,100,NA,NA,NA,NA,NA,NA,NA,5,16.00,573,30,3,7.82,0.5,1.1,75.3,0.83,0.0216
+Sharma et al 2023,https://doi.org/10.1016/j.fuel.2022.125878,In2O3,Yes,In2O3,In2O3,100,NA,NA,NA,NA,NA,NA,NA,5,16.00,553,30,3,7.55,0.5,0.6,83.4,0.50,0.0126
+Sharma et al 2023,https://doi.org/10.1016/j.fuel.2022.125878,In2O3,Yes,In2O3,In2O3,100,NA,NA,NA,NA,NA,NA,NA,5,16.00,493,30,3,6.73,0.5,0.01,100,0.01,0.0002
+Sharma et al 2023,https://doi.org/10.1016/j.fuel.2022.125878,In1ZrO2,Yes,In2O3,In2O3,0.3,NA,NA,NA,ZrO2,99.7,NA,NA,69.9,15.45,573,30,3,7.82,0.5,5.63,15.6,0.88,0.0229
+Sharma et al 2023,https://doi.org/10.1016/j.fuel.2022.125878,ZrO2,Yes,NA,NA,NA,NA,NA,NA,ZrO2,100,NA,NA,NA,NA,493,30,3,6.73,0.5,0.17,32.5,0.06,0.0012
+Sharma et al 2023,https://doi.org/10.1016/j.fuel.2022.125878,CeO2,Yes,NA,NA,NA,NA,NA,NA,CeO2,100,NA,NA,NA,NA,493,30,3,6.73,0.5,0.18,0,0.00,0.0000
+Sharma et al 2023,https://doi.org/10.1016/j.fuel.2022.125878,ZrO2,Yes,NA,NA,NA,NA,NA,NA,ZrO2,100,NA,NA,NA,NA,553,30,3,7.55,0.5,0.21,23.4,0.05,0.0012
+Sharma et al 2023,https://doi.org/10.1016/j.fuel.2022.125878,CeO2,Yes,NA,NA,NA,NA,NA,NA,CeO2,100,NA,NA,NA,NA,553,30,3,7.55,0.5,0.01,0,0.00,0.0000
+Sharma et al 2023,https://doi.org/10.1016/j.fuel.2022.125878,ZrO2,Yes,NA,NA,NA,NA,NA,NA,ZrO2,100,NA,NA,NA,NA,573,30,3,7.82,0.5,0.25,19,0.05,0.0012
+Sharma et al 2023,https://doi.org/10.1016/j.fuel.2022.125878,CeO2,Yes,NA,NA,NA,NA,NA,NA,CeO2,100,NA,NA,NA,NA,573,30,3,7.82,0.5,0.01,0,0.00,0.0000
+Shi et al. (2018),https://doi.org/10.1016/j.matchemphys.2018.08.038,Cu30Ce45Zr25O,Yes,CuO,Cu,45,NA,CeO2,31,ZrO2,24,NA,NA,NA,NA,523,30,3,7.50,0.2,12.8,47.7,6.1,0.1525
+Shi et al. (2018),https://doi.org/10.1016/j.matchemphys.2018.08.038,Cu30Ce25Zr45O ,Yes,CuO,Cu,42.48,NA,CeO2,16.36,ZrO2,41.14,NA,NA,NA,NA,523,30,3,7.50,0.2,9.6,58.3,5.6,0.1398
+Shi et al. (2018),https://doi.org/10.1016/j.matchemphys.2018.08.038,Cu30Ce55Zr15O ,Yes,CuO,Cu,46,NA,CeO2,39,ZrO2,15,NA,NA,NA,NA,523,30,3,7.50,0.2,8.3,42.2,3.5,0.0875
+Shi et al. (2018),https://doi.org/10.1016/j.matchemphys.2018.08.038,Cu30Ce15Zr55O ,Yes,CuO,Cu,41,NA,CeO2,10,ZrO2,49,NA,NA,NA,NA,523,30,3,7.50,0.2,5.5,61.8,3.4,0.0849
+Shi et al. (2018),https://doi.org/10.1016/j.matchemphys.2018.08.038,Cu30Ce35Zr35O,Yes,CuO,Cu,43.62,NA,CeO2,23.52,ZrO2,32.85,NA,NA,96.7,15.70,523,30,3,7.50,0.2,14.3,53.8,7.7,0.1921
+Shi et al. (2018),https://doi.org/10.1016/j.matchemphys.2018.08.038,Cu30Ce70O,Yes,CuO,Cu,48,NA,CeO2,52,NA,NA,NA,NA,40.6,7.90,523,30,3,7.50,0.2,3.1,35.5,1.1,0.0275
+Shi et al. (2018),https://doi.org/10.1016/j.matchemphys.2018.08.038,Cu30Zr70O ,Yes,CuO,Cu,40,NA,NA,NA,ZrO2,60,NA,NA,19.5,7.80,523,30,3,7.50,0.2,2,65,1.3,0.0325
+Shi et al. (2019),https://doi.org/10.1016/j.jcat.2019.09.024,Cu11In9-In2O3 (CuIn-350),Yes,CuO,Cu,50.3,NA,NA,NA,In2O3,49.7,NA,NA,NA,NA,493,30,3,7.50,0.2,6.6,89.5,5.907,0.1475
+Shi et al. (2019),https://doi.org/10.1016/j.jcat.2019.09.024,Cu11In9-In2O3 (CuIn-350),Yes,CuO,Cu,50.3,NA,NA,NA,In2O3,49.7,NA,NA,NA,NA,513,30,3,7.50,0.2,8.1,86.2,6.9822,0.1744
+Shi et al. (2019),https://doi.org/10.1016/j.jcat.2019.09.024,Cu11In9-In2O3 (CuIn-350),Yes,CuO,Cu,50.3,NA,NA,NA,In2O3,49.7,NA,NA,NA,NA,533,30,3,7.50,0.2,9.8,85.2,8.3496,0.2085
+Shi et al. (2019),https://doi.org/10.1016/j.jcat.2019.09.024,Cu11In9-In2O3 (CuIn-350),Yes,CuO,Cu,50.3,NA,NA,NA,In2O3,49.7,NA,NA,NA,NA,553,30,3,7.50,0.2,10.6,80.4,8.5224,0.2128
+Shi et al. (2019),https://doi.org/10.1016/j.jcat.2019.09.024,Cu11In9-In2O3 (CuIn-250),Yes,CuO,Cu,50.3,NA,NA,NA,In2O3,49.7,NA,NA,NA,NA,493,30,3,7.50,0.2,7.6,72.7,5.5252,0.1380
+Shi et al. (2019),https://doi.org/10.1016/j.jcat.2019.09.024,Cu11In9-In2O3 (CuIn-250),Yes,CuO,Cu,50.3,NA,NA,NA,In2O3,49.7,NA,NA,NA,NA,513,30,3,7.50,0.2,9.5,63.3,6.0135,0.1502
+Shi et al. (2019),https://doi.org/10.1016/j.jcat.2019.09.024,Cu11In9-In2O3 (CuIn-300),Yes,CuO,Cu,50.3,NA,NA,NA,In2O3,49.7,NA,NA,NA,NA,493,30,3,7.50,0.2,7.1,82.3,5.8433,0.1459
+Shi et al. (2019),https://doi.org/10.1016/j.jcat.2019.09.024,Cu11In9-In2O3 (CuIn-300),Yes,CuO,Cu,50.3,NA,NA,NA,In2O3,49.7,NA,NA,NA,NA,513,30,3,7.50,0.2,8.5,80.4,6.834,0.1707
+Shi et al. (2019),https://doi.org/10.1016/j.jcat.2019.09.024,Cu11In9-In2O3 (CuIn-300),Yes,CuO,Cu,50.3,NA,NA,NA,In2O3,49.7,NA,NA,NA,NA,533,30,3,7.50,0.2,10.4,77.3,8.0392,0.2008
+Shi et al. (2019),https://doi.org/10.1016/j.jcat.2019.09.024,Cu11In9-In2O3 (CuIn-300),Yes,CuO,Cu,50.3,NA,NA,NA,In2O3,49.7,NA,NA,NA,NA,553,30,3,7.50,0.2,11.6,71.5,8.294,0.2071
+Shi et al. (2019),https://doi.org/10.1016/j.jcat.2019.09.024,Cu11In9-In2O3 (CuIn-400),Yes,CuO,Cu,50.3,NA,NA,NA,In2O3,49.7,NA,NA,NA,NA,493,30,3,7.50,0.2,6.1,89.5,5.4595,0.1364
+Shi et al. (2019),https://doi.org/10.1016/j.jcat.2019.09.024,Cu11In9-In2O3 (CuIn-400),Yes,CuO,Cu,50.3,NA,NA,NA,In2O3,49.7,NA,NA,NA,NA,513,30,3,7.50,0.2,7,87.2,6.104,0.1524
+Shi et al. (2019),https://doi.org/10.1016/j.jcat.2019.09.024,Cu11In9-In2O3 (CuIn-400),Yes,CuO,Cu,50.3,NA,NA,NA,In2O3,49.7,NA,NA,NA,NA,533,30,3,7.50,0.2,8.2,84.6,6.9372,0.1733
+Shi et al. (2019),https://doi.org/10.1016/j.jcat.2019.09.024,Cu11In9-In2O3 (CuIn-400),Yes,CuO,Cu,50.3,NA,NA,NA,In2O3,49.7,NA,NA,NA,NA,553,30,3,7.50,0.2,8.7,80.3,6.9861,0.1745
+Shi et al. (2019),https://doi.org/10.1016/j.jcat.2019.09.024,Cu11In9-In2O3 (CuIn-450),Yes,CuO,Cu,50.3,NA,NA,NA,In2O3,49.7,NA,NA,NA,NA,493,30,3,7.50,0.2,5.3,89.2,4.7276,0.1181
+Shi et al. (2019),https://doi.org/10.1016/j.jcat.2019.09.024,Cu11In9-In2O3 (CuIn-450),Yes,CuO,Cu,50.3,NA,NA,NA,In2O3,49.7,NA,NA,NA,NA,513,30,3,7.50,0.2,6.2,87.5,5.425,0.1355
+Shi et al. (2019),https://doi.org/10.1016/j.jcat.2019.09.024,Cu11In9-In2O3 (CuIn-450),Yes,CuO,Cu,50.3,NA,NA,NA,In2O3,49.7,NA,NA,NA,NA,533,30,3,7.50,0.2,7.2,84.1,6.0552,0.1512
+Shi et al. (2019),https://doi.org/10.1016/j.jcat.2019.09.024,Cu11In9-In2O3 (CuIn-450),Yes,CuO,Cu,50.3,NA,NA,NA,In2O3,49.7,NA,NA,NA,NA,553,30,3,7.50,0.2,7.8,80.8,6.3024,0.1574
+Shi et al. (2019),https://doi.org/10.1016/j.jcat.2019.09.024,Cu11In9-In2O3 (CuIn-500),Yes,CuO,Cu,50.3,NA,NA,NA,In2O3,49.7,NA,NA,NA,NA,493,30,3,7.50,0.2,4.6,89.3,4.1078,0.1026
+Shi et al. (2019),https://doi.org/10.1016/j.jcat.2019.09.024,Cu11In9-In2O3 (CuIn-500),Yes,CuO,Cu,50.3,NA,NA,NA,In2O3,49.7,NA,NA,NA,NA,513,30,3,7.50,0.2,5.2,87.5,4.55,0.1136
+Shi et al. (2019),https://doi.org/10.1016/j.jcat.2019.09.024,Cu11In9-In2O3 (CuIn-500),Yes,CuO,Cu,50.3,NA,NA,NA,In2O3,49.7,NA,NA,NA,NA,533,30,3,7.50,0.2,6.1,84.6,5.1606,0.1289
+Shi et al. (2019),https://doi.org/10.1016/j.jcat.2019.09.024,Cu11In9-In2O3 (CuIn-500),Yes,CuO,Cu,50.3,NA,NA,NA,In2O3,49.7,NA,NA,NA,NA,553,30,3,7.50,0.2,6.8,80.8,5.4944,0.1372
+Shi et al. (2020),https://doi.org/10.1016/j.jscs.2019.09.002,CuZn-C,Yes,CuO,Cu,17,NA,NA,NA,ZnO,83.00,NA,NA,8,NA,523,30,3,3.00,NA,1.04,5.19,0.053976,0.0005
+Shi et al. (2020),https://doi.org/10.1016/j.jscs.2019.09.002,CuZn-R ,Yes,CuO,Cu,17,NA,NA,NA,ZnO,83.00,NA,NA,19,NA,523,30,3,3.00,NA,1.68,43.5,0.7308,0.0073
+Shi et al. (2020),https://doi.org/10.1016/j.jscs.2019.09.002,CuZn-R ,Yes,CuO,Cu,17,NA,NA,NA,ZnO,83.00,NA,NA,19,NA,533,30,3,3.00,NA,2.37,35.6,0.84372,0.0084
+Shi et al. (2020),https://doi.org/10.1016/j.jscs.2019.09.002,CuZn-R ,Yes,CuO,Cu,17,NA,NA,NA,ZnO,83.00,NA,NA,19,NA,533,45,3,3,NA,4.57,51.8,2.36726,0.0236
+Shi et al. (2020),https://doi.org/10.1016/j.jscs.2019.09.002,CuZn-R ,Yes,CuO,Cu,17,NA,NA,NA,ZnO,83.00,NA,NA,19,NA,543,30,3,3.00,NA,3.29,27.9,0.91791,0.0092
+Shi et al. (2020),https://doi.org/10.1016/j.jscs.2019.09.002,CuZn-R ,Yes,CuO,Cu,17,NA,NA,NA,ZnO,83.00,NA,NA,19,NA,523,45,3,1.50,NA,6.36,44.8,2.84928,0.0142
+Shi et al. (2020),https://doi.org/10.1016/j.jscs.2019.09.002,CuZn-R ,Yes,CuO,Cu,17,NA,NA,NA,ZnO,83.00,NA,NA,19,NA,533,45,1,3.00,NA,2.25,44,0.99,0.0198
+Song et al. (2020),https://doi.org/10.1016/j.apcatb.2019.118367,Pd/ZnO-3.93 Al,Yes,Pd,Pd,2.1,NA,NA,NA,ZnO,91.9,Al2O3,6,94,NA,523,30,3,5.52,0.3,14.2,51.6,7.33,0.1347
+Song et al. (2020),https://doi.org/10.1016/j.apcatb.2019.118367,Pd/ZnO-0.35 Al,Yes,Pd,Pd,2.2,NA,NA,NA,ZnO,97.3,Al2O3,0.5,53,NA,523,30,3,5.52,0.3,10.8,62.6,6.76,0.1243
+Song et al. (2020),https://doi.org/10.1016/j.apcatb.2019.118367,Pd/ZnO-1.85 Al,Yes,Pd,Pd,1.9,NA,NA,NA,ZnO,95.2,Al2O3,2.9,79,NA,523,30,3,5.52,0.3,12.3,57.4,7.06,0.1298
+Song et al. (2020),https://doi.org/10.1016/j.apcatb.2019.118367,Pd/ZnO-7.49 Al,Yes,Pd,Pd,2.1,NA,NA,NA,ZnO,86.2,Al2O3,11.7,132,NA,523,30,3,5.52,0.3,11.7,41.9,4.90,0.0901
+Song et al. (2020),https://doi.org/10.1016/j.apcatb.2019.118367,Pd/ZnO-12.14 Al,Yes,Pd,Pd,2.2,NA,NA,NA,ZnO,78.4,Al2O3,19.4,144,NA,523,30,3,5.52,0.3,10.6,32.2,3.41,0.0627
+Song et al. (2020),https://doi.org/10.1016/j.apcatb.2019.118367,Pd/ZnO,Yes,Pd,Pd,2.1,NA,NA,NA,ZnO,97.9,NA,NA,45,NA,523,30,3,5.52,0.3,5.8,69.7,4.04,0.0743
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,13%ZnO-ZrO2 ,Yes,ZnO,Zn,13,ZrO2,ZrO2,87,NA,NA,NA,NA,44.3,NA,573,20,3,24.00,0.1,3.4,87,2.96,0.2364
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,13%ZnO-ZrO2 ,Yes,ZnO,Zn,13,ZrO2,ZrO2,87,NA,NA,NA,NA,44.3,NA,473,50,3,24.00,0.1,0.1,100,0.10,0.0080
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,13%ZnO-ZrO2,Yes,ZnO,Zn,13,ZrO2,ZrO2,87,NA,NA,NA,NA,44.3,NA,493,50,3,24.00,0.1,0.3,98.8,0.30,0.0237
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,13%ZnO-ZrO2,Yes,ZnO,Zn,13,ZrO2,ZrO2,87,NA,NA,NA,NA,44.3,NA,513,50,3,24.00,0.1,0.7,96.9,0.68,0.0542
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,13%ZnO-ZrO2,Yes,ZnO,Zn,13,ZrO2,ZrO2,87,NA,NA,NA,NA,44.3,NA,533,50,3,24.00,0.1,0.9,94.5,0.85,0.0680
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,13%ZnO-ZrO2,Yes,ZnO,Zn,13,ZrO2,ZrO2,87,NA,NA,NA,NA,44.3,NA,553,50,3,24.00,0.1,2.6,91.8,2.39,0.1908
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,13%ZnO-ZrO2,Yes,ZnO,Zn,13,ZrO2,ZrO2,87,NA,NA,NA,NA,44.3,NA,573,50,3,24.00,0.1,5.3,90.2,4.78,0.3821
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,13%ZnO-ZrO2,Yes,ZnO,Zn,13,ZrO2,ZrO2,87,NA,NA,NA,NA,44.3,NA,603,50,3,24.00,0.1,11,81.1,8.92,0.7130
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,13%ZnO-ZrO2,Yes,ZnO,Zn,13,ZrO2,ZrO2,87,NA,NA,NA,NA,44.3,NA,613,50,3,24.00,0.1,12.3,75,9.23,0.7373
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,13%ZnO-ZrO2,Yes,ZnO,Zn,13,ZrO2,ZrO2,87,NA,NA,NA,NA,44.3,NA,633,50,3,24.00,0.1,14.8,53,7.84,0.6269
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,13%ZnO-ZrO2,Yes,ZnO,Zn,13,ZrO2,ZrO2,87,NA,NA,NA,NA,44.3,NA,653,50,3,24.00,0.1,17.2,24.9,4.28,0.3423
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,13%ZnO-ZrO2,Yes,ZnO,Zn,13,ZrO2,ZrO2,87,NA,NA,NA,NA,44.3,NA,473,50,4,24.00,0.1,0.3,100,0.30,0.0192
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,13%ZnO-ZrO2,Yes,ZnO,Zn,13,ZrO2,ZrO2,87,NA,NA,NA,NA,44.3,NA,493,50,4,24.00,0.1,0.7,100,0.70,0.0448
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,13%ZnO-ZrO2,Yes,ZnO,Zn,13,ZrO2,ZrO2,87,NA,NA,NA,NA,44.3,NA,513,50,4,24.00,0.1,1.3,99.1,1.29,0.0824
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,13%ZnO-ZrO2,Yes,ZnO,Zn,13,ZrO2,ZrO2,87,NA,NA,NA,NA,44.3,NA,533,50,4,24.00,0.1,2.3,96.9,2.23,0.1425
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,13%ZnO-ZrO2,Yes,ZnO,Zn,13,ZrO2,ZrO2,87,NA,NA,NA,NA,44.3,NA,553,50,4,24.00,0.1,5.4,96,5.18,0.3314
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,13%ZnO-ZrO2,Yes,ZnO,Zn,13,ZrO2,ZrO2,87,NA,NA,NA,NA,44.3,NA,573,50,4,24.00,0.1,7.5,93,6.98,0.4460
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,13%ZnO-ZrO2,Yes,ZnO,Zn,13,ZrO2,ZrO2,87,NA,NA,NA,NA,44.3,NA,603,50,4,24.00,0.1,12.6,88.1,11.10,0.7097
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,13%ZnO-ZrO2,Yes,ZnO,Zn,13,ZrO2,ZrO2,87,NA,NA,NA,NA,44.3,NA,613,50,4,24.00,0.1,14.2,80.2,11.39,0.7281
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,13%ZnO-ZrO2,Yes,ZnO,Zn,13,ZrO2,ZrO2,87,NA,NA,NA,NA,44.3,NA,633,50,4,24.00,0.1,16.8,60,10.08,0.6445
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,13%ZnO-ZrO2,Yes,ZnO,Zn,13,ZrO2,ZrO2,87,NA,NA,NA,NA,44.3,NA,653,50,4,24.00,0.1,18.8,36.2,6.81,0.4351
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,13%ZnO-ZrO2,Yes,ZnO,Zn,13,ZrO2,ZrO2,87,NA,NA,NA,NA,44.3,NA,588,50,4,24.00,0.1,10,91.1,9.11,0.5825
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,13%ZnO-ZrO2,Yes,ZnO,Zn,13,ZrO2,ZrO2,87,NA,NA,NA,NA,44.3,NA,603,10,3,24.00,0.1,4,63.8,2.55,0.2040
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,13%ZnO-ZrO2,Yes,ZnO,Zn,13,ZrO2,ZrO2,87,NA,NA,NA,NA,44.3,NA,603,20,3,24.00,0.1,6.2,74,4.59,0.3667
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,13%ZnO-ZrO2,Yes,ZnO,Zn,13,ZrO2,ZrO2,87,NA,NA,NA,NA,44.3,NA,603,30,3,24.00,0.1,8.1,78.7,6.37,0.5095
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,13%ZnO-ZrO2,Yes,ZnO,Zn,13,ZrO2,ZrO2,87,NA,NA,NA,NA,44.3,NA,603,40,3,24.00,0.1,9.6,81,7.78,0.6215
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,13%ZnO-ZrO2,Yes,ZnO,Zn,13,ZrO2,ZrO2,87,NA,NA,NA,NA,44.3,NA,603,20,2,24.00,0.1,4.6,72.1,3.32,0.3534
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,13%ZnO-ZrO2,Yes,ZnO,Zn,13,ZrO2,ZrO2,87,NA,NA,NA,NA,44.3,NA,603,20,3,24.00,0.1,6.2,74.2,4.60,0.3677
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,13%ZnO-ZrO2,Yes,ZnO,Zn,13,ZrO2,ZrO2,87,NA,NA,NA,NA,44.3,NA,603,20,4,24.00,0.1,7.5,77,5.78,0.3692
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,13%ZnO-ZrO2,Yes,ZnO,Zn,13,ZrO2,ZrO2,87,NA,NA,NA,NA,44.3,NA,603,20,3,6.00,0.1,8.9,44.7,3.98,0.0795
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,13%ZnO-ZrO2,Yes,ZnO,Zn,13,ZrO2,ZrO2,87,NA,NA,NA,NA,44.3,NA,603,20,3,15.00,0.1,7.4,60.8,4.50,0.2247
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,13%ZnO-ZrO2,Yes,ZnO,Zn,13,ZrO2,ZrO2,87,NA,NA,NA,NA,44.3,NA,603,20,3,24.00,0.1,6.3,74.2,4.67,0.3736
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,13%ZnO-ZrO2,Yes,ZnO,Zn,13,ZrO2,ZrO2,87,NA,NA,NA,NA,44.3,NA,603,20,3,33.00,0.1,5.7,78,4.45,0.4886
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,13%ZnO/ZrO2 ,Yes,ZnO,Zn,13,ZrO2,ZrO2,87,NA,NA,NA,NA,44.3,NA,573,20,3,24.00,0.1,1.4,70,0.98,0.0783
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,ZnO+ZrO2-500-24h,Yes,ZnO,Zn,13,ZrO2,ZrO2,87,NA,NA,NA,NA,44.3,NA,573,20,3,24.00,0.1,1.5,53,0.80,0.0635
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,ZnO+ZrO2-500-3h ,Yes,ZnO,Zn,13,ZrO2,ZrO2,87,NA,NA,NA,NA,44.3,NA,573,20,3,24.00,0.1,1.5,39,0.59,0.0468
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,ZnO+ZrO2(13:87) ,Yes,ZnO,Zn,13,ZrO2,ZrO2,87,NA,NA,NA,NA,NA,NA,573,20,3,24.00,0.1,1.6,25,0.40,0.0320
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,ZrO2 ,Yes,NA,NA,NA,ZrO2,ZrO2,100,NA,NA,NA,NA,38.2,NA,593,50,3,24.00,0.1,0.8,11.9,0.10,0.0076
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,5%ZnO-ZrO2 ,Yes,ZnO,Zn,5,ZrO2,ZrO2,95,NA,NA,NA,NA,NA,NA,593,50,3,24.00,0.1,6.4,64.6,4.13,0.3304
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,10%ZnO-ZrO2,Yes,ZnO,Zn,10,ZrO2,ZrO2,90,NA,NA,NA,NA,NA,NA,593,50,3,24.00,0.1,8.9,83.1,7.40,0.5911
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,20%ZnO-ZrO2,Yes,ZnO,Zn,20,ZrO2,ZrO2,80,NA,NA,NA,NA,NA,NA,593,50,3,24.00,0.1,9.9,83.8,8.30,0.6630
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,25%ZnO-ZrO2,Yes,ZnO,Zn,25,ZrO2,ZrO2,75,NA,NA,NA,NA,NA,NA,593,50,3,24.00,0.1,9.2,82.7,7.61,0.6081
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,30%ZnO-ZrO2,Yes,ZnO,Zn,30,ZrO2,ZrO2,70,NA,NA,NA,NA,NA,NA,593,50,3,24.00,0.1,8.6,81.9,7.04,0.5629
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,33%ZnO-ZrO2,Yes,ZnO,Zn,33,ZrO2,ZrO2,67,NA,NA,NA,NA,NA,NA,593,50,3,24.00,0.1,7.8,80,6.24,0.4987
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,38%ZnO-ZrO2,Yes,ZnO,Zn,38,ZrO2,ZrO2,62,NA,NA,NA,NA,NA,NA,593,50,3,24.00,0.1,6.9,76.2,5.26,0.4202
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,50%ZnO-ZrO2,Yes,ZnO,Zn,50,ZrO2,ZrO2,50,NA,NA,NA,NA,NA,NA,593,50,3,24.00,0.1,4.6,71.9,3.31,0.2643
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,67%ZnO-ZrO2,Yes,ZnO,Zn,67,ZrO2,ZrO2,33,NA,NA,NA,NA,NA,NA,593,50,3,24.00,0.1,3.1,63.1,1.96,0.1563
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,80%ZnO-ZrO2,Yes,ZnO,Zn,80,ZrO2,ZrO2,20,NA,NA,NA,NA,NA,NA,593,50,3,24.00,0.1,2.6,50,1.30,0.1039
+Wang et al. (2017),https://doi.org/10.1126/sciadv.1701290,ZnO,Yes,ZnO,Zn,100,NA,NA,NA,NA,NA,NA,NA,12.1,NA,593,50,3,24.00,0.1,2.2,26.2,0.58,0.0461
+Wang et al. (2017b),https://doi.org/10.1039/C6RA28305E,CZ-350,Yes,CuO,Cu,50,NA,NA,NA,ZrO2,50,NA,NA,56.8,NA,493,30,3.1,6.20,1,4.6,41.3,1.8998,0.0383
+Wang et al. (2017b),https://doi.org/10.1039/C6RA28305E,CZ-450,Yes,CuO,Cu,50,NA,NA,NA,ZrO2,50,NA,NA,48.4,NA,493,30,3.1,6.20,1,4.2,53.9,2.2638,0.0456
+Wang et al. (2017b),https://doi.org/10.1039/C6RA28305E,CZ-550,Yes,CuO,Cu,50,NA,NA,NA,ZrO2,50,NA,NA,41.9,NA,493,30,3.1,6.20,1,2.3,56.4,1.2972,0.0261
+Wang et al. (2017b),https://doi.org/10.1039/C6RA28305E,CZ-650,Yes,CuO,Cu,50,NA,NA,NA,ZrO2,50,NA,NA,34.3,NA,493,30,3.1,6.20,1,1.1,32.9,0.3619,0.0073
+Wang et al. (2020),https://doi.org/10.1016/j.mcat.2020.111105,2% CuO/Ce0.4Zr0.6O2,Yes,CuO,Cu,3.6,NA,NA,NA,CeO2,38.6,ZrO2,57.8,95.9,5.40,473,30,3,NA,0.5,1.2,14.6,0.1752,NA
+Wang et al. (2020),https://doi.org/10.1016/j.mcat.2020.111105,2% CuO/Ce0.4Zr0.6O2,Yes,CuO,Cu,3.6,NA,NA,NA,CeO2,38.6,ZrO2,57.8,95.9,5.40,493,30,3,NA,0.5,2,12.7,0.254,NA
+Wang et al. (2020),https://doi.org/10.1016/j.mcat.2020.111105,2% CuO/Ce0.4Zr0.6O2,Yes,CuO,Cu,3.6,NA,NA,NA,CeO2,38.6,ZrO2,57.8,95.9,5.40,513,30,3,NA,0.5,2.7,13.3,0.3591,NA
+Wang et al. (2020),https://doi.org/10.1016/j.mcat.2020.111105,2% CuO/Ce0.4Zr0.6O2,Yes,CuO,Cu,3.6,NA,NA,NA,CeO2,38.6,ZrO2,57.8,95.9,5.40,533,30,3,NA,0.5,3.1,12.2,0.3782,NA
+Wang et al. (2020),https://doi.org/10.1016/j.mcat.2020.111105,2% CuO/Ce0.4Zr0.6O2,Yes,CuO,Cu,3.6,NA,NA,NA,CeO2,38.6,ZrO2,57.8,95.9,5.40,553,30,3,NA,0.5,4.7,9.9,0.4653,NA
+Wang et al. (2020),https://doi.org/10.1016/j.mcat.2020.111105,2% CuO/Ce0.4Zr0.6O2,Yes,CuO,Cu,3.6,NA,NA,NA,CeO2,38.6,ZrO2,57.8,95.9,5.40,573,30,3,NA,0.5,6.5,3.6,0.234,NA
+Wang et al. (2020),https://doi.org/10.1016/j.mcat.2020.111106,5% CuO/Ce0.4Zr0.6O2,Yes,CuO,Cu,8.6,NA,NA,NA,CeO2,36.5,ZrO2,54.9,75.9,6.90,473,30,3,NA,0.5,1.8,64.6,1.1628,NA
+Wang et al. (2020),https://doi.org/10.1016/j.mcat.2020.111106,5% CuO/Ce0.4Zr0.6O2,Yes,CuO,Cu,8.6,NA,NA,NA,CeO2,36.5,ZrO2,54.9,75.9,6.90,493,30,3,NA,0.5,2.4,60.5,1.452,NA
+Wang et al. (2020),https://doi.org/10.1016/j.mcat.2020.111106,5% CuO/Ce0.4Zr0.6O2,Yes,CuO,Cu,8.6,NA,NA,NA,CeO2,36.5,ZrO2,54.9,75.9,6.90,513,30,3,NA,0.5,3.5,55.5,1.9425,NA
+Wang et al. (2020),https://doi.org/10.1016/j.mcat.2020.111106,5% CuO/Ce0.4Zr0.6O2,Yes,CuO,Cu,8.6,NA,NA,NA,CeO2,36.5,ZrO2,54.9,75.9,6.90,533,30,3,NA,0.5,5,53.3,2.665,NA
+Wang et al. (2020),https://doi.org/10.1016/j.mcat.2020.111106,5% CuO/Ce0.4Zr0.6O2,Yes,CuO,Cu,8.6,NA,NA,NA,CeO2,36.5,ZrO2,54.9,75.9,6.90,553,30,3,NA,0.5,5.5,14.4,0.792,NA
+Wang et al. (2020),https://doi.org/10.1016/j.mcat.2020.111106,5% CuO/Ce0.4Zr0.6O2,Yes,CuO,Cu,8.6,NA,NA,NA,CeO2,36.5,ZrO2,54.9,75.9,6.90,573,30,3,NA,0.5,6.8,5.8,0.3944,NA
+Wang et al. (2020),https://doi.org/10.1016/j.mcat.2020.111107,15% CuO/Ce0.4Zr0.6O2,Yes,CuO,Cu,24,NA,NA,NA,CeO2,30.4,ZrO2,45.6,70.3,7.40,473,30,3,NA,0.5,2.6,82,2.132,NA
+Wang et al. (2020),https://doi.org/10.1016/j.mcat.2020.111107,15% CuO/Ce0.4Zr0.6O2,Yes,CuO,Cu,24,NA,NA,NA,CeO2,30.4,ZrO2,45.6,70.3,7.40,493,30,3,NA,0.5,3.2,73,2.336,NA
+Wang et al. (2020),https://doi.org/10.1016/j.mcat.2020.111107,15% CuO/Ce0.4Zr0.6O2,Yes,CuO,Cu,24,NA,NA,NA,CeO2,30.4,ZrO2,45.6,70.3,7.40,513,30,3,NA,0.5,4.3,67.7,2.9111,NA
+Wang et al. (2020),https://doi.org/10.1016/j.mcat.2020.111107,15% CuO/Ce0.4Zr0.6O2,Yes,CuO,Cu,24,NA,NA,NA,CeO2,30.4,ZrO2,45.6,70.3,7.40,533,30,3,NA,0.5,5.7,60.5,3.4485,NA
+Wang et al. (2020),https://doi.org/10.1016/j.mcat.2020.111107,15% CuO/Ce0.4Zr0.6O2,Yes,CuO,Cu,24,NA,NA,NA,CeO2,30.4,ZrO2,45.6,70.3,7.40,553,30,3,NA,0.5,7.2,22.1,1.5912,NA
+Wang et al. (2020),https://doi.org/10.1016/j.mcat.2020.111107,15% CuO/Ce0.4Zr0.6O2,Yes,CuO,Cu,24,NA,NA,NA,CeO2,30.4,ZrO2,45.6,70.3,7.40,573,30,3,NA,0.5,8.7,6.1,0.5307,NA
+Wang et al. (2020),https://doi.org/10.1016/j.mcat.2020.111108,25% CuO/Ce0.4Zr0.6O2,Yes,CuO,Cu,37.4,NA,NA,NA,CeO2,25,ZrO2,37.6,60.9,9.20,473,30,3,NA,0.5,4.2,84.3,3.5406,NA
+Wang et al. (2020),https://doi.org/10.1016/j.mcat.2020.111108,25% CuO/Ce0.4Zr0.6O2,Yes,CuO,Cu,37.4,NA,NA,NA,CeO2,25,ZrO2,37.6,60.9,9.20,493,30,3,NA,0.5,5.7,75.7,4.3149,NA
+Wang et al. (2020),https://doi.org/10.1016/j.mcat.2020.111108,25% CuO/Ce0.4Zr0.6O2,Yes,CuO,Cu,37.4,NA,NA,NA,CeO2,25,ZrO2,37.6,60.9,9.20,513,30,3,NA,0.5,5.8,68.8,3.9904,NA
+Wang et al. (2020),https://doi.org/10.1016/j.mcat.2020.111108,25% CuO/Ce0.4Zr0.6O2,Yes,CuO,Cu,37.4,NA,NA,NA,CeO2,25,ZrO2,37.6,60.9,9.20,533,30,3,NA,0.5,7.7,66,5.082,NA
+Wang et al. (2020),https://doi.org/10.1016/j.mcat.2020.111108,25% CuO/Ce0.4Zr0.6O2,Yes,CuO,Cu,37.4,NA,NA,NA,CeO2,25,ZrO2,37.6,60.9,9.20,553,30,3,NA,0.5,9.8,32.6,3.1948,NA
+Wang et al. (2020),https://doi.org/10.1016/j.mcat.2020.111108,25% CuO/Ce0.4Zr0.6O2,Yes,CuO,Cu,37.4,NA,NA,NA,CeO2,25,ZrO2,37.6,60.9,9.20,573,30,3,NA,0.5,14.6,9.1,1.3286,NA
+Wang et al. (2020),https://doi.org/10.1016/j.mcat.2020.111109,35% CuO/Ce0.4Zr0.6O2,Yes,CuO,Cu,49.1,NA,NA,NA,CeO2,20.3,ZrO2,30.6,117.6,6.10,473,30,3,NA,0.5,5.4,98.1,5.2974,NA
+Wang et al. (2020),https://doi.org/10.1016/j.mcat.2020.111109,35% CuO/Ce0.4Zr0.6O2,Yes,CuO,Cu,49.1,NA,NA,NA,CeO2,20.3,ZrO2,30.6,117.6,6.10,493,30,3,NA,0.5,7,96.4,6.748,NA
+Wang et al. (2020),https://doi.org/10.1016/j.mcat.2020.111109,35% CuO/Ce0.4Zr0.6O2,Yes,CuO,Cu,49.1,NA,NA,NA,CeO2,20.3,ZrO2,30.6,117.6,6.10,513,30,3,NA,0.5,9.2,94.2,8.6664,NA
+Wang et al. (2020),https://doi.org/10.1016/j.mcat.2020.111109,35% CuO/Ce0.4Zr0.6O2,Yes,CuO,Cu,49.1,NA,NA,NA,CeO2,20.3,ZrO2,30.6,117.6,6.10,533,30,3,NA,0.5,9.9,85.6,8.4744,NA
+Wang et al. (2020),https://doi.org/10.1016/j.mcat.2020.111109,35% CuO/Ce0.4Zr0.6O2,Yes,CuO,Cu,49.1,NA,NA,NA,CeO2,20.3,ZrO2,30.6,117.6,6.10,553,30,3,NA,0.5,13.2,72.1,9.5172,NA
+Wang et al. (2020),https://doi.org/10.1016/j.mcat.2020.111109,35% CuO/Ce0.4Zr0.6O2,Yes,CuO,Cu,49.1,NA,NA,NA,CeO2,20.3,ZrO2,30.6,117.6,6.10,573,30,3,NA,0.5,15.6,40.6,6.3336,NA
+Wang et al. (2020),https://doi.org/10.1016/j.mcat.2020.111110,40% CuO/Ce0.4Zr0.6O2,Yes,CuO,Cu,54.5,NA,NA,NA,CeO2,18.2,ZrO2,27.3,53.9,11.90,473,30,3,NA,0.5,3.4,73.8,2.5092,NA
+Wang et al. (2020),https://doi.org/10.1016/j.mcat.2020.111110,40% CuO/Ce0.4Zr0.6O2,Yes,CuO,Cu,54.5,NA,NA,NA,CeO2,18.2,ZrO2,27.3,53.9,11.90,493,30,3,NA,0.5,4.1,71.5,2.9315,NA
+Wang et al. (2020),https://doi.org/10.1016/j.mcat.2020.111110,40% CuO/Ce0.4Zr0.6O2,Yes,CuO,Cu,54.5,NA,NA,NA,CeO2,18.2,ZrO2,27.3,53.9,11.90,513,30,3,NA,0.5,5.8,65.2,3.7816,NA
+Wang et al. (2020),https://doi.org/10.1016/j.mcat.2020.111110,40% CuO/Ce0.4Zr0.6O2,Yes,CuO,Cu,54.5,NA,NA,NA,CeO2,18.2,ZrO2,27.3,53.9,11.90,533,30,3,NA,0.5,8.2,51.9,4.2558,NA
+Wang et al. (2020),https://doi.org/10.1016/j.mcat.2020.111110,40% CuO/Ce0.4Zr0.6O2,Yes,CuO,Cu,54.5,NA,NA,NA,CeO2,18.2,ZrO2,27.3,53.9,11.90,553,30,3,NA,0.5,9.7,20.7,2.0079,NA
+Wang et al. (2020),https://doi.org/10.1016/j.mcat.2020.111110,40% CuO/Ce0.4Zr0.6O2,Yes,CuO,Cu,54.5,NA,NA,NA,CeO2,18.2,ZrO2,27.3,53.9,11.90,573,30,3,NA,0.5,13.3,3,0.399,NA
+Wu et al. (2017),https://doi.org/10.1021/acs.iecr.7b01464,CZAcp.,Yes,CuO,Cu,63.4,ZnO,ZnO,28.1,Al2O3,8.5,NA,NA,NA,NA,513,30,3,0.87,5.5,52.7,69.4,36.57,0.1063
+Wu et al. (2017),https://doi.org/10.1021/acs.iecr.7b01464,CZA400,Yes,CuO,Cu,63.4,ZnO,ZnO,28.1,Al2O3,8.5,NA,NA,NA,NA,513,30,3,0.87,5.5,50,64.2,32.10,0.0933
+Wu et al. (2017),https://doi.org/10.1021/acs.iecr.7b01464,CZA400,Yes,CuO,Cu,63.4,ZnO,ZnO,28.1,Al2O3,8.5,NA,NA,NA,NA,493,30,3,0.87,5.5,33.9,67.2,22.78,0.0662
+Wu et al. (2017),https://doi.org/10.1021/acs.iecr.7b01464,CZA400,Yes,CuO,Cu,63.4,ZnO,ZnO,28.1,Al2O3,8.5,NA,NA,NA,NA,503,30,3,0.87,5.5,42.1,65.1,27.41,0.0797
+Wu et al. (2017),https://doi.org/10.1021/acs.iecr.7b01464,CZA400,Yes,CuO,Cu,63.4,ZnO,ZnO,28.1,Al2O3,8.5,NA,NA,NA,NA,523,30,3,0.87,5.5,54,63.3,34.18,0.0994
+Wu et al. (2017),https://doi.org/10.1021/acs.iecr.7b01464,CZA400,Yes,CuO,Cu,63.4,ZnO,ZnO,28.1,Al2O3,8.5,NA,NA,NA,NA,533,30,3,0.87,5.5,58.4,62.1,36.27,0.1054
+Wu et al. (2017),https://doi.org/10.1021/acs.iecr.7b01464,CZA400,Yes,CuO,Cu,63.4,ZnO,ZnO,28.1,Al2O3,8.5,NA,NA,NA,NA,513,20,3,0.87,5.5,39.9,53.9,21.51,0.0625
+Wu et al. (2017),https://doi.org/10.1021/acs.iecr.7b01464,CZA400,Yes,CuO,Cu,63.4,ZnO,ZnO,28.1,Al2O3,8.5,NA,NA,NA,NA,513,40,3,0.87,5.5,59.6,73.4,43.75,0.1272
+Wu et al. (2017),https://doi.org/10.1021/acs.iecr.7b01464,CZA-300,Yes,CuO,Cu,63.4,ZnO,ZnO,28.1,Al2O3,8.5,NA,NA,NA,NA,513,30,3,0.87,5.5,40.1,58.1,23.30,0.0677
+Wu et al. (2017),https://doi.org/10.1021/acs.iecr.7b01464,CZA-300,Yes,CuO,Cu,63.4,ZnO,ZnO,28.1,Al2O3,8.5,NA,NA,NA,NA,493,30,3,0.87,5.5,24,61.9,14.86,0.0432
+Wu et al. (2017),https://doi.org/10.1021/acs.iecr.7b01464,CZA-300,Yes,CuO,Cu,63.4,ZnO,ZnO,28.1,Al2O3,8.5,NA,NA,NA,NA,503,30,3,0.87,5.5,32.7,59.9,19.59,0.0569
+Wu et al. (2017),https://doi.org/10.1021/acs.iecr.7b01464,CZA-300,Yes,CuO,Cu,63.4,ZnO,ZnO,28.1,Al2O3,8.5,NA,NA,NA,NA,523,30,3,0.87,5.5,46.1,57.5,26.51,0.0771
+Wu et al. (2017),https://doi.org/10.1021/acs.iecr.7b01464,CZA-300,Yes,CuO,Cu,63.4,ZnO,ZnO,28.1,Al2O3,8.5,NA,NA,NA,NA,533,30,3,0.87,5.5,53,57,30.21,0.0878
+Wu et al. (2017),https://doi.org/10.1021/acs.iecr.7b01464,CZA-300,Yes,CuO,Cu,63.4,ZnO,ZnO,28.1,Al2O3,8.5,NA,NA,NA,NA,513,20,3,0.87,5.5,30.3,51.7,15.67,0.0455
+Wu et al. (2017),https://doi.org/10.1021/acs.iecr.7b01464,CZA-300,Yes,CuO,Cu,63.4,ZnO,ZnO,28.1,Al2O3,8.5,NA,NA,NA,NA,513,40,3,0.87,5.5,51.4,71.7,36.85,0.1071
+Wu et al. (2017),https://doi.org/10.1021/acs.iecr.7b01464,CZA200,Yes,CuO,Cu,63.4,ZnO,ZnO,28.1,Al2O3,8.5,NA,NA,NA,NA,513,30,3,0.87,5.5,49.3,50.7,25.00,0.0727
+Wu et al. (2017),https://doi.org/10.1021/acs.iecr.7b01464,CZA200,Yes,CuO,Cu,63.4,ZnO,ZnO,28.1,Al2O3,8.5,NA,NA,NA,NA,493,30,3,0.87,5.5,18.6,54.8,10.19,0.0296
+Wu et al. (2017),https://doi.org/10.1021/acs.iecr.7b01464,CZA200,Yes,CuO,Cu,63.4,ZnO,ZnO,28.1,Al2O3,8.5,NA,NA,NA,NA,503,30,3,0.87,5.5,25.2,51.8,13.05,0.0379
+Wu et al. (2017),https://doi.org/10.1021/acs.iecr.7b01464,CZA200,Yes,CuO,Cu,63.4,ZnO,ZnO,28.1,Al2O3,8.5,NA,NA,NA,NA,523,30,3,0.87,5.5,34.9,48.6,16.96,0.0493
+Wu et al. (2017),https://doi.org/10.1021/acs.iecr.7b01464,CZA200,Yes,CuO,Cu,63.4,ZnO,ZnO,28.1,Al2O3,8.5,NA,NA,NA,NA,533,30,3,0.87,5.5,39.7,47.7,18.94,0.0551
+Wu et al. (2017),https://doi.org/10.1021/acs.iecr.7b01464,CZA200,Yes,CuO,Cu,63.4,ZnO,ZnO,28.1,Al2O3,8.5,NA,NA,NA,NA,513,20,3,0.87,5.5,24.4,45,10.98,0.0319
+Wu et al. (2017),https://doi.org/10.1021/acs.iecr.7b01464,CZA200,Yes,CuO,Cu,63.4,ZnO,ZnO,28.1,Al2O3,8.5,NA,NA,NA,NA,513,40,3,0.87,5.5,41.3,62.8,25.94,0.0754
+X. Ma et al. 2023,https://doi.org/10.1016/j.fuel.2023.128376 ,5% Zn-CdZrOx,No,CdO,CdO,NA,ZrO2,ZrO2,NA,ZnO,NA,NA,NA,25.8,5.16,593,50,4,23.04,0.1,8.2,80,6.56,0.4026
+X. Ma et al. 2023,https://doi.org/10.1016/j.fuel.2023.128376 ,5% Zn-CdZrOx,No,CdO,CdO,NA,ZrO2,ZrO2,NA,ZnO,NA,NA,NA,25.8,5.16,573,50,4,23.04,0.1,6,82,4.92,0.3020
+X. Ma et al. 2023,https://doi.org/10.1016/j.fuel.2023.128376 ,5% Zn-CdZrOx,No,CdO,CdO,NA,ZrO2,ZrO2,NA,ZnO,NA,NA,NA,25.8,5.16,613,50,4,23.04,0.1,9,48,4.32,0.2652
+X. Ma et al. 2023,https://doi.org/10.1016/j.fuel.2023.128376 ,5% Zn-CdZrOx,No,CdO,CdO,NA,ZrO2,ZrO2,NA,ZnO,NA,NA,NA,25.8,5.16,633,50,4,23.04,0.1,9.8,36,3.53,0.2165
+X. Ma et al. 2023,https://doi.org/10.1016/j.fuel.2023.128376 ,13% Zn-CdZrOx,No,CdO,CdO,NA,ZrO2,ZrO2,NA,ZnO,NA,NA,NA,20.32,6.58,593,50,4,23.04,0.1,3.8,92,3.496,0.2146
+X. Ma et al. 2023,https://doi.org/10.1016/j.fuel.2023.128376 ,5% Zn-CdZrOx,No,CdO,CdO,NA,ZrO2,ZrO2,NA,ZnO,NA,NA,NA,25.8,5.16,553,50,4,23.04,0.1,4,86,3.44,0.2111
+X. Ma et al. 2023,https://doi.org/10.1016/j.fuel.2023.128376 ,0% Zn-CdZrOx,No,CdO,CdO,NA,ZrO2,ZrO2,NA,NA,NA,NA,NA,30.64,4.79,593,50,4,23.04,0.1,4.4,76,3.34,0.2053
+X. Ma et al. 2023,https://doi.org/10.1016/j.fuel.2023.128376 ,13% Zn-CdZrOx,No,CdO,CdO,NA,ZrO2,ZrO2,NA,ZnO,NA,NA,NA,20.32,6.58,573,50,4,23.04,0.1,3,96,2.88,0.1768
+X. Ma et al. 2023,https://doi.org/10.1016/j.fuel.2023.128376 ,0% Zn-CdZrOx,No,CdO,CdO,NA,ZrO2,ZrO2,NA,NA,NA,NA,NA,30.64,4.79,613,50,4,23.04,0.1,5,50,2.50,0.1534
+X. Ma et al. 2023,https://doi.org/10.1016/j.fuel.2023.128376 ,13% Zn-CdZrOx,No,CdO,CdO,NA,ZrO2,ZrO2,NA,ZnO,NA,NA,NA,20.32,6.58,613,50,4,23.04,0.1,4.4,50,2.2,0.1350
+X. Ma et al. 2023,https://doi.org/10.1016/j.fuel.2023.128376 ,13% Zn-CdZrOx,No,CdO,CdO,NA,ZrO2,ZrO2,NA,ZnO,NA,NA,NA,20.32,6.58,553,50,4,23.04,0.1,2,98,1.96,0.1203
+X. Ma et al. 2023,https://doi.org/10.1016/j.fuel.2023.128376 ,0% Zn-CdZrOx,No,CdO,CdO,NA,ZrO2,ZrO2,NA,NA,NA,NA,NA,30.64,4.79,573,50,4,23.04,0.1,2.2,86,1.89,0.1161
+X. Ma et al. 2023,https://doi.org/10.1016/j.fuel.2023.128376 ,13% Zn-CdZrOx,No,CdO,CdO,NA,ZrO2,ZrO2,NA,ZnO,NA,NA,NA,20.32,6.58,633,50,4,23.04,0.1,6,28,1.68,0.1031
+X. Ma et al. 2023,https://doi.org/10.1016/j.fuel.2023.128376 ,0% Zn-CdZrOx,No,CdO,CdO,NA,ZrO2,ZrO2,NA,NA,NA,NA,NA,30.64,4.79,633,50,4,23.04,0.1,7,20,1.40,0.0859
+X. Ma et al. 2023,https://doi.org/10.1016/j.fuel.2023.128376 ,0% Zn-CdZrOx,No,CdO,CdO,NA,ZrO2,ZrO2,NA,NA,NA,NA,NA,30.64,4.79,553,50,4,23.04,0.1,1,90,0.90,0.0552
+Xiao et al. (2017),https://doi.org/10.1016/j.cattod.2016.02.004,RHT-6,Yes,CuO,Cu,65,ZnO,ZnO,24,Al2O3,10,ZrO2,1,28,NA,463,50,3.00,3.00,NA,2.6,49.5,1.29,0.0129
+Xiao et al. (2017),https://doi.org/10.1016/j.cattod.2016.02.004,RHT-7,Yes,CuO,Cu,58,ZnO,ZnO,26,Al2O3,14,ZrO2,2,112,NA,463,50,3.00,3.00,NA,6.9,81.1,5.60,0.0559
+Xiao et al. (2017),https://doi.org/10.1016/j.cattod.2016.02.004,RHT-11,Yes,CuO,Cu,58,ZnO,ZnO,25,Al2O3,14,ZrO2,2,46,NA,463,50,3.00,3.00,NA,7.3,81.3,5.93,0.0593
+Xiao et al. (2017),https://doi.org/10.1016/j.cattod.2016.02.004,RHT-8,Yes,CuO,Cu,57,ZnO,ZnO,26,Al2O3,15,ZrO2,3,79,NA,463,50,3.00,3.00,NA,8.5,80.6,6.85,0.0684
+Xiao et al. (2017),https://doi.org/10.1016/j.cattod.2016.02.004,RHT-10,Yes,CuO,Cu,56,ZnO,ZnO,27,Al2O3,15,ZrO2,2,59,NA,463,50,3.00,3.00,NA,9,81.6,7.34,0.0734
+Xiao et al. (2017),https://doi.org/10.1016/j.cattod.2016.02.004,RHT-9,Yes,CuO,Cu,58,ZnO,ZnO,25,Al2O3,15,ZrO2,2,68,NA,463,50,3.00,3.00,NA,10.7,81.8,8.75,0.0874
+"Y. Shi, W. Su, X. Wei et al. 2023",https://doi.org/10.1016/j.jcis.2023.01.008,ZnO-In2O3-II,No,In2O3,In2O3,NA,ZnO,ZnO,NA,C,NA,NA,NA,NA,NA,623,30,3,33.00,0.1,12.4,68,8.43,0.9266
+"Y. Shi, W. Su, X. Wei et al. 2023",https://doi.org/10.1016/j.jcis.2023.01.008,ZnO-In2O3-II,No,In2O3,In2O3,NA,ZnO,ZnO,NA,C,NA,NA,NA,NA,NA,593,30,3,33.00,0.1,8.4,85,7.14,0.7846
+"Y. Shi, W. Su, X. Wei et al. 2023",https://doi.org/10.1016/j.jcis.2023.01.008,ZnO-In2O3-I,No,In2O3,In2O3,NA,ZnO,ZnO,NA,C,NA,NA,NA,NA,NA,593,30,3,33.00,0.1,8,84,6.72,0.7385
+"Y. Shi, W. Su, X. Wei et al. 2023",https://doi.org/10.1016/j.jcis.2023.01.008,ZnO-In2O3-I,No,In2O3,In2O3,NA,ZnO,ZnO,NA,C,NA,NA,NA,NA,NA,623,30,3,33.00,0.1,10.4,62,6.45,0.7086
+"Y. Shi, W. Su, X. Wei et al. 2023",https://doi.org/10.1016/j.jcis.2023.01.008,In2O3,Yes,In2O3,In2O3,100,NA,NA,NA,C,NA,NA,NA,NA,NA,593,30,3,33.00,0.1,8.2,78,6.40,0.7029
+"Y. Shi, W. Su, X. Wei et al. 2023",https://doi.org/10.1016/j.jcis.2023.01.008,In2O3,Yes,In2O3,In2O3,100,NA,NA,NA,C,NA,NA,NA,NA,NA,623,30,3,33.00,0.1,10.4,58,6.03,0.6629
+"Y. Shi, W. Su, X. Wei et al. 2023",https://doi.org/10.1016/j.jcis.2023.01.008,ZnO-In2O3-II,No,In2O3,In2O3,NA,ZnO,ZnO,NA,C,NA,NA,NA,NA,NA,563,30,3,33.00,0.1,6.4,94,6.02,0.6611
+"Y. Shi, W. Su, X. Wei et al. 2023",https://doi.org/10.1016/j.jcis.2023.01.008,ZnO-In2O3-I,No,In2O3,In2O3,NA,ZnO,ZnO,NA,C,NA,NA,NA,NA,NA,563,30,3,33.00,0.1,5.8,92,5.34,0.5864
+"Y. Shi, W. Su, X. Wei et al. 2023",https://doi.org/10.1016/j.jcis.2023.01.008,ZnO-In2O3-III,No,In2O3,In2O3,NA,ZnO,ZnO,NA,C,NA,NA,NA,NA,NA,623,30,3,33.00,0.1,8.4,62,5.21,0.5723
+"Y. Shi, W. Su, X. Wei et al. 2023",https://doi.org/10.1016/j.jcis.2023.01.008,In2O3,Yes,In2O3,In2O3,100,NA,NA,NA,C,NA,NA,NA,NA,NA,563,30,3,33.00,0.1,5.6,92,5.15,0.5662
+"Y. Shi, W. Su, X. Wei et al. 2023",https://doi.org/10.1016/j.jcis.2023.01.008,ZnO-In2O3-III,No,In2O3,In2O3,NA,ZnO,ZnO,NA,C,NA,NA,NA,NA,NA,593,30,3,33.00,0.1,6.2,82,5.08,0.5587
+"Y. Shi, W. Su, X. Wei et al. 2023",https://doi.org/10.1016/j.jcis.2023.01.008,ZnO-In2O3-III,No,In2O3,In2O3,NA,ZnO,ZnO,NA,C,NA,NA,NA,NA,NA,563,30,3,33.00,0.1,4.4,93,4.09,0.4497
+"Y. Shi, W. Su, X. Wei et al. 2023",https://doi.org/10.1016/j.jcis.2023.01.008,ZnO-In2O3-II,No,In2O3,In2O3,NA,ZnO,ZnO,NA,C,NA,NA,NA,NA,NA,533,30,3,33.00,0.1,3.2,96,3.07,0.3376
+"Y. Shi, W. Su, X. Wei et al. 2023",https://doi.org/10.1016/j.jcis.2023.01.008,ZnO-In2O3-III,No,In2O3,In2O3,NA,ZnO,ZnO,NA,C,NA,NA,NA,NA,NA,533,30,3,33.00,0.1,2.2,98,2.16,0.2369
+"Y. Shi, W. Su, X. Wei et al. 2023",https://doi.org/10.1016/j.jcis.2023.01.008,ZnO-In2O3-I,No,In2O3,In2O3,NA,ZnO,ZnO,NA,C,NA,NA,NA,NA,NA,533,30,3,33.00,0.1,2.2,95,2.09,0.2297
+"Y. Shi, W. Su, X. Wei et al. 2023",https://doi.org/10.1016/j.jcis.2023.01.008,In2O3,No,In2O3,In2O3,100,NA,NA,NA,C,NA,NA,NA,NA,NA,533,30,3,33.00,0.1,2.2,94,2.07,0.2273
+"Y. Shi, W. Su, X. Wei et al. 2023",https://doi.org/10.1016/j.jcis.2023.01.008,ZnO-In2O3-II,No,In2O3,In2O3,NA,ZnO,ZnO,NA,C,NA,NA,NA,NA,NA,503,30,3,33.00,0.1,1.4,97,1.36,0.1492
+"Y. Shi, W. Su, X. Wei et al. 2023",https://doi.org/10.1016/j.jcis.2023.01.008,In2O3,Yes,In2O3,In2O3,100,NA,NA,NA,C,NA,NA,NA,NA,NA,503,30,3,33.00,0.1,0.4,99,0.40,0.0435
+"Y. Shi, W. Su, X. Wei et al. 2023",https://doi.org/10.1016/j.jcis.2023.01.008,ZnO-In2O3-III,No,In2O3,In2O3,NA,ZnO,ZnO,NA,C,NA,NA,NA,NA,NA,503,30,3,33.00,0.1,0.4,98,0.39,0.0431
+"Y. Shi, W. Su, X. Wei et al. 2023",https://doi.org/10.1016/j.jcis.2023.01.008,ZnO-In2O3-I,No,In2O3,In2O3,NA,ZnO,ZnO,NA,C,NA,NA,NA,NA,NA,503,30,3,33.00,0.1,0.4,96,0.38,0.0422
+"Y. Shi, W. Su, X. Wei et al. 2023",https://doi.org/10.1016/j.jcis.2023.01.008,ZnO-In2O3-II,No,In2O3,In2O3,NA,ZnO,ZnO,NA,C,NA,NA,NA,NA,NA,473,30,3,33.00,0.1,0.2,100,0.20,0.0220
+"Y. Shi, W. Su, X. Wei et al. 2023",https://doi.org/10.1016/j.jcis.2023.01.008,ZnO-In2O3-I,No,In2O3,In2O3,NA,ZnO,ZnO,NA,C,NA,NA,NA,NA,NA,473,30,3,33.00,0.1,0,100,0.00,0.0000
+"Y. Shi, W. Su, X. Wei et al. 2023",https://doi.org/10.1016/j.jcis.2023.01.008,In2O3,Yes,In2O3,In2O3,100,NA,NA,NA,C,NA,NA,NA,NA,NA,473,30,3,33.00,0.1,0,100,0.00,0.0000
+"Y. Shi, W. Su, X. Wei et al. 2023",https://doi.org/10.1016/j.jcis.2023.01.008,ZnO-In2O3-III,No,In2O3,In2O3,NA,ZnO,ZnO,NA,C,NA,NA,NA,NA,NA,473,30,3,33.00,0.1,0,96,0.00,0.0000
+Y. Yang 2024,doi.org/10.1002/cphc.202300530,In1.67Cr0.33O3,Yes,In2O3,In2O3,83.5,Cr2O3,Cr2O3,16.5,NA,NA,NA,NA,93.2,8.60,513,20,3,3.60,0.3,3.2,NA,3.0,0.0358
+Y. Yang 2024,doi.org/10.1002/cphc.202300530,In1.67Cr0.33O3,Yes,In2O3,In2O3,83.5,Cr2O3,Cr2O3,16.5,NA,NA,NA,NA,93.2,8.60,533,20,3,3.60,0.3,4,NA,3.1,0.0367
+Y. Yang 2024,doi.org/10.1002/cphc.202300530,In1.67Cr0.33O3,Yes,In2O3,In2O3,83.5,Cr2O3,Cr2O3,16.5,NA,NA,NA,NA,93.2,8.60,553,20,3,3.60,0.3,6.2,NA,3.3,0.0396
+Y. Yang 2024,doi.org/10.1002/cphc.202300530,In1.67Cr0.33O3,Yes,In2O3,In2O3,83.5,Cr2O3,Cr2O3,16.5,NA,NA,NA,NA,93.2,8.60,573,20,3,3.60,0.3,8.8,NA,3.9,0.0469
+Y. Yang 2024,doi.org/10.1002/cphc.202300530,In1.25Cr0.75O3,Yes,In2O3,In2O3,62.5,Cr2O3,Cr2O3,37.5,NA,NA,NA,NA,106.9,7.50,513,20,3,3.60,0.3,3.9,NA,3.2,0.0383
+Y. Yang 2024,doi.org/10.1002/cphc.202300530,In1.25Cr0.75O3,Yes,In2O3,In2O3,62.5,Cr2O3,Cr2O3,37.5,NA,NA,NA,NA,106.9,7.50,533,20,3,3.60,0.3,5.4,NA,4.2,0.0498
+Y. Yang 2024,doi.org/10.1002/cphc.202300530,In1.25Cr0.75O3,Yes,In2O3,In2O3,62.5,Cr2O3,Cr2O3,37.5,NA,NA,NA,NA,106.9,7.50,553,20,3,3.60,0.3,7.7,NA,4.4,0.0527
+Y. Yang 2024,doi.org/10.1002/cphc.202300530,In1.25Cr0.75O3,Yes,In2O3,In2O3,62.5,Cr2O3,Cr2O3,37.5,NA,NA,NA,NA,106.9,7.50,573,20,3,3.60,0.3,12.3,NA,5.4,0.0651
+Y. Yang 2024,doi.org/10.1002/cphc.202300530,In2O3,Yes,In2O3,In2O3,100,Cr2O3,NA,NA,NA,NA,NA,NA,42.4,18.90,513,20,3,3.60,0.3,0.1,NA,0.3,0.0035
+Y. Yang 2024,doi.org/10.1002/cphc.202300530,In2O3,Yes,In2O3,In2O3,100,Cr2O3,NA,NA,NA,NA,NA,NA,42.4,18.90,553,20,3,3.60,0.3,3.1,NA,1.5,0.0182
+Y. Yang 2024,doi.org/10.1002/cphc.202300530,In2O3,Yes,In2O3,In2O3,100,Cr2O3,NA,NA,NA,NA,NA,NA,42.4,18.90,573,20,3,3.60,0.3,6.7,NA,1.1,0.0137
+Y. Yang 2024,doi.org/10.1002/cphc.202300530,In2O3,Yes,In2O3,In2O3,100,Cr2O3,NA,NA,NA,NA,NA,NA,42.4,18.90,533,20,3,3.60,0.3,2.7,NA,1.9,0.0227
+Y. Yang 2024,doi.org/10.1002/cphc.202300530,In0.72Cr1.28O3,Yes,In2O3,In2O3,36,Cr2O3,Cr2O3,64,NA,NA,NA,NA,27.5,20.40,513,20,3,3.60,0.3,2.2,NA,0.8,0.0093
+Y. Yang 2024,doi.org/10.1002/cphc.202300530,In0.72Cr1.28O3,Yes,In2O3,In2O3,36,Cr2O3,Cr2O3,64,NA,NA,NA,NA,27.5,20.40,533,20,3,3.60,0.3,3.4,NA,2.5,0.0303
+Y. Yang 2024,doi.org/10.1002/cphc.202300530,In0.72Cr1.28O3,Yes,In2O3,In2O3,36,Cr2O3,Cr2O3,64,NA,NA,NA,NA,27.5,20.40,553,20,3,3.60,0.3,5.3,NA,3.2,0.0386
+Y. Yang 2024,doi.org/10.1002/cphc.202300530,In0.72Cr1.28O3,Yes,In2O3,In2O3,36,Cr2O3,Cr2O3,64,NA,NA,NA,NA,27.5,20.40,573,20,3,3.60,0.3,7.9,NA,3.4,0.0412
+Y. Yang 2024,doi.org/10.1002/cphc.202300530,"In0.25Cr1,75O3",Yes,In2O4,In2O3,12.5,Cr2O3,Cr2O3,87.5,NA,NA,NA,NA,6.7,17.90,513,20,3,3.60,0.3,1.5,NA,1.5,0.0185
+Y. Yang 2024,doi.org/10.1002/cphc.202300530,"In0.25Cr1,75O3",Yes,In2O5,In2O3,12.5,Cr2O3,Cr2O3,87.5,NA,NA,NA,NA,6.7,17.90,533,20,3,3.60,0.3,1.8,NA,2.2,0.0262
+Y. Yang 2024,doi.org/10.1002/cphc.202300530,"In0.25Cr1,75O3",Yes,In2O6,In2O3,12.5,Cr2O3,Cr2O3,87.5,NA,NA,NA,NA,6.7,17.90,553,20,3,3.60,0.3,2.3,NA,2.7,0.0326
+Y. Yang 2024,doi.org/10.1002/cphc.202300530,"In0.25Cr1,75O3",Yes,In2O7,In2O3,12.5,Cr2O3,Cr2O3,87.5,NA,NA,NA,NA,6.7,17.90,573,20,3,3.60,0.3,3.5,NA,2.7,0.0323
+Y. Yang 2024,doi.org/10.1002/cphc.202300530,"In0.12Cr1,88O3",Yes,In2O8,In2O3,6,Cr2O3,Cr2O3,94,NA,NA,NA,NA,3.3,36.40,513,20,3,3.60,0.3,1.8,NA,1.4,0.0163
+Y. Yang 2024,doi.org/10.1002/cphc.202300530,"In0.12Cr1,88O3",Yes,In2O9,In2O3,6,Cr2O3,Cr2O3,94,NA,NA,NA,NA,3.3,36.40,533,20,3,3.60,0.3,3.3,NA,1.7,0.0198
+Y. Yang 2024,doi.org/10.1002/cphc.202300530,"In0.12Cr1,88O3",Yes,In2O10,In2O3,6,Cr2O3,Cr2O3,94,NA,NA,NA,NA,3.3,36.40,553,20,3,3.60,0.3,4.7,NA,2.1,0.0246
+Y. Yang 2024,doi.org/10.1002/cphc.202300530,"In0.12Cr1,88O3",Yes,In2O11,In2O3,6,Cr2O3,Cr2O3,94,NA,NA,NA,NA,3.3,36.40,573,20,3,3.60,0.3,7.3,NA,3.2,0.0390
+Yang et.al. (2006),https://doi.org/10.1016/j.cattod.2006.02.077,Zr-Cu/ZnO,Yes,CuO,Cu,44.8,ZnO,ZnO,42.5,ZrO2,12.7,NA,NA,62.2,10.40,483,50,3,NA,NA,17.31,55.29,9.570699,NA
+Yang et.al. (2006),https://doi.org/10.1016/j.cattod.2006.02.077,Zr-Cu/ZnO,Yes,CuO,Cu,44.8,ZnO,ZnO,42.5,ZrO2,12.7,NA,NA,62.2,10.40,503,50,3,NA,NA,23.46,58.88,13.813248,NA
+Yang et.al. (2006),https://doi.org/10.1016/j.cattod.2006.02.077,Zr-Cu/ZnO,Yes,CuO,Cu,44.8,ZnO,ZnO,42.5,ZrO2,12.7,NA,NA,62.2,10.40,543,50,3,NA,NA,27.91,51.12,14.267592,NA
+Yang et.al. (2006),https://doi.org/10.1016/j.cattod.2006.02.077,Zr-Cu/ZnO,Yes,CuO,Cu,44.8,ZnO,ZnO,42.5,ZrO2,12.7,NA,NA,62.2,10.40,523,50,3,NA,NA,26.41,60.45,15.964845,NA
+Yang et.al. (2006),https://doi.org/10.1016/j.cattod.2006.02.077,Cu/ZnO,Yes,CuO,Cu,62.4,ZnO,ZnO,37.6,NA,NA,NA,NA,48.6,11.40,483,50,3,NA,NA,9.67,55.18,5.335906,NA
+Yang et.al. (2006),https://doi.org/10.1016/j.cattod.2006.02.077,Cu/ZnO,Yes,CuO,Cu,62.4,ZnO,ZnO,37.6,NA,NA,NA,NA,48.6,11.40,503,50,3,NA,NA,13.61,49.08,6.679788,NA
+Yang et.al. (2006),https://doi.org/10.1016/j.cattod.2006.02.077,Cu/ZnO,Yes,CuO,Cu,62.4,ZnO,ZnO,37.6,NA,NA,NA,NA,48.6,11.40,523,50,3,NA,NA,16.03,47.53,7.619059,NA
+Yang et.al. (2006),https://doi.org/10.1016/j.cattod.2006.02.077,Cu/ZnO,Yes,CuO,Cu,62.4,ZnO,ZnO,37.6,NA,NA,NA,NA,48.6,11.40,543,50,3,NA,NA,20.47,40.12,8.212564,NA
+Zhang et al. (2006),https://doi.org/10.1016/j.enconman.2006.01.010,12Cu/Al2O3 ,Yes,CuO,Cu,18,NA,NA,NA,Al2O3,82,NA,NA,NA,NA,533,30,3,NA,NA,15.6,10.7,1.67,NA
+Zhang et al. (2006),https://doi.org/10.1016/j.enconman.2006.01.010,12Cu/Al2O3 ,Yes,CuO,Cu,18,NA,NA,NA,Al2O3,82,NA,NA,NA,NA,513,30,3,NA,NA,13.1,13.6,1.78,NA
+Zhang et al. (2006),https://doi.org/10.1016/j.enconman.2006.01.010,12Cu/Al2O3 ,Yes,CuO,Cu,18,NA,NA,NA,Al2O3,82,NA,NA,NA,NA,513,30,3,NA,NA,10.7,16.9,1.81,NA
+Zhang et al. (2006),https://doi.org/10.1016/j.enconman.2006.01.010,12Cu5Zr/-Al2O3 ,Yes,CuO,Cu,18.1,NA,NA,NA,Al2O3,78.5,ZrO2,3.4,NA,NA,513,30,3,NA,NA,11.3,16.7,1.89,NA
+Zhang et al. (2006),https://doi.org/10.1016/j.enconman.2006.01.010,12Cu5Zr/Al2O3 ,Yes,CuO,Cu,18.1,NA,NA,NA,Al2O3,78.5,ZrO2,3.4,NA,NA,533,30,3,NA,NA,15.9,12.1,1.92,NA
+Zhang et al. (2006),https://doi.org/10.1016/j.enconman.2006.01.010,12Cu15Zr/Al2O3 ,Yes,CuO,Cu,18.3,NA,NA,NA,Al2O3,71.3,ZrO2,10.4,NA,NA,533,30,3,NA,NA,16.1,13,2.09,NA
+Zhang et al. (2006),https://doi.org/10.1016/j.enconman.2006.01.010,12Cu5Zr/Al2O3 ,Yes,CuO,Cu,18.1,NA,NA,NA,Al2O3,78.5,ZrO2,3.4,NA,NA,513,30,3,NA,NA,13.9,15.1,2.10,NA
+Zhang et al. (2006),https://doi.org/10.1016/j.enconman.2006.01.010,12Cu15Zr/Al2O3 ,Yes,CuO,Cu,18.3,NA,NA,NA,Al2O3,71.3,ZrO2,10.4,NA,NA,513,30,3,NA,NA,14.1,16,2.26,NA
+Zhang et al. (2006),https://doi.org/10.1016/j.enconman.2006.01.010,12Cu15Zr/Al2O3 ,Yes,CuO,Cu,18.3,NA,NA,NA,Al2O3,71.3,ZrO2,10.4,NA,NA,513,30,3,NA,NA,12,18.9,2.27,NA
+Zhang et al. (2006),https://doi.org/10.1016/j.enconman.2006.01.010,12Cu10Zr/Al2O3,Yes,CuO,Cu,18.2,NA,NA,NA,Al2O3,74.9,ZrO2,6.9,NA,NA,513,30,3,NA,NA,11.3,20.3,2.29,NA
+Zhang et al. (2006),https://doi.org/10.1016/j.enconman.2006.01.010,12Cu10Zr/Al2O3 ,Yes,CuO,Cu,18.2,NA,NA,NA,Al2O3,74.9,ZrO2,6.9,NA,NA,533,30,3,NA,NA,16.5,14.6,2.41,NA
+Zhang et al. (2006),https://doi.org/10.1016/j.enconman.2006.01.010,12Cu10Zr/Al2O3 ,Yes,CuO,Cu,18.2,NA,NA,NA,Al2O3,74.9,ZrO2,6.9,NA,NA,513,30,3,NA,NA,14.3,17.1,2.45,NA
+Zhang et al. (2017),https://doi.org/10.1016/j.jcou.2016.11.015,CZA-2,Yes,CuO,Cu,21,ZnO,ZnO,9,Al2O3,70,NA,NA,126,5.17,493,40,3,1.46,0.7,11.8,56.2,6.63,0.0322
+Zhang et al. (2017),https://doi.org/10.1016/j.jcou.2016.11.015,CZA-2,Yes,CuO,Cu,21,ZnO,ZnO,9,Al2O3,70,NA,NA,126,5.17,513,40,3,1.46,0.7,15.6,51.3,8.00,0.0389
+Zhang et al. (2017),https://doi.org/10.1016/j.jcou.2016.11.015,CZA-3,Yes,CuO,Cu,30,ZnO,ZnO,13,Al2O3,57,NA,NA,90,5.67,493,40,3,1.46,0.7,12.7,58.7,7.45,0.0362
+Zhang et al. (2017),https://doi.org/10.1016/j.jcou.2016.11.015,CZA-3,Yes,CuO,Cu,30,ZnO,ZnO,13,Al2O3,57,NA,NA,90,5.67,513,40,3,1.46,0.7,17.4,54.2,9.43,0.0459
+Zhang et al. (2017),https://doi.org/10.1016/j.jcou.2016.11.015,CZA-1,Yes,CuO,Cu,10,ZnO,ZnO,4,Al2O3,86,NA,NA,141,6.25,493,40,3,1.46,0.7,10.4,35.9,3.73,0.0182
+Zhang et al. (2017),https://doi.org/10.1016/j.jcou.2016.11.015,CZA-1,Yes,CuO,Cu,10,ZnO,ZnO,4,Al2O3,86,NA,NA,141,6.25,513,40,3,1.46,0.7,14.1,33.6,4.74,0.0230
+Zhang et al. (2017),https://doi.org/10.1016/j.jcou.2016.11.015,CZA-4,Yes,CuO,Cu,38,ZnO,ZnO,16,Al2O3,46,NA,NA,93,7.01,493,40,3,1.46,0.7,15,58.9,8.84,0.0430
+Zhang et al. (2017),https://doi.org/10.1016/j.jcou.2016.11.015,CZA-4,Yes,CuO,Cu,38,ZnO,ZnO,16,Al2O3,46,NA,NA,93,7.01,513,40,3,1.46,0.7,18.3,56.5,10.34,0.0503
+Zhuang et al. (2010),https://doi.org/10.1016/S1872-5813(10)60041-2,SR-Cu/ZrO2 ,Yes,CuO,Cu,43,NA,NA,NA,ZrO2,57,NA,NA,166,4.02,523,20,3,NA,NA,13.8,62.05,8.56,NA
+Zhuang et al. (2010),https://doi.org/10.1016/S1872-5813(10)60041-2,IP-Cu/ZrO2 ,Yes,CuO,Cu,43,NA,NA,NA,ZrO2,57,NA,NA,93,4.20,523,20,3,NA,NA,13.6,83.48,11.35,NA
+Zhuang et al. (2010),https://doi.org/10.1016/S1872-5813(10)60041-2,FP-Cu/ZrO2 ,Yes,CuO,Cu,43,NA,NA,NA,ZrO2,57,NA,NA,179,5.02,523,20,3,NA,NA,3.2,59.57,1.91,NA
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,

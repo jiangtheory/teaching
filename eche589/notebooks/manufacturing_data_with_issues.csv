@@ -1,0 +1,23 @@
+Batch ID,Process Date,Reactor Temp C,Pressure bar,Flow Rate L min,Catalyst Type,Defect Count,Conversion Percent,Quality Notes
+B001,2026-08-01,310,5.2,12.5,A,0,94.2,normal run
+B002,2026-08-02,315,5.4,12.8,A,1,92.5,normal run
+B003,2026-08-03,,5.3,12.7,B,2,89.1,missing temperature
+B004,2026-08-04,999,5.5,13.0,B,8,45.0,temperature sensor error
+B005,2026-08-05,325,,13.1,A,1,91.8,missing pressure
+B006,2026-08-06,330,5.7,-2.0,A,6,61.4,invalid flow reading
+B007,2026-08-07,335,5.9,13.4,b,2,88.7,inconsistent catalyst label
+B008,2026-08-08,not recorded,6.1,13.7,B,3,85.9,text in numeric column
+B009,2026-08-09,345,25.0,14.0,C,9,39.8,pressure outlier
+B010,2026-08-10,350,6.4,14.2,C,,83.5,missing defect count
+B011,2026-08-11,355,6.5,,A,1,90.4,missing flow rate
+B012,2026-08-12,360,6.7,14.6,A,0,95.1,normal run
+B013,2026-08-13,365,6.8,14.8,B,2,,missing conversion
+B014,2026-08-14,370,7.0,15.0,B,2,86.2,normal run
+B015,2026-08-15,375,7.2,15.2,C,4,78.8,normal run
+B015,2026-08-15,375,7.2,15.2,C,4,78.8,duplicate record
+B017,2026-08-17,380,7.4,15.5,A,1,101.5,conversion above 100
+B018,2026-08-18,385,7.6,15.8,A,1,89.7,normal run
+B019,08/19/2026,390,7.8,16.0,B,2,85.4,inconsistent date format
+B020,2026-08-20,395,7.9,16.2,,3,82.1,missing catalyst
+B021,2026-08-21,400,8.0,16.5,B,4,79.5,normal run
+B022,2026-08-22,405,8.2,16.8,C,5,74.0,normal run
